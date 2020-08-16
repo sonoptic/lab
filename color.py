@@ -166,7 +166,7 @@ if __name__ == "__main__":
             avg_text = " AGV: {0:.2f}ms".format(avg_elapsed_ms)
 
         # Display fps
-        fps_text = "{0:.2f}ms".format(elapsed_ms)
+        fps_text = "{0:.2f}ms".format(1000 / elapsed_ms)
         draw_caption(im, (10, 30), fps_text + avg_text)
 
         # display
