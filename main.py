@@ -62,7 +62,7 @@ def do_nn(color_frame, depth_frame, _threshold = 0.5):
     color_image = np.asanyarray(color_frame.get_data())
     depth_image = np.asanyarray(depth_frame.get_data())
     input_buf = Image.fromarray(color_image)
-    im = cv2.cvtColor(color_image, cv2.COLOR_RGB2BGR)
+    im = color_image
 
     ans = engine.detect_with_image(
             input_buf,
