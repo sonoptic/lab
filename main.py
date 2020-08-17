@@ -1,5 +1,6 @@
-import argparse, os, io, imutils, threading, cv2, psutil, utils, colorsys
-import tornado.ioloop, tornado.web, tornado.websocket
+import argparse, os, io, imutils, threading, cv2, utils, colorsys
+import tornado.ioloop
+
 
 import pyrealsense2 as rs
 import numpy as np
@@ -13,6 +14,8 @@ from edgetpu.utils import dataset_utils, image_processing
 from tflite_runtime.interpreter import load_delegate
 import tflite_runtime.interpreter as tflite
 
+from web import SocketHandler, StatusHandler
+
 DEPTH_HEIGHT = 360
 DEPTH_WIDTH = 640  
 DEPTH_FPS = 15
@@ -21,8 +24,10 @@ COLOR_HEIGHT = 360
 COLOR_WIDTH = 640
 COLOR_FPS = 30
 
-engine = DetectionEngine('~/sonoptic/runner/model/model.tflite')
-labels = utils.read_label_file('~/sonoptic/runner/model/labels.txt') 
+
+
+engine = DetectionEngine('/home/ubuntu/sonoptic/runner/model/model.tflite')
+labels = utils.read_label_file('/home/ubuntu/sonoptic/runner/model/labels.txt') 
 last_key = sorted(labels.keys())[len(labels.keys()) - 1]
 colors = utils.random_colors(last_key)
 
@@ -87,8 +92,6 @@ def do_nn(color_frame, depth_frame, _threshold = 0.5):
     
     return im, elapsed_ms
 
-
-
     
 class camera_loop(threading.Thread): 
 
@@ -124,51 +127,31 @@ class camera_loop(threading.Thread):
             raw, depth_out = do_depth(self, depth_frame)
             ml_out, ms = do_nn(color_frame, depth_frame)
 
-            utils.sys_usage(ms)
+            #utils.sys_usage(ms)
 
             depth_out = cv2.applyColorMap(cv2.convertScaleAbs(depth_out, alpha=0.12), cv2.COLORMAP_JET)
             depth_out = cv2.resize(depth_out,(640, 360),cv2.INTER_CUBIC)
 
-            self.last_image = np.vstack((depth_out, ml_out))
+            self.last_image = np.hstack((ml_out, depth_out))
+
 
     def get_last_frame(self):
         return self.last_image
 
-loop = camera_loop()
-
-class ImageWebSocket(tornado.websocket.WebSocketHandler):
-    clients = set()
-
-    def check_origin(self, origin):
-        # Allow access from every origin
-        return True
-
-    def open(self):
-        ImageWebSocket.clients.add(self)
-        print("WebSocket opened from: " + self.request.remote_ip)
-
-
-    def on_message(self, message):
-        jpeg_bytes = utils.get_bytes(loop.get_last_frame())
-        self.write_message(jpeg_bytes, binary=True)
-
-    def on_close(self):
-        ImageWebSocket.clients.remove(self)
-        print("WebSocket closed from: " + self.request.remote_ip)
-
 if __name__ == "__main__":
-    script_path = os.path.dirname(os.path.realpath(__file__))
-    static_path = script_path + '/static/'
+    loop = camera_loop()
 
     app = tornado.web.Application([
-            (r"/websocket", ImageWebSocket),
-            (r"/(.*)", tornado.web.StaticFileHandler, {'path': static_path, 'default_filename': 'index.html'}),
-        ])
+            (r"/websocket", SocketHandler, {'loop': loop}),
+            (r"/status",StatusHandler),
+            (r"/(.*)", tornado.web.StaticFileHandler, 
+                                            {'path':  os.path.dirname(os.path.realpath(__file__)) + '/web/', 
+                                            'default_filename': 'index.html'})])
+
     app.listen(8000)
 
     print("Starting server: http://localhost:8000")
 
     loop.start()
-
     tornado.ioloop.IOLoop.current().start()
 

@@ -57,12 +57,18 @@ def random_colors(N):
     return colors
 
 def sys_usage(ms):
+    meter = INA219(0.1, 3)
+    meter.configure(meter.RANGE_16V)
+
+    voltage = abs(meter.voltage())
+    current = abs(meter.current())
+    life =  round((voltage - 3.1) * 100 / (4.2 - 3.1))
+
     own_pid = os.getpid()
     own_process = psutil.Process(own_pid)
     mem = round(own_process.memory_full_info().uss / 1024 / 1024)
 
     cpu = psutil.cpu_percent(interval=None)
-    load_avg = psutil.getloadavg()
     cpu_freq = psutil.cpu_freq()
     temp = psutil.sensors_temperatures()['cpu-thermal'][0].current
 

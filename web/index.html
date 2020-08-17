@@ -1,0 +1,164 @@
+<html>
+ <head>
+  <title>PyImageStream</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css" rel="stylesheet">
+  <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+  <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+  <link href="style.css" rel="stylesheet">
+ 
+ </head>
+ <body>
+
+
+   <div class="container h-100">
+      <div class="row"  style="padding-top: 20px;">
+         <div class="col-lg-12">
+            <div class="card card-accent-primary" id="maincard" >
+     
+               <img class="card-img-top" width="100%" id="liveImg" />
+               <ul class="list-group list-group-flush">
+                  <li class="list-group-item"><span id="fps"  ></span></li>
+                  <li class="list-group-item"><span id="nnfps"  > Neural FPS:</span></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+
+      <div class="row"  style="padding-top: 20px;" >
+
+         <div class="col-lg-3">
+            <div class="card" >
+               <div class="card-body">
+                  <h4 class="card-title">System Status</h4>
+               </div>
+               <ul class="list-group list-group-flush"></ul>
+                  <li class="list-group-item"><strong>Battery Voltage: </strong><span id="volt" ></span></li>
+                  <li class="list-group-item"><strong>Battery Life: </strong><span id="perc" ></span></li>
+                  <li class="list-group-item"><strong>Current: </strong><span id="amp"></span></li>
+                  <li class="list-group-item"><strong>CPU Usage: </strong><span id="cpu"  ></span></li>
+                  <li class="list-group-item"><strong>CPU Frequency: </strong><span id="freq"></span></li>
+                  <li class="list-group-item"><strong>CPU Temp: </strong> <span id="temp" ></span></li>
+                  <li class="list-group-item"><strong>Memory: </strong><span id="mem"  ></span></li>
+               
+               </ul>
+            </div>
+         </div>
+
+         <div class="col-lg-6">
+            <div class="card" >
+               <div class="card-body">
+                  <h4 class="card-title">Depth Parameters</h4>
+               </div>
+                  <div class="container no-gutter">
+                     <div class="row ">
+                        <div class="col-6 inner">
+                              <li class="list-group-item">
+                                 <label for=decimation_mag_slider"><strong> Decimation Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="decimation_mag_slider" id="decimation_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for=decimation_mag_slider"><strong> Spatial Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="spatial_mag_slider" id="spatial_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for=decimation_alpha_slider"><strong> Spatial Filter Alpha: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="spatial_alpha_slider" id="spatial_alpha_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for=decimation_delta_slider"><strong> Spatial Filter Delta: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="spatial_delta_slider" id="spatial_delta_slider">
+                              </li>
+                        </div>
+
+                        <div class="col-6 inner">
+                              <li class="list-group-item">
+                                 <label for="hole_mag_slider"><strong> Hole-Filling Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="hole_mag_slider" id="hole_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="gauss_mag_slider"><strong> Gaussian Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="gauss_mag_slider" id="gauss_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="zoom_slider"><strong> Zoom: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="zoom_slider" id="zoom_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="mask_slider"><strong> Mask Size: &nbsp</strong></label>
+                                 <input type="range" min="1" max="100" value="50" class="slider" name="mask_slider" id="mask_slider">
+                              </li>         
+                        </div>
+                     </div>
+                  </div>
+            </div>
+         </div>
+         
+         <div class="col-lg-3">
+            <div class="card" >
+               <div class="card-body">
+                  <h4 class="card-title">Settings</h4>
+               </div>
+               <ul class="list-group list-group-flush">
+                  <li class="list-group-item">
+                     <label for="volume_slider">Volume: &nbsp</label>
+                     <input type="range" min="1" max="100" value="50" class="slider" name="volume_slider" id="volume_slider">
+                  </li>
+
+                  <li class="list-group-item">
+                     <label for="combo_cpu_frequency">CPU Frequency: &nbsp</label>
+                     <select name="combo_cpu_frequency" id="combo_cpu_frequency">
+                        <option value="1500">1500 Mhz</option>
+                        <option value="1250">1250 Mhz</option>
+                        <option value="1000">1000 Mhz</option>
+                        <option value="800">800 MHz</option>
+                      </select>
+                  </li>
+                  <li class="list-group-item">
+                     <label for="combo_cpu_cores">CPU Cores: &nbsp</label>
+                     <select name="combo_cpu_cores" id="combo_cpu_cores">
+                        <option value="4">4</option>
+                        <option value="3">3</option>
+                        <option value="2">2</option>
+                      </select>
+                  </li>
+                  <li class="list-group-item">
+                     <label for="combo_res">Realsense Resolution: &nbsp</label>
+                     <select name="combo_res" id="combo_res">
+                        <option value="1280x720">1280x720</option>
+                        <option value="848x480">848x480</option>
+                        <option value="640x480">640x480</option>
+                        <option value="640x360">640x360</option>
+                        <option value="424x240">424x240</option>
+                      </select>
+                  </li>
+                  <li class="list-group-item">
+                     <label for="com">Realsense FPS: &nbsp</label>
+                     <select name="combo_res" id="combo_res">
+                        <option value="60">60</option>
+                        <option value="30">30</option>
+                        <option value="15">15</option>
+                        <option value="6">6</option>
+                      </select>
+                  </li>   
+               </ul>
+            </div>
+         </div>
+
+        
+
+   </div>
+
+ </body>
+
+ <script type="text/javascript" src="jquery.min.js"></script>
+ <script type="text/javascript" src="bootstrap.bundle.min.js"></script>
+ <script type="text/javascript" src="performance-polyfill.js"></script>
+ <script type="text/javascript" src="endswith.js"></script>
+ <script type="text/javascript" src="client.js"></script>
+</html>
