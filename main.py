@@ -14,30 +14,32 @@ from edgetpu.utils import dataset_utils, image_processing
 from tflite_runtime.interpreter import load_delegate
 import tflite_runtime.interpreter as tflite
 
-from web import SocketHandler, StatusHandler
+from web import SocketHandler, StatusHandler, DepthParamHandler
+from settings import DepthParams
 
-DEPTH_HEIGHT = 360
-DEPTH_WIDTH = 640  
+DEPTH_HEIGHT = 240
+DEPTH_WIDTH = 424
 DEPTH_FPS = 15
 
-COLOR_HEIGHT = 360
-COLOR_WIDTH = 640
+COLOR_HEIGHT = 240
+COLOR_WIDTH = 424
 COLOR_FPS = 30
 
-
+parameters = DepthParams()
 
 engine = DetectionEngine('/home/ubuntu/sonoptic/runner/model/model.tflite')
 labels = utils.read_label_file('/home/ubuntu/sonoptic/runner/model/labels.txt') 
 last_key = sorted(labels.keys())[len(labels.keys()) - 1]
 colors = utils.random_colors(last_key)
 
-def do_depth(camera, depth_frame, decimation_mag = 4, spatial_mag= 5, gaussian_mag = 5, spatial_alpha = 1, spatial_delta = 50, holes_fill = 1, zoom = 4, mask_size = 1000): 
+
+def do_depth(camera, depth_frame,): 
     
-    camera.decimation.set_option(rs.option.filter_magnitude, decimation_mag)
-    camera.spatial.set_option(rs.option.holes_fill, holes_fill)
-    camera.spatial.set_option(rs.option.filter_magnitude, spatial_mag)
-    camera.spatial.set_option(rs.option.filter_smooth_alpha, spatial_alpha)
-    camera.spatial.set_option(rs.option.filter_smooth_delta, spatial_delta)
+    camera.decimation.set_option(rs.option.filter_magnitude, parameters.decimation_mag)
+    #camera.spatial.set_option(rs.option.holes_fill, holes_fill)
+    camera.spatial.set_option(rs.option.filter_magnitude, parameters.spatial_mag)
+    camera.spatial.set_option(rs.option.filter_smooth_alpha, parameters.spatial_alpha)
+    camera.spatial.set_option(rs.option.filter_smooth_delta, parameters.spatial_delta)
 
     # do depth post processing using the realsense filters
     depth_frame = camera.decimation.process(depth_frame)
@@ -45,8 +47,8 @@ def do_depth(camera, depth_frame, decimation_mag = 4, spatial_mag= 5, gaussian_m
     #depth_frame = camera.hole_filling.process(depth_frame)
     depth_image = np.asanyarray(depth_frame.get_data())
 
-    #depth_image = ndimage.zoom(depth_image, zoom) # create a way smaller image by interpolation
-    im = ndimage.gaussian_filter(depth_image, gaussian_mag)
+    depth_image = ndimage.zoom(depth_image, parameters.zoom) # create a way smaller image by interpolation
+    im = ndimage.gaussian_filter(depth_image, parameters.gaussian_mag)
 
     #filter by objects larger than the numeric mean 
     mask = im > im.mean()
@@ -91,7 +93,6 @@ def do_nn(color_frame, depth_frame, _threshold = 0.5):
             utils.draw_caption(im, box, caption)
     
     return im, elapsed_ms
-
     
 class camera_loop(threading.Thread): 
 
@@ -130,7 +131,7 @@ class camera_loop(threading.Thread):
             #utils.sys_usage(ms)
 
             depth_out = cv2.applyColorMap(cv2.convertScaleAbs(depth_out, alpha=0.12), cv2.COLORMAP_JET)
-            depth_out = cv2.resize(depth_out,(640, 360),cv2.INTER_CUBIC)
+            depth_out = cv2.resize(depth_out,(424, 240),cv2.INTER_CUBIC)
 
             self.last_image = np.hstack((ml_out, depth_out))
 
@@ -139,19 +140,31 @@ class camera_loop(threading.Thread):
         return self.last_image
 
 if __name__ == "__main__":
-    loop = camera_loop()
+    loop = None
+    parser = argparse.ArgumentParser()
+   
+    parser.add_argument('-w', '--web', action='store_true', help="enable web interface")
+    parser.add_argument('-c', '--camera', action='store_true', help="enable camera  ")
+    parser.add_argument('-l', '--logfile', action='store', help="save stats to file")
+    args = parser.parse_args()
 
-    app = tornado.web.Application([
+
+    if args.camera:
+        loop = camera_loop()
+        loop.start()
+        print("* Camera loop started")
+
+    if args.web:
+        print("* Web interface available at: http://localhost:8000")
+
+        app = tornado.web.Application([
             (r"/websocket", SocketHandler, {'loop': loop}),
             (r"/status",StatusHandler),
+            (r"/params",DepthParamHandler, {'parameters': parameters}),
             (r"/(.*)", tornado.web.StaticFileHandler, 
                                             {'path':  os.path.dirname(os.path.realpath(__file__)) + '/web/', 
                                             'default_filename': 'index.html'})])
-
-    app.listen(8000)
-
-    print("Starting server: http://localhost:8000")
-
-    loop.start()
-    tornado.ioloop.IOLoop.current().start()
+        
+        app.listen(8000)
+        tornado.ioloop.IOLoop.current().start()
 

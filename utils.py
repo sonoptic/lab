@@ -57,12 +57,15 @@ def random_colors(N):
     return colors
 
 def sys_usage(ms):
-    meter = INA219(0.1, 3)
-    meter.configure(meter.RANGE_16V)
+   # meter = INA219(0.1, 3)
+    #meter.configure(meter.RANGE_16V)
 
-    voltage = abs(meter.voltage())
-    current = abs(meter.current())
-    life =  round((voltage - 3.1) * 100 / (4.2 - 3.1))
+    voltage = "5.02"
+    current = "1.72"
+
+    #voltage = abs(meter.voltage())
+    #current = abs(meter.current())
+    #life =  round((voltage - 3.1) * 100 / (4.2 - 3.1))
 
     own_pid = os.getpid()
     own_process = psutil.Process(own_pid)
