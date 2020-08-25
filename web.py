@@ -1,6 +1,4 @@
-import tornado.ioloop, tornado.web, tornado.websocket, psutil, utils, os
-from ina219 import INA219
-from ina219 import DeviceRangeError
+import tornado.ioloop, tornado.web, tornado.websocket, psutil, os
 
 class SocketHandler(tornado.websocket.WebSocketHandler):
     clients = set()
@@ -17,9 +15,8 @@ class SocketHandler(tornado.websocket.WebSocketHandler):
         SocketHandler.clients.add(self)
         print("WebSocket opened from: " + self.request.remote_ip)
 
-
     def on_message(self, message):
-        jpeg_bytes = utils.get_bytes(self.loop.get_last_frame())
+        jpeg_bytes = loop.get_bytes()
         self.write_message(jpeg_bytes, binary=True)
 
     def on_close(self):
@@ -29,33 +26,61 @@ class SocketHandler(tornado.websocket.WebSocketHandler):
 class StatusHandler(tornado.web.RequestHandler):
 
 
+    def initialize(self,io):
+        self.io = io 
+
     def get(self):
-        meter = INA219(0.1, 3)
-        meter.configure(meter.RANGE_16V)
-
-        voltage = abs(meter.voltage())
-        current = round(abs(meter.current()),2)
-
-        life =  round((voltage - 3.1) * 100 / (4.2 - 3.1))
-
-        own_process = psutil.Process(os.getpid())
-        mem = round(own_process.memory_full_info().uss / 1024 / 1024)
+        mem = psutil.virtual_memory()
+        mem = round(mem[3] / 1024 / 1024)
+        mem = str(mem) + " / 2048"
 
         cpu = psutil.cpu_percent(interval=None)
         cpu_freq = psutil.cpu_freq()[0]
         temp = psutil.sensors_temperatures()['cpu-thermal'][0].current
 
-        response = { 
-            'voltage': voltage, 
-            'current': current, 
-            'percentage': life, 
-            'memory': mem, 
-            'cpu_usage': cpu,
-            'cpu_freq': cpu_freq,
-            'temp': temp
-        }
+        has_meter = self.io.has_meter()
+        has_haptic = self.io.has_haptic()
+        has_motion = self.io.has_motion()
+        has_left_dac = self.io.has_left_dac()
+        has_right_dac = self.io.has_right_dac()
 
-        self.write(response)
+        try: 
+            voltage, current, power = self.io.read_power()
+            life =  round((voltage - 3.1) * 100 / (4.2 - 3.1))
+            
+            self.write({
+                'has_meter': has_meter,
+                'has_haptic': has_haptic,
+                'has_motion': has_motion, 
+                'has_left_dac': has_left_dac,
+                'has_right_dac': has_right_dac,
+                'voltage': voltage, 
+                'current': current, 
+                'percentage': life, 
+                'memory': mem, 
+                'cpu_usage': cpu,
+                'cpu_freq': cpu_freq,
+                'temp': temp
+            })
+
+            
+        except Exception as e:
+            self.write({
+                'has_meter': has_meter,
+                'has_haptic': has_haptic,
+                'has_motion': has_motion, 
+                'has_left_dac': has_left_dac,
+                'has_right_dac': has_right_dac,
+                'voltage': 'N/A ', 
+                'current': 'N/A ', 
+                'percentage': 'N/A s', 
+                'memory': mem, 
+                'cpu_usage': cpu,
+                'cpu_freq': cpu_freq,
+                'temp': temp
+            })
+            
+
 
 class DepthParamHandler(tornado.web.RequestHandler):
     
@@ -74,8 +99,8 @@ class DepthParamHandler(tornado.web.RequestHandler):
             'hole_mag': self.parameters.holes_mag,
             'gaussian_on': self.parameters.gaussian, 
             'gaussian_mag': self.parameters.gaussian_mag, 
-            'zoom_on': self.parameters.zoom, 
-            'zoom': self.parameters.zoom_mag,
+
+            'colorizer_alpha_slider': self.parameters.colorizer_alpha,
             'mask': self.parameters.mask
         }
 
@@ -87,31 +112,31 @@ class DepthParamHandler(tornado.web.RequestHandler):
         value = self.get_body_argument("value")
 
         if slider == 'decimation_mag_slider':
-            self.parameters.decimation_mag = value
+            self.parameters.decimation_mag = round(int(value))
 
         elif slider == 'spatial_mag_slider':
-            self.parameters.spatial_mag  = value
+            self.parameters.spatial_mag  = float(value)
 
         elif slider == "spatial_alpha_slider":
-            self.parameters.spatial_alpha = value
+            self.parameters.spatial_alpha = float(value)
     
         elif slider == "spatial_delta_slider":
-            self.parameters.spatial_delta = value
+            self.parameters.spatial_delta = float(value)
 
         elif slider == "hole_mag_slider":
-            self.parameters.holes_mag = value
+            self.parameters.holes_mag = float(value)
 
         elif slider == "gauss_mag_slider":
-            self.parameters.gaussian_mag = value
+            self.parameters.gaussian_mag = float(value)
 
         elif slider == "zoom_slider":
-            self.parameters.zoom_mag = value
+            self.parameters.depth_colorizer = float(value)
 
         elif slider == "mask_slider":
-            self.parameters.mask = value
-
-
-
+            self.parameters.mask = int(value)
+        
+        elif slider == "colorizer_alpha_slider":
+            self.parameters.colorizer_alpha = float(value)
         
         print(self.get_body_argument("slider"), self.get_body_argument("value"))
 

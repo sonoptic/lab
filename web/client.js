@@ -1,5 +1,5 @@
 
-const url ='http://192.168.1.105:8000';
+const url ='http://192.168.1.22:8000';
 const settingsEndpoint = url + '/params';
 const statusEndpoint = url + '/status'
 
@@ -8,11 +8,12 @@ var request_start_time = performance.now();
 var start_time = performance.now();
 var time = 0;
 var request_time = 0;
-var time_smoothing = 0.9; // larger=more smoothing
+var time_smoothing = 0.1 // larger=more smoothing
 var request_time_smoothing = 0.2; // larger=more smoothing
 var target_time = 1000 / target_fps;
-var target_fps = 60;
+var target_fps = 30;
 
+console.log(statusEndpoint)
 var img = document.getElementById("liveImg");
 
 var voltText = document.getElementById("volt");
@@ -24,17 +25,24 @@ var tempText = document.getElementById("temp");
 var memText = document.getElementById("mem");
 var fpsText = document.getElementById("fps");
 
+var hasMotionText = document.getElementById("has_motion")
+var hasMeterText = document.getElementById("has_meter")
+var hasHapticText = document.getElementById("has_haptic")
+var hasDACLText = document.getElementById("has_left_dac")
+var hasDACRText = document.getElementById("has_right_dac")
+
 var decimationMagSlider = document.getElementById("decimation_mag_slider");
 var spatialMagSlider = document.getElementById("spatial_mag_slider");
 var spatialAlphaSlider = document.getElementById("spatial_alpha_slider");
 var spatialDeltaSlider =document.getElementById("spatial_delta_slider");
 var holeMagSlider = document.getElementById("hole_mag_slider");
 var gaussMagSlider = document.getElementById("gauss_mag_slider");
-var zoomSlider = document.getElementById("zoom_slider");
+var zoomSlider = document.getElementById("colorizer_alpha_slider");
 var maskSlider = document.getElementById("mask_slider");
 
 
 get_depth_params();
+get_status();
 var wsProtocol = (location.protocol === "https:") ? "wss://" : "ws://";
 
 
@@ -59,7 +67,7 @@ ws.onopen = function() {
     console.log("connection was established");
     start_time = performance.now();
     requestImage();
-    get_status();
+
 };
 
 ws.onmessage = function(evt) {
@@ -91,6 +99,12 @@ ws.onmessage = function(evt) {
 function get_status(){
     $.ajax(statusEndpoint, {
         success: function(data) {
+            hasMotionText.textContent  = data['has_motion'];
+            hasMeterText.textContent  = data['has_meter'];  
+            hasHapticText.textContent  = data['has_haptic'];
+            hasDACLText.textContent  = data['has_left_dac'];
+            hasDACRText.textContent = data['has_right_dac'];   
+                   
             voltText.textContent = data["voltage"] + "V";
             ampText.textContent =  data["current"] + "mA";
             percText.textContent = data["percentage"] + "% ";
@@ -99,7 +113,8 @@ function get_status(){
             tempText.textContent = data["temp"];
             memText.textContent = data["memory"] + "MB";
 
-            setTimeout(get_status, 400);
+            setTimeout(get_status, 1000);
+            console.log("> status request")
         },
         error: function() {
          console.log("error bro");
@@ -116,7 +131,7 @@ function get_depth_params(){
             spatialDeltaSlider.value =  data['spatial_delta'];
             holeMagSlider.value = data['hole_mag']
             gaussMagSlider.value = data['gaussian_mag']
-            zoomSlider.value = data['zoom']
+            zoomSlider.value = data['colorizer_alpha_slider']
             maskSlider.value = data['mask']
             console.log(data);
         },

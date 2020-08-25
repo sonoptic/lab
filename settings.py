@@ -1,27 +1,32 @@
-class DepthParams(object):
+class Parameters(object):
     def __init__(self):
+        self.model_path = '/home/ubuntu/sonoptic/runner/model'
+        self.model_file = 'model.tflite'
+        self.label_file = 'labels.txt'
+        self.log_file = 'logfile.txt'
+
+        self.detection_threshold = 0.5
+
+        self.stream = 'none'
+        self.depth_height = 360
+        self.depth_width = 640
+        self.depth_fps = 30
+
+        self.color_height = 360
+        self.color_width = 640
+        self.depth_fps = 30
 
         self.decimation = True
         self.decimation_mag = 4
-        
-        self.spatial = True
-        self.spatial_mag = 5
-        self.spatial_alpha = 1
-        self.spatial_delta = 50
-
-        self.holes = False
-        self.holes_mag = 3
 
         self.gaussian = True
         self.gaussian_mag = 5
 
-        self.zoom = True
-        self.zoom_mag = 0.2
+        self.colorizer_alpha = 0.03
+        self.depth_colorizer = 0.03
 
         self.mask = 1000
-    
-    
 
+    #def to_file(self, file):
 
-    
-    
+    #def from_file(self, file):

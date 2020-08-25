@@ -9,6 +9,33 @@
  </head>
  <body>
 
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">Sonoptic Remote</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+ 
+      <div class="collapse navbar-collapse" id="navbarNav">
+         <span class="ml-auto navbar-text">
+            <strong> Power: </strong> <span id="has_meter" ></span> &nbsp &nbsp
+          </span>
+          <span class="navbar-text">
+            <strong> Motion: </strong> <span id="has_motion" ></span> &nbsp &nbsp
+          </span>
+          <span class="navbar-text">
+            <strong> Haptics: </strong> <span id="has_haptic" ></span> &nbsp &nbsp
+          </span>
+          <span class="navbar-text">
+            <strong> Left DAC: </strong> <span id="has_left_dac"></span> &nbsp &nbsp
+          </span>
+          <span class="navbar-text">
+            <strong> Right DAC: </strong> <span id="has_right_dac"></span> &nbsp &nbsp
+          </span>
+
+           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Restart Camera</button>
+      </div>
+    </nav>
 
    <div class="container h-100">
       <div class="row"  style="padding-top: 20px;">
@@ -18,100 +45,48 @@
                <img class="card-img-top" width="100%" id="liveImg" />
                <ul class="list-group list-group-flush">
                   <li class="list-group-item"><span id="fps"  ></span></li>
+
                </ul>
+
+
             </div>
          </div>
       </div>
 
       <div class="row" >
-
-         <div class="col-lg-3"  style="padding-top: 20px;">
-            <div class="card" >
-               <div class="card-body">
-                  <h4 class="card-title">System Status</h4>
-
-               </div>
-               <ul class="list-group list-group-flush"></ul>
-                  <li class="list-group-item"><strong>Uptime: </strong><span id="uptime" ></span></li>
-                  <li class="list-group-item"><strong>Battery Voltage: </strong><span id="volt" ></span></li>
-                  <li class="list-group-item"><strong>Battery Life: </strong><span id="perc" ></span></li>
-                  <li class="list-group-item"><strong>Current: </strong><span id="amp"></span></li>
-                  <li class="list-group-item"><strong>CPU Usage: </strong><span id="cpu"  ></span></li>
-                  <li class="list-group-item"><strong>CPU Frequency: </strong><span id="freq"></span></li>
-                  <li class="list-group-item"><strong>CPU Temp: </strong> <span id="temp" ></span></li>
-                  <li class="list-group-item"><strong>Memory: </strong><span id="mem"  ></span></li>
-               
-               </ul>
-            </div>
-         </div>
-
-         <div class="col-lg-6"  style="padding-top: 20px;">
-            <div class="card" >
-               <div class="card-body">
-                  <h4 class="card-title">Depth Processing Parameters</h4>
-                  <a href="#" class="card-link">Set default</a>
-               </div>
-                  <div class="container no-gutter">
-                     <div class="row ">
-                        <div class="col-6 inner">
-                              <li class="list-group-item">
-                                 <label for="decimation_mag_slider"><strong> Decimation Filter Magnitude: &nbsp</strong></label>
-                                 <input type="range" min="0" max="10" value="3" class="slider" name="decimation_mag_slider" id="decimation_mag_slider">
-                              </li>
-            
-                              <li class="list-group-item">
-                                 <label for="spatial_mag_slider"><strong> Spatial Filter Magnitude: &nbsp</strong></label>
-                                 <input type="range" min="0" max="10" value="3" class="slider" name="spatial_mag_slider" id="spatial_mag_slider">
-                              </li>
-            
-                              <li class="list-group-item">
-                                 <label for="spatial_alpha_slider"><strong> Spatial Filter Alpha: &nbsp</strong></label>
-                                 <input type="range" min="1" max="10" value="3" class="slider" name="spatial_alpha_slider" id="spatial_alpha_slider">
-                              </li>
-            
-                              <li class="list-group-item">
-                                 <label for="spatial_delta_slider"><strong> Spatial Filter Delta: &nbsp</strong></label>
-                                 <input type="range" min="1" max="100" value="3" class="slider" name="spatial_delta_slider" id="spatial_delta_slider">
-                              </li>
-                        </div>
-
-                        <div class="col-6 inner">
-                              <li class="list-group-item">
-                                 <label for="hole_mag_slider"><strong> Hole-Filling Filter Magnitude: &nbsp</strong></label>
-                                 <input type="range" min="0" max="10" value="3" class="slider" name="hole_mag_slider" id="hole_mag_slider">
-                              </li>
-            
-                              <li class="list-group-item">
-                                 <label for="gauss_mag_slider"><strong> Gaussian Filter Magnitude: &nbsp</strong></label>
-                                 <input type="range" min="0" max="10" value="3" class="slider" name="gauss_mag_slider" id="gauss_mag_slider">
-                              </li>
-            
-                              <li class="list-group-item">
-                                 <label for="zoom_slider"><strong> Zoom: &nbsp</strong></label>
-                                 <input type="range" min="0" max="1" value="0.2" step="0.1" class="slider" name="zoom_slider" id="zoom_slider">
-                              </li>
-            
-                              <li class="list-group-item">
-                                 <label for="mask_slider"><strong> Mask Size: &nbsp</strong></label>
-                                 <input type="range" min="100" max="5000" step="100"  class="slider" name="mask_slider" id="mask_slider">
-                              </li>         
-                        </div>
-                     </div>
-                  </div>
-            </div>
-         </div>
-
          <div class="col-lg-3"  style="padding-top: 20px;">
             <div class="card" >
                <div class="card-body">
                   <h4 class="card-title">General Settings</h4>
                   <a href="#" class="card-link">Apply</a>
-                  <a href="#" class="card-link">Set default</a>
+                  <a href="#" class="card-link">Start stream</a>
+                  <a href="#" class="card-link">Stop stream</a>
                </div>
                <ul class="list-group list-group-flush">
                   <li class="list-group-item">
-                     Status Refresh Rate
+                     <label for="com">Stream Configuration: &nbsp</label>
+                     <select name="combo_res" id="combo_res">
+                        <option value="depth">depth</option>
+                        <option value="color">color</option>
+                        <option value="filtered">filtered</option>
+                        <option value="color_filtered">color + filtered</option>
+                        <option value="depth_filtered">depth + filtered </option>
+                        <option value="all">all</option>
+
+                        <option value="6">6</option>
+                      </select>
+                  </li>   
+
+                  <li class="list-group-item">
+                     <label for="input_refresh">UI Refresh Rate:</label>
+                     <input type="text" class="classy_input" id="input_refresh" value="1000">
                   </li>
+
+                  <li class="list-group-item">
+                     <label for="input_refresh">IP Address:</label>
+                     <input type="text" class="classy_input" id="input_refresh" value="192.168.1.22">
+                  </li>
+
 
                   <li class="list-group-item">
                      <label for="combo_res">Realsense Resolution: &nbsp</label>
@@ -134,15 +109,94 @@
                   </li>   
                   <li class="list-group-item">
                      <label for="colorizer_alpha_slider"><strong> Colorizer Alpha: &nbsp</strong></label>
-                     <input type="range" min="0.01" max="0.2" value="0.12" step="0.01" class="slider" name="colorizer_alpha_slider" id="colorizer_alpha_slider">
+                     <input type="range" min="0.01" max="0.5" value="0.03" step="0.01" class="slider" name="colorizer_alpha_slider" id="colorizer_alpha_slider">
                   </li>
                </ul>
+            </div>
+         </div>
+   
+    
+
+         <div class="col-lg-3"  style="padding-top: 20px;">
+            <div class="card" >
+               <div class="card-body">
+                  <h4 class="card-title">System Status</h4>
+
+               </div>
+               <ul class="list-group list-group-flush"></ul>
+                  <li class="list-group-item"><strong>Uptime: </strong><span id="uptime" ></span></li>
+                  <li class="list-group-item"><strong>Battery Voltage: </strong><span id="volt" ></span></li>
+                  <li class="list-group-item"><strong>Battery Life: </strong><span id="perc" ></span></li>
+                  <li class="list-group-item"><strong>Current: </strong><span id="amp"></span></li>
+                  <li class="list-group-item"><strong>CPU Usage: </strong><span id="cpu"  ></span></li>
+                  <li class="list-group-item"><strong>CPU Frequency: </strong><span id="freq"></span></li>
+                  <li class="list-group-item"><strong>CPU Temp: </strong> <span id="temp" ></span></li>
+                  <li class="list-group-item"><strong>Memory: </strong><span id="mem"  ></span></li>
+               
+               </ul>
+            </div>
+         </div>
+
+         
+         <div class="col-lg-3"  style="padding-top: 20px;">
+            <div class="card" >
+               <div class="card-body">
+                  <h4 class="card-title">Depth Processing Parameters</h4>
+               
+               </div>
+               
+                              <li class="list-group-item">
+                                 <label for="decimation_mag_slider"><strong> Decimation Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="1" max="8" value="3" step="1" class="slider" name="decimation_mag_slider" id="decimation_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="gauss_mag_slider"><strong> Gaussian Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="0" max="10" value="3" step="0.25" class="slider" name="gauss_mag_slider" id="gauss_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="zoom_slider"><strong> Out Colorizer: &nbsp</strong></label>
+                                 <input type="range" min="0.01" max="0.5" value="0.03" step="0.01"   class="slider" name="zoom_slider" id="zoom_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="mask_slider"><strong> Mask Size: &nbsp</strong></label>
+                                 <input type="range" min="100" max="5000" step="100"  class="slider" name="mask_slider" id="mask_slider">
+                              </li>         
+                        </div>
+                     </div>
+                  </div>
             </div>
          </div>
 
         
 
-   </div>
+         <div class="row" >
+            <div class="col-lg-6"  style="padding-top: 20px;">
+               <div class="card" >
+                  <div class="card-body">
+                     <h4 class="card-title">Haptic</h4>
+                     <a href="#" class="card-link">Set default</a>
+                  </div>
+                     <div class="container no-gutter">
+                        <div class="row ">
+                           <div class="col-6 inner">
+                              <ul class="list-group list-group-flush">
+                                 <li class="list-group-item">Haptic Drivers: <span id="fps"  ></span></li>
+                              </ul>
+                           </div>
+                           <div class="col-6 inner">
+                           </div>
+                        </div>
+                     </div>
+               </div>
+            </div>
+         </div>
+        
+  </div>
+
+</div> 
 
  </body>
 
@@ -152,3 +206,59 @@
  <script type="text/javascript" src="endswith.js"></script>
  <script type="text/javascript" src="client.js"></script>
 </html>
+
+<!--
+    <div class="card" >
+               <div class="card-body">
+                  <h4 class="card-title">Depth Processing Parameters</h4>
+               
+               </div>
+                  <div class="container no-gutter">
+                     <div class="row ">
+                        <div class="col-6 inner">
+                              <li class="list-group-item">
+                                 <label for="decimation_mag_slider"><strong> Decimation Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="1" max="8" value="3" step="1" class="slider" name="decimation_mag_slider" id="decimation_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="spatial_mag_slider"><strong> Spatial Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="1" max="5" value="3" step="1"  class="slider" name="spatial_mag_slider" id="spatial_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="spatial_alpha_slider"><strong> Spatial Filter Alpha: &nbsp</strong></label>
+                                 <input type="range" min="0.25" max="1" value="0.3" step="0.1" class="slider" name="spatial_alpha_slider" id="spatial_alpha_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="spatial_delta_slider"><strong> Spatial Filter Delta: &nbsp</strong></label>
+                                 <input type="range" min="1" max="50" value="10" step="1"  class="slider" name="spatial_delta_slider" id="spatial_delta_slider">
+                              </li>
+                        </div>
+
+                        <div class="col-6 inner">
+                              <li class="list-group-item">
+                                 <label for="hole_mag_slider"><strong> Hole-Filling Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="0" max="10" value="3" class="slider" name="hole_mag_slider" id="hole_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="gauss_mag_slider"><strong> Gaussian Filter Magnitude: &nbsp</strong></label>
+                                 <input type="range" min="0" max="10" value="3" step="0.25" class="slider" name="gauss_mag_slider" id="gauss_mag_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="zoom_slider"><strong> Out Colorizer: &nbsp</strong></label>
+                                 <input type="range" min="0.01" max="0.5" value="0.03" step="0.01"   class="slider" name="zoom_slider" id="zoom_slider">
+                              </li>
+            
+                              <li class="list-group-item">
+                                 <label for="mask_slider"><strong> Mask Size: &nbsp</strong></label>
+                                 <input type="range" min="100" max="5000" step="100"  class="slider" name="mask_slider" id="mask_slider">
+                              </li>         
+                        </div>
+                     </div>
+                  </div>
+            </div>
+-->
