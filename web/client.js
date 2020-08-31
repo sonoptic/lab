@@ -1,5 +1,5 @@
 
-const url ='http://192.168.1.22:8000';
+const url ='http://192.168.1.105:8000';
 const settingsEndpoint = url + '/params';
 const statusEndpoint = url + '/status'
 

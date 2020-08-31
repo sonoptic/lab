@@ -3,8 +3,8 @@ import tornado.ioloop, tornado.web, tornado.websocket, psutil, os
 class SocketHandler(tornado.websocket.WebSocketHandler):
     clients = set()
 
-    def initialize(self, loop):
-        self.loop = loop
+    def initialize(self, camera):
+        self.loop = camera
         #tornado.websocket.WebSocketHandler.__init__(self)
 
     def check_origin(self, origin):
@@ -16,7 +16,7 @@ class SocketHandler(tornado.websocket.WebSocketHandler):
         print("WebSocket opened from: " + self.request.remote_ip)
 
     def on_message(self, message):
-        jpeg_bytes = loop.get_bytes()
+        jpeg_bytes = self.loop.get_bytes()
         self.write_message(jpeg_bytes, binary=True)
 
     def on_close(self):

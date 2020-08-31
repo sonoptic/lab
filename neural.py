@@ -3,14 +3,18 @@ from edgetpu.detection.engine import DetectionEngine
 from edgetpu.utils import dataset_utils, image_processing
 from tflite_runtime.interpreter import load_delegate
 import tflite_runtime.interpreter as tflite
+import colorsys, random, cv2
+from PIL import Image
+import numpy as np
 
 class Neural:
 
     def __init__(self, parameters):
         self.engine = DetectionEngine(parameters.model_path + '/' + parameters.model_file)
-        self.labels = utils.read_label_file() 
-        last_key = sorted(labels.keys())[len(labels.keys()) - 1]
-        self.colors = utils.random_colors(last_key)
+        self.labels = Neural.read_label_file(parameters.model_path + '/' + parameters.label_file) 
+        last_key = sorted(self.labels.keys())[len(self.labels.keys()) - 1]
+        self.colors = Neural.random_colors(last_key)
+        self.parameters = parameters
     
     def process(self, frame):
         frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
@@ -24,7 +28,7 @@ class Neural:
                 relative_coord=False,
                 top_k=10)
 
-        self.elapsed_ms = engine.get_inference_time()
+        self.elapsed_ms = self.engine.get_inference_time()
 
         if ans:
             for obj in ans:
@@ -35,8 +39,8 @@ class Neural:
                 caption = "{0}({1:.2f})".format(label_name, obj.score)
                     # Draw a rectangle and caption.
                 box = obj.bounding_box.flatten().tolist()
-                self.draw_rectangle(im, box, self.colors[obj.label_id])
-                self.draw_caption(im, box, caption)
+                Neural.draw_rectangle(im, box, self.colors[obj.label_id])
+                Neural.draw_caption(im, box, caption)
         
         return im
 

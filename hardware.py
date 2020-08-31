@@ -5,11 +5,11 @@ import numpy as np
 class Hardware:
 
     def __init__(self):
-        self.IMU_ADDRESS = '0x29'
-        self.DRV_ADDRESS = '0x5A'
-        self.METER_ADDRESS = '0x40'
-        self.DACL_ADDRESS = '0x62'
-        self.DACR_ADDRESS = '0x63'
+        self.IMU_ADDRESS = 0x29
+        self.DRV_ADDRESS = 0x5A
+        self.METER_ADDRESS = 0x40
+        self.DACL_ADDRESS = 0x62
+        self.DACR_ADDRESS = 0x63
 
         self.i2c = busio.I2C(board.SCL, board.SDA)
         devices = self.scan_bus()
@@ -30,7 +30,7 @@ class Hardware:
             self.haptic = None
     
         if str(self.METER_ADDRESS) in devices:
-            self.meter = adafruit_ina219.INA219(self.i2c, self.BAT_ADDRESS)
+            self.meter = adafruit_ina219.INA219(self.i2c, self.METER_ADDRESS)
             self.meter = INA219(0.1, 3)
             self.meter.configure(meter.RANGE_16V)
             print('* Current sensor detected')
