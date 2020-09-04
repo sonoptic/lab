@@ -106,10 +106,9 @@ function get_status(){
             hasDACRText.textContent = data['has_right_dac'];   
                    
             voltText.textContent = data["voltage"] + "V";
-            ampText.textContent =  data["current"] + "mA";
+            ampText.textContent =  data["current"] + "A";
             percText.textContent = data["percentage"] + "% ";
             cpuText.textContent =  data["cpu_usage"] + "%";
-            freqText.textContent = data["cpu_freq"] + "Mhz";
             tempText.textContent = data["temp"];
             memText.textContent = data["memory"] + "MB";
 

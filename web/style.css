@@ -10,7 +10,17 @@
 }
 
 
-  
+input{
+  background: none;
+  color: #d3d3d3;
+
+  display: block;
+ 
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #d3d3d3;
+}
+
   .slider {
     -webkit-appearance: none;
     width: 100%;

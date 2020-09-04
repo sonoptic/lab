@@ -1,0 +1,7961 @@
+{
+    "current": 2052.99,
+    "now": "2020-09-01T18:17:34.012044",
+    "percentage": 55,
+    "voltage": 3.704
+}{
+    "current": 1980.91,
+    "now": "2020-09-01T18:17:35.054299",
+    "percentage": 55,
+    "voltage": 3.708
+}{
+    "current": 2376.86,
+    "now": "2020-09-01T18:17:36.106607",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2079.33,
+    "now": "2020-09-01T18:17:37.133043",
+    "percentage": 53,
+    "voltage": 3.68
+}{
+    "current": 2494.94,
+    "now": "2020-09-01T18:17:38.176834",
+    "percentage": 53,
+    "voltage": 3.68
+}{
+    "current": 2139.15,
+    "now": "2020-09-01T18:17:39.199495",
+    "percentage": 51,
+    "voltage": 3.664
+}{
+    "current": 2194.85,
+    "now": "2020-09-01T18:17:40.249609",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 1925.3,
+    "now": "2020-09-01T18:17:41.296764",
+    "percentage": 53,
+    "voltage": 3.688
+}{
+    "current": 2603.51,
+    "now": "2020-09-01T18:17:43.036916",
+    "percentage": 51,
+    "voltage": 3.664
+}{
+    "current": 2215.52,
+    "now": "2020-09-01T18:17:45.029002",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2662.5,
+    "now": "2020-09-01T18:17:47.035421",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2549.73,
+    "now": "2020-09-01T18:17:49.038682",
+    "percentage": 51,
+    "voltage": 3.656
+}{
+    "current": 2015.49,
+    "now": "2020-09-01T18:17:51.023756",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2117.1,
+    "now": "2020-09-01T18:17:53.053702",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2102.74,
+    "now": "2020-09-01T18:17:55.035127",
+    "percentage": 53,
+    "voltage": 3.684
+}{
+    "current": 2031.4,
+    "now": "2020-09-01T18:17:57.038927",
+    "percentage": 50,
+    "voltage": 3.652
+}{
+    "current": 1985.4,
+    "now": "2020-09-01T18:17:59.045027",
+    "percentage": 53,
+    "voltage": 3.68
+}{
+    "current": 2357.47,
+    "now": "2020-09-01T18:18:01.031236",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2006.25,
+    "now": "2020-09-01T18:18:03.044428",
+    "percentage": 52,
+    "voltage": 3.676
+}{
+    "current": 1911.22,
+    "now": "2020-09-01T18:18:04.104598",
+    "percentage": 54,
+    "voltage": 3.692
+}{
+    "current": 2229.05,
+    "now": "2020-09-01T18:18:05.155147",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2384.09,
+    "now": "2020-09-01T18:18:06.188987",
+    "percentage": 51,
+    "voltage": 3.66
+}{
+    "current": 2065.15,
+    "now": "2020-09-01T18:18:07.217091",
+    "percentage": 52,
+    "voltage": 3.672
+}{
+    "current": 2011.46,
+    "now": "2020-09-01T18:18:08.268139",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 1961.8,
+    "now": "2020-09-01T18:18:09.305600",
+    "percentage": 51,
+    "voltage": 3.66
+}{
+    "current": 2217.62,
+    "now": "2020-09-01T18:18:10.355216",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2041.28,
+    "now": "2020-09-01T18:18:11.408375",
+    "percentage": 53,
+    "voltage": 3.68
+}{
+    "current": 2033.05,
+    "now": "2020-09-01T18:18:12.447782",
+    "percentage": 53,
+    "voltage": 3.688
+}{
+    "current": 1915.98,
+    "now": "2020-09-01T18:18:13.512755",
+    "percentage": 52,
+    "voltage": 3.676
+}{
+    "current": 2052.62,
+    "now": "2020-09-01T18:18:14.553629",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2178.48,
+    "now": "2020-09-01T18:18:15.591411",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 1929.15,
+    "now": "2020-09-01T18:18:16.633893",
+    "percentage": 52,
+    "voltage": 3.672
+}{
+    "current": 2298.02,
+    "now": "2020-09-01T18:18:17.694630",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 1912.13,
+    "now": "2020-09-01T18:18:18.731293",
+    "percentage": 54,
+    "voltage": 3.692
+}{
+    "current": 1874.36,
+    "now": "2020-09-01T18:18:19.766702",
+    "percentage": 55,
+    "voltage": 3.708
+}{
+    "current": 2036.34,
+    "now": "2020-09-01T18:18:20.801026",
+    "percentage": 53,
+    "voltage": 3.684
+}{
+    "current": 2279.91,
+    "now": "2020-09-01T18:18:21.848094",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2542.41,
+    "now": "2020-09-01T18:18:22.910199",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2022.9,
+    "now": "2020-09-01T18:18:23.945627",
+    "percentage": 54,
+    "voltage": 3.692
+}{
+    "current": 2147.93,
+    "now": "2020-09-01T18:18:24.988628",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2234.91,
+    "now": "2020-09-01T18:18:26.029744",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2230.88,
+    "now": "2020-09-01T18:18:27.073645",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2071.92,
+    "now": "2020-09-01T18:18:28.110965",
+    "percentage": 53,
+    "voltage": 3.68
+}{
+    "current": 1871.07,
+    "now": "2020-09-01T18:18:29.168686",
+    "percentage": 50,
+    "voltage": 3.648
+}{
+    "current": 2102.74,
+    "now": "2020-09-01T18:18:30.194902",
+    "percentage": 51,
+    "voltage": 3.66
+}{
+    "current": 2336.07,
+    "now": "2020-09-01T18:18:31.246550",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2159.82,
+    "now": "2020-09-01T18:18:32.285855",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2222.65,
+    "now": "2020-09-01T18:18:33.314932",
+    "percentage": 50,
+    "voltage": 3.652
+}{
+    "current": 2095.88,
+    "now": "2020-09-01T18:18:34.374340",
+    "percentage": 53,
+    "voltage": 3.684
+}{
+    "current": 2179.57,
+    "now": "2020-09-01T18:18:35.404956",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2137.5,
+    "now": "2020-09-01T18:18:36.439707",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 1926.68,
+    "now": "2020-09-01T18:18:37.505088",
+    "percentage": 54,
+    "voltage": 3.692
+}{
+    "current": 2109.24,
+    "now": "2020-09-01T18:18:38.560332",
+    "percentage": 54,
+    "voltage": 3.692
+}{
+    "current": 2051.52,
+    "now": "2020-09-01T18:18:39.592193",
+    "percentage": 52,
+    "voltage": 3.676
+}{
+    "current": 2061.22,
+    "now": "2020-09-01T18:18:40.633061",
+    "percentage": 53,
+    "voltage": 3.68
+}{
+    "current": 2314.39,
+    "now": "2020-09-01T18:18:41.677976",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2322.07,
+    "now": "2020-09-01T18:18:42.735274",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2045.67,
+    "now": "2020-09-01T18:18:43.782522",
+    "percentage": 52,
+    "voltage": 3.672
+}{
+    "current": 2057.84,
+    "now": "2020-09-01T18:18:44.838213",
+    "percentage": 53,
+    "voltage": 3.688
+}{
+    "current": 2495.95,
+    "now": "2020-09-01T18:18:45.888960",
+    "percentage": 52,
+    "voltage": 3.676
+}{
+    "current": 2186.16,
+    "now": "2020-09-01T18:18:46.926061",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2059.21,
+    "now": "2020-09-01T18:20:12.068813",
+    "percentage": 51,
+    "voltage": 3.664
+}{
+    "current": 2114.54,
+    "now": "2020-09-01T18:20:13.126029",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2191.92,
+    "now": "2020-09-01T18:20:14.189643",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2418.48,
+    "now": "2020-09-01T18:20:15.224691",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 1979.18,
+    "now": "2020-09-01T18:20:16.256400",
+    "percentage": 52,
+    "voltage": 3.668
+}{
+    "current": 2598.2,
+    "now": "2020-09-01T18:20:17.306669",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2118.66,
+    "now": "2020-09-01T18:20:18.348492",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2095.88,
+    "now": "2020-09-01T18:20:19.397252",
+    "percentage": 52,
+    "voltage": 3.676
+}{
+    "current": 2082.07,
+    "now": "2020-09-01T18:20:20.440251",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 1961.07,
+    "now": "2020-09-01T18:20:21.499993",
+    "percentage": 50,
+    "voltage": 3.648
+}{
+    "current": 2265.46,
+    "now": "2020-09-01T18:20:22.551860",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2222.01,
+    "now": "2020-09-01T18:20:23.583882",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2012.1,
+    "now": "2020-09-01T18:20:24.622297",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2206.55,
+    "now": "2020-09-01T18:20:25.667352",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2238.38,
+    "now": "2020-09-01T18:20:26.708529",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2240.4,
+    "now": "2020-09-01T18:24:27.565730",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 1939.57,
+    "now": "2020-09-01T18:24:28.617473",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2380.52,
+    "now": "2020-09-01T18:24:29.677690",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2445.37,
+    "now": "2020-09-01T18:24:30.713797",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 1993.9,
+    "now": "2020-09-01T18:24:31.779328",
+    "percentage": 50,
+    "voltage": 3.648
+}{
+    "current": 2622.07,
+    "now": "2020-09-01T18:24:33.047115",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2067.9,
+    "now": "2020-09-01T18:24:35.052122",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2560.06,
+    "now": "2020-09-01T18:24:36.112725",
+    "percentage": 50,
+    "voltage": 3.648
+}{
+    "current": 2231.43,
+    "now": "2020-09-01T18:24:37.234037",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2423.51,
+    "now": "2020-09-01T18:24:38.281234",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 1999.39,
+    "now": "2020-09-01T18:24:40.039057",
+    "percentage": 50,
+    "voltage": 3.652
+}{
+    "current": 2410.24,
+    "now": "2020-09-01T18:24:42.048343",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2001.31,
+    "now": "2020-09-01T18:24:44.046559",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2063.6,
+    "now": "2020-09-01T18:24:46.044331",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2160.27,
+    "now": "2020-09-01T18:24:48.033025",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2142.16,
+    "now": "2020-09-01T18:24:50.040326",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2136.95,
+    "now": "2020-09-01T18:24:52.038173",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2233.08,
+    "now": "2020-09-01T18:24:54.046589",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2238.84,
+    "now": "2020-09-01T18:24:56.058707",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2482.32,
+    "now": "2020-09-01T18:24:57.204427",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2255.4,
+    "now": "2020-09-01T18:24:58.250454",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2258.14,
+    "now": "2020-09-01T18:25:00.048977",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2056.83,
+    "now": "2020-09-01T18:25:02.038185",
+    "percentage": 51,
+    "voltage": 3.656
+}{
+    "current": 2224.02,
+    "now": "2020-09-01T18:25:04.054271",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2022.53,
+    "now": "2020-09-01T18:25:06.060023",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2033.32,
+    "now": "2020-09-01T18:25:08.030958",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2174.09,
+    "now": "2020-09-01T18:25:10.043002",
+    "percentage": 50,
+    "voltage": 3.652
+}{
+    "current": 2155.52,
+    "now": "2020-09-01T18:25:12.038477",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2085.09,
+    "now": "2020-09-01T18:25:14.045931",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2265.82,
+    "now": "2020-09-01T18:25:16.043115",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2096.89,
+    "now": "2020-09-01T18:25:18.043772",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2313.57,
+    "now": "2020-09-01T18:25:20.047644",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2264.27,
+    "now": "2020-09-01T18:25:22.040637",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2613.66,
+    "now": "2020-09-01T18:25:24.042534",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2160.37,
+    "now": "2020-09-01T18:25:26.049558",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2304.42,
+    "now": "2020-09-01T18:25:28.036983",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2302.96,
+    "now": "2020-09-01T18:25:30.050385",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2069.36,
+    "now": "2020-09-01T18:25:32.052537",
+    "percentage": 50,
+    "voltage": 3.648
+}{
+    "current": 2050.61,
+    "now": "2020-09-01T18:25:34.041093",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2030.67,
+    "now": "2020-09-01T18:25:36.058379",
+    "percentage": 51,
+    "voltage": 3.656
+}{
+    "current": 2538.57,
+    "now": "2020-09-01T18:25:38.043826",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2077.04,
+    "now": "2020-09-01T18:25:40.046724",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2068.63,
+    "now": "2020-09-01T18:25:42.058249",
+    "percentage": 50,
+    "voltage": 3.648
+}{
+    "current": 1895.21,
+    "now": "2020-09-01T18:25:44.049305",
+    "percentage": 51,
+    "voltage": 3.66
+}{
+    "current": 2153.41,
+    "now": "2020-09-01T18:25:46.055666",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2036.16,
+    "now": "2020-09-01T18:25:48.052409",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2223.11,
+    "now": "2020-09-01T18:25:50.036406",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 1982.01,
+    "now": "2020-09-01T18:25:52.048655",
+    "percentage": 50,
+    "voltage": 3.652
+}{
+    "current": 2186.07,
+    "now": "2020-09-01T18:25:54.034790",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 1951.74,
+    "now": "2020-09-01T18:25:56.048287",
+    "percentage": 51,
+    "voltage": 3.664
+}{
+    "current": 2016.95,
+    "now": "2020-09-01T18:25:58.046599",
+    "percentage": 50,
+    "voltage": 3.652
+}{
+    "current": 2171.16,
+    "now": "2020-09-01T18:26:00.037803",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2218.99,
+    "now": "2020-09-01T18:26:02.037641",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2164.66,
+    "now": "2020-09-01T18:26:04.033511",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2232.99,
+    "now": "2020-09-01T18:26:06.053509",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2551.74,
+    "now": "2020-09-01T18:26:08.046417",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2006.25,
+    "now": "2020-09-01T18:26:10.045429",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2208.48,
+    "now": "2020-09-01T18:26:12.050777",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2061.68,
+    "now": "2020-09-01T18:26:14.048735",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2019.6,
+    "now": "2020-09-01T18:26:16.041090",
+    "percentage": 51,
+    "voltage": 3.664
+}{
+    "current": 2094.33,
+    "now": "2020-09-01T18:26:18.035141",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2320.52,
+    "now": "2020-09-01T18:26:20.044514",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2046.68,
+    "now": "2020-09-01T18:26:22.039433",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2023.9,
+    "now": "2020-09-01T18:26:24.037360",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2194.85,
+    "now": "2020-09-01T18:26:26.035196",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2203.08,
+    "now": "2020-09-01T18:26:28.045154",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2176.55,
+    "now": "2020-09-01T18:26:30.042691",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2233.35,
+    "now": "2020-09-01T18:26:32.057239",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2242.32,
+    "now": "2020-09-01T18:26:34.055398",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2195.76,
+    "now": "2020-09-01T18:26:36.043862",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2165.03,
+    "now": "2020-09-01T18:26:38.042844",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2219.82,
+    "now": "2020-09-01T18:26:40.043509",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2091.86,
+    "now": "2020-09-01T18:26:42.055949",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2107.23,
+    "now": "2020-09-01T18:26:44.049473",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2200.88,
+    "now": "2020-09-01T18:26:46.032143",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2293.99,
+    "now": "2020-09-01T18:26:48.058846",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2308.26,
+    "now": "2020-09-01T18:26:50.033987",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2288.41,
+    "now": "2020-09-01T18:26:52.046598",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2201.52,
+    "now": "2020-09-01T18:26:54.042055",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2110.15,
+    "now": "2020-09-01T18:26:56.042381",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2126.98,
+    "now": "2020-09-01T18:26:58.054149",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 1965.37,
+    "now": "2020-09-01T18:27:00.051573",
+    "percentage": 51,
+    "voltage": 3.66
+}{
+    "current": 2330.85,
+    "now": "2020-09-01T18:27:02.043558",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2492.1,
+    "now": "2020-09-01T18:27:04.046797",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2080.43,
+    "now": "2020-09-01T18:27:06.046073",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2167.23,
+    "now": "2020-09-01T18:27:08.044074",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2440.43,
+    "now": "2020-09-01T18:27:10.045562",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 1992.26,
+    "now": "2020-09-01T18:27:12.042227",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2176.83,
+    "now": "2020-09-01T18:27:14.047642",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2005.61,
+    "now": "2020-09-01T18:27:15.079402",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2469.51,
+    "now": "2020-09-01T18:27:16.115664",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2023.35,
+    "now": "2020-09-01T18:27:17.194979",
+    "percentage": 51,
+    "voltage": 3.664
+}{
+    "current": 2137.59,
+    "now": "2020-09-01T18:27:18.285443",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2305.61,
+    "now": "2020-09-01T18:27:19.316173",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2224.85,
+    "now": "2020-09-01T18:27:20.368379",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 1997.93,
+    "now": "2020-09-01T18:27:21.409306",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2699.54,
+    "now": "2020-09-01T18:27:22.688551",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2083.72,
+    "now": "2020-09-01T18:32:05.782632",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2142.53,
+    "now": "2020-09-01T18:32:06.832639",
+    "percentage": 51,
+    "voltage": 3.656
+}{
+    "current": 2371.28,
+    "now": "2020-09-01T18:32:07.891663",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2481.95,
+    "now": "2020-09-01T18:32:08.933780",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2180.67,
+    "now": "2020-09-01T18:32:09.991722",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2303.78,
+    "now": "2020-09-01T18:32:11.037263",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2127.53,
+    "now": "2020-09-01T18:32:12.112301",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2080.79,
+    "now": "2020-09-01T18:32:13.154671",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2698.45,
+    "now": "2020-09-01T18:32:14.201738",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2275.88,
+    "now": "2020-09-01T18:32:15.243622",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2233.35,
+    "now": "2020-09-01T18:32:16.279434",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2215.34,
+    "now": "2020-09-01T18:32:17.331418",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2418.57,
+    "now": "2020-09-01T18:32:18.369237",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2305.34,
+    "now": "2020-09-01T18:32:19.419991",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2072.74,
+    "now": "2020-09-01T18:32:20.453664",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2284.85,
+    "now": "2020-09-01T18:32:21.488962",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2044.57,
+    "now": "2020-09-01T18:32:22.549093",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2135.3,
+    "now": "2020-09-01T18:32:23.592109",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2082.9,
+    "now": "2020-09-01T18:32:24.647011",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2285.12,
+    "now": "2020-09-01T18:32:25.690543",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2206.65,
+    "now": "2020-09-01T18:32:26.741033",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2085.09,
+    "now": "2020-09-01T18:32:27.797565",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2257.41,
+    "now": "2020-09-01T18:32:28.848685",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2550.82,
+    "now": "2020-09-01T18:32:29.912036",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2204.27,
+    "now": "2020-09-01T18:32:30.950911",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2348.78,
+    "now": "2020-09-01T18:32:32.007079",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2140.24,
+    "now": "2020-09-01T18:32:33.073493",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2109.79,
+    "now": "2020-09-01T18:32:34.109877",
+    "percentage": 49,
+    "voltage": 3.644
+}{
+    "current": 2304.05,
+    "now": "2020-09-01T18:32:35.157054",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2360.49,
+    "now": "2020-09-01T18:32:36.189409",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2298.93,
+    "now": "2020-09-01T18:32:37.248970",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2459.36,
+    "now": "2020-09-01T18:32:38.290969",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2078.78,
+    "now": "2020-09-01T18:32:39.336954",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2162.38,
+    "now": "2020-09-01T18:32:40.385163",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2106.22,
+    "now": "2020-09-01T18:32:41.429546",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2178.93,
+    "now": "2020-09-01T18:32:42.464639",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2034.6,
+    "now": "2020-09-01T18:32:43.514592",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2141.52,
+    "now": "2020-09-01T18:32:44.560432",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2334.05,
+    "now": "2020-09-01T18:32:45.613775",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2231.98,
+    "now": "2020-09-01T18:32:46.663806",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2388.57,
+    "now": "2020-09-01T18:32:47.716914",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2037.35,
+    "now": "2020-09-01T18:32:48.766944",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2369.36,
+    "now": "2020-09-01T18:32:49.807797",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2170.15,
+    "now": "2020-09-01T18:32:50.866684",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2148.93,
+    "now": "2020-09-01T18:32:51.910213",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2202.9,
+    "now": "2020-09-01T18:32:52.939702",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2082.26,
+    "now": "2020-09-01T18:32:53.972298",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2864.27,
+    "now": "2020-09-01T18:32:55.016346",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2128.45,
+    "now": "2020-09-01T18:32:56.069955",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2001.86,
+    "now": "2020-09-01T18:32:57.126720",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 1953.84,
+    "now": "2020-09-01T18:32:58.166986",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2013.2,
+    "now": "2020-09-01T18:32:59.208472",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2179.48,
+    "now": "2020-09-01T18:33:00.251884",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2402.29,
+    "now": "2020-09-01T18:33:01.310100",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 1985.76,
+    "now": "2020-09-01T18:33:02.346101",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2164.12,
+    "now": "2020-09-01T18:33:03.383213",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2060.85,
+    "now": "2020-09-01T18:33:04.429666",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2018.96,
+    "now": "2020-09-01T18:33:05.474908",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2558.96,
+    "now": "2020-09-01T18:33:06.524805",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2056.55,
+    "now": "2020-09-01T18:33:07.568550",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2107.13,
+    "now": "2020-09-01T18:33:08.607145",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2155.06,
+    "now": "2020-09-01T18:33:09.651772",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2128.99,
+    "now": "2020-09-01T18:33:10.697750",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2228.6,
+    "now": "2020-09-01T18:33:11.741425",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2331.77,
+    "now": "2020-09-01T18:33:12.781659",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2042.56,
+    "now": "2020-09-01T18:33:13.828102",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2370.37,
+    "now": "2020-09-01T18:33:14.884522",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2114.73,
+    "now": "2020-09-01T18:33:15.920613",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2087.56,
+    "now": "2020-09-01T18:33:16.963820",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2441.16,
+    "now": "2020-09-01T18:33:18.008295",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2062.23,
+    "now": "2020-09-01T18:33:19.055848",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2085.18,
+    "now": "2020-09-01T18:33:20.101514",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2639.45,
+    "now": "2020-09-01T18:33:21.135674",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2362.96,
+    "now": "2020-09-01T18:33:22.167722",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2193.66,
+    "now": "2020-09-01T18:33:23.197755",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2143.99,
+    "now": "2020-09-01T18:33:24.238581",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 1984.57,
+    "now": "2020-09-01T18:33:25.281712",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2068.08,
+    "now": "2020-09-01T18:33:26.325851",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2146.46,
+    "now": "2020-09-01T18:33:27.381811",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2111.34,
+    "now": "2020-09-01T18:33:28.418813",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2135.95,
+    "now": "2020-09-01T18:33:29.476777",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2319.05,
+    "now": "2020-09-01T18:33:30.534553",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2491.65,
+    "now": "2020-09-01T18:33:31.580374",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2019.24,
+    "now": "2020-09-01T18:33:32.644814",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2606.16,
+    "now": "2020-09-01T18:33:33.689121",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2193.2,
+    "now": "2020-09-01T18:33:34.723855",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2117.74,
+    "now": "2020-09-01T18:33:35.756580",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2096.16,
+    "now": "2020-09-01T18:33:36.806027",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2063.69,
+    "now": "2020-09-01T18:33:37.841980",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2217.99,
+    "now": "2020-09-01T18:33:38.869865",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2070.46,
+    "now": "2020-09-01T18:33:39.911018",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2098.9,
+    "now": "2020-09-01T18:33:40.953653",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2120.49,
+    "now": "2020-09-01T18:33:42.017796",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2464.12,
+    "now": "2020-09-01T18:33:43.067554",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2346.13,
+    "now": "2020-09-01T18:33:44.113861",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2184.05,
+    "now": "2020-09-01T18:33:45.174510",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2247.07,
+    "now": "2020-09-01T18:33:46.221298",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2202.07,
+    "now": "2020-09-01T18:33:47.262140",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2339.45,
+    "now": "2020-09-01T18:33:48.320681",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2141.34,
+    "now": "2020-09-01T18:33:49.365415",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 1916.25,
+    "now": "2020-09-01T18:33:50.415067",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2064.88,
+    "now": "2020-09-01T18:33:51.460792",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2617.59,
+    "now": "2020-09-01T18:33:52.509611",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2103.93,
+    "now": "2020-09-01T18:33:53.538869",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2265.73,
+    "now": "2020-09-01T18:33:54.599143",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2283.48,
+    "now": "2020-09-01T18:33:55.624522",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2180.95,
+    "now": "2020-09-01T18:33:56.673517",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2042.65,
+    "now": "2020-09-01T18:33:57.719902",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2283.84,
+    "now": "2020-09-01T18:33:58.753857",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2290.88,
+    "now": "2020-09-01T18:33:59.803698",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2194.3,
+    "now": "2020-09-01T18:34:00.856535",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2331.31,
+    "now": "2020-09-01T18:34:01.892345",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2693.78,
+    "now": "2020-09-01T18:34:02.953030",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2310.82,
+    "now": "2020-09-01T18:34:03.998283",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2150.4,
+    "now": "2020-09-01T18:34:05.055516",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2324.27,
+    "now": "2020-09-01T18:34:06.083435",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2248.63,
+    "now": "2020-09-01T18:34:07.120934",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2225.03,
+    "now": "2020-09-01T18:34:08.159318",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2211.13,
+    "now": "2020-09-01T18:34:09.207193",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2117.84,
+    "now": "2020-09-01T18:34:11.058453",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2331.4,
+    "now": "2020-09-01T18:34:13.047683",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2216.34,
+    "now": "2020-09-01T18:34:15.058075",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2606.8,
+    "now": "2020-09-01T18:34:17.058517",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2104.48,
+    "now": "2020-09-01T18:34:19.035183",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2285.58,
+    "now": "2020-09-01T18:34:21.041077",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2267.56,
+    "now": "2020-09-01T18:34:23.048003",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2210.4,
+    "now": "2020-09-01T18:34:25.042773",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2432.84,
+    "now": "2020-09-01T18:34:27.062441",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2345.03,
+    "now": "2020-09-01T18:34:29.050585",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2401.74,
+    "now": "2020-09-01T18:34:31.042503",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2291.98,
+    "now": "2020-09-01T18:34:33.058080",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2112.07,
+    "now": "2020-09-01T18:34:35.052658",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2181.49,
+    "now": "2020-09-01T18:34:37.030191",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2240.85,
+    "now": "2020-09-01T18:34:39.045965",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2183.6,
+    "now": "2020-09-01T18:34:41.044509",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2081.34,
+    "now": "2020-09-01T18:34:43.047145",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2286.77,
+    "now": "2020-09-01T18:34:45.053505",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2062.59,
+    "now": "2020-09-01T18:34:47.052186",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2186.89,
+    "now": "2020-09-01T18:34:49.032031",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 1974.15,
+    "now": "2020-09-01T18:34:51.053390",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2110.98,
+    "now": "2020-09-01T18:34:53.053513",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 1993.9,
+    "now": "2020-09-01T18:34:55.056975",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2124.6,
+    "now": "2020-09-01T18:34:57.051683",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2165.49,
+    "now": "2020-09-01T18:34:59.045313",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2173.26,
+    "now": "2020-09-01T18:35:01.049308",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2024.73,
+    "now": "2020-09-01T18:35:03.059666",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2209.3,
+    "now": "2020-09-01T18:35:05.045407",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2053.54,
+    "now": "2020-09-01T18:35:07.040491",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2079.33,
+    "now": "2020-09-01T18:35:09.051698",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2163.75,
+    "now": "2020-09-01T18:35:11.044160",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2310.27,
+    "now": "2020-09-01T18:35:13.050853",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2130.18,
+    "now": "2020-09-01T18:35:15.042256",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2287.77,
+    "now": "2020-09-01T18:35:17.041179",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2227.04,
+    "now": "2020-09-01T18:35:19.049196",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2166.13,
+    "now": "2020-09-01T18:35:21.049889",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2097.44,
+    "now": "2020-09-01T18:35:23.049097",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2147.38,
+    "now": "2020-09-01T18:35:25.053075",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2106.86,
+    "now": "2020-09-01T18:35:27.038619",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2172.16,
+    "now": "2020-09-01T18:35:29.042803",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2101.19,
+    "now": "2020-09-01T18:35:31.038907",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2302.77,
+    "now": "2020-09-01T18:35:33.043371",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2161.37,
+    "now": "2020-09-01T18:35:35.059169",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2291.25,
+    "now": "2020-09-01T18:35:37.041083",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2034.05,
+    "now": "2020-09-01T18:35:39.039458",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2694.24,
+    "now": "2020-09-01T18:35:41.058242",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2224.94,
+    "now": "2020-09-01T18:35:43.045966",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2135.95,
+    "now": "2020-09-01T18:35:45.054875",
+    "percentage": 49,
+    "voltage": 3.636
+}{
+    "current": 2176.65,
+    "now": "2020-09-01T18:35:47.052615",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2201.8,
+    "now": "2020-09-01T18:35:49.039291",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2582.74,
+    "now": "2020-09-01T18:35:51.044529",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2282.47,
+    "now": "2020-09-01T18:35:53.055270",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2181.95,
+    "now": "2020-09-01T18:35:55.063545",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2254.12,
+    "now": "2020-09-01T18:35:57.038901",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2092.87,
+    "now": "2020-09-01T18:35:59.045365",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2128.9,
+    "now": "2020-09-01T18:36:01.049558",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2172.99,
+    "now": "2020-09-01T18:36:03.046374",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2159.63,
+    "now": "2020-09-01T18:36:05.045608",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2069.54,
+    "now": "2020-09-01T18:36:07.041769",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2271.22,
+    "now": "2020-09-01T18:36:09.038661",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2144.36,
+    "now": "2020-09-01T18:36:11.045339",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2233.45,
+    "now": "2020-09-01T18:36:13.042457",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2087.56,
+    "now": "2020-09-01T18:36:15.059160",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2693.32,
+    "now": "2020-09-01T18:36:17.054523",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2768.05,
+    "now": "2020-09-01T18:36:19.060872",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2093.87,
+    "now": "2020-09-01T18:36:21.053115",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2070.46,
+    "now": "2020-09-01T18:36:23.055128",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2266.55,
+    "now": "2020-09-01T18:36:25.050926",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2213.41,
+    "now": "2020-09-01T18:36:27.038757",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2218.63,
+    "now": "2020-09-01T18:36:29.056291",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2101.19,
+    "now": "2020-09-01T18:36:31.051467",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2270.95,
+    "now": "2020-09-01T18:36:33.044510",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2010.55,
+    "now": "2020-09-01T18:36:35.042339",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2186.07,
+    "now": "2020-09-01T18:36:37.043152",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2231.07,
+    "now": "2020-09-01T18:36:39.053845",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2237.01,
+    "now": "2020-09-01T18:36:41.045232",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2090.95,
+    "now": "2020-09-01T18:36:43.051660",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2063.14,
+    "now": "2020-09-01T18:36:45.060484",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2238.11,
+    "now": "2020-09-01T18:36:47.039056",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2177.65,
+    "now": "2020-09-01T18:36:49.047110",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2116.28,
+    "now": "2020-09-01T18:36:51.044359",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2362.32,
+    "now": "2020-09-01T18:36:53.039057",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2236.46,
+    "now": "2020-09-01T18:36:55.045464",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2089.39,
+    "now": "2020-09-01T18:36:57.048899",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2483.41,
+    "now": "2020-09-01T18:36:59.049338",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2097.8,
+    "now": "2020-09-01T18:37:01.052440",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2577.71,
+    "now": "2020-09-01T18:37:03.060406",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2116.46,
+    "now": "2020-09-01T18:37:05.050702",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2057.29,
+    "now": "2020-09-01T18:37:07.051403",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2074.48,
+    "now": "2020-09-01T18:37:09.050703",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2425.7,
+    "now": "2020-09-01T18:37:11.046215",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2111.34,
+    "now": "2020-09-01T18:37:13.061561",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2221.37,
+    "now": "2020-09-01T18:37:15.031486",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2298.66,
+    "now": "2020-09-01T18:37:17.047008",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2272.77,
+    "now": "2020-09-01T18:37:19.047960",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2168.41,
+    "now": "2020-09-01T18:37:21.044727",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2091.49,
+    "now": "2020-09-01T18:37:23.048583",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2449.94,
+    "now": "2020-09-01T18:37:25.058352",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 1998.11,
+    "now": "2020-09-01T18:37:27.045664",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2212.77,
+    "now": "2020-09-01T18:37:29.054506",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2077.59,
+    "now": "2020-09-01T18:37:31.047431",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2042.74,
+    "now": "2020-09-01T18:37:33.058545",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2390.85,
+    "now": "2020-09-01T18:37:35.041960",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2197.77,
+    "now": "2020-09-01T18:37:37.042348",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2078.05,
+    "now": "2020-09-01T18:37:39.043775",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2103.84,
+    "now": "2020-09-01T18:37:41.059142",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2074.39,
+    "now": "2020-09-01T18:37:43.050277",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2142.53,
+    "now": "2020-09-01T18:37:45.055660",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2184.24,
+    "now": "2020-09-01T18:37:47.057409",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2449.21,
+    "now": "2020-09-01T18:37:49.056163",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2036.89,
+    "now": "2020-09-01T18:37:51.036991",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2071.92,
+    "now": "2020-09-01T18:37:53.050356",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2219.54,
+    "now": "2020-09-01T18:37:55.043834",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2208.66,
+    "now": "2020-09-01T18:37:57.046607",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2370.18,
+    "now": "2020-09-01T18:37:59.052170",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2470.7,
+    "now": "2020-09-01T18:38:01.051455",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2192.56,
+    "now": "2020-09-01T18:38:03.043335",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2408.14,
+    "now": "2020-09-01T18:38:05.054653",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2180.49,
+    "now": "2020-09-01T18:38:07.057265",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2344.02,
+    "now": "2020-09-01T18:38:09.047203",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2475.73,
+    "now": "2020-09-01T18:38:11.040649",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2109.33,
+    "now": "2020-09-01T18:38:13.050876",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2328.84,
+    "now": "2020-09-01T18:38:15.038384",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2322.35,
+    "now": "2020-09-01T18:38:17.044701",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2160.0,
+    "now": "2020-09-01T18:38:19.053541",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2155.98,
+    "now": "2020-09-01T18:38:21.051171",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2378.87,
+    "now": "2020-09-01T18:38:23.049159",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2171.62,
+    "now": "2020-09-01T18:38:25.048383",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2268.84,
+    "now": "2020-09-01T18:38:27.044605",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2314.66,
+    "now": "2020-09-01T18:38:29.038119",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2292.71,
+    "now": "2020-09-01T18:38:31.041150",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2247.44,
+    "now": "2020-09-01T18:38:33.035264",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2034.7,
+    "now": "2020-09-01T18:38:35.056468",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2257.87,
+    "now": "2020-09-01T18:38:37.034962",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2195.67,
+    "now": "2020-09-01T18:38:39.045671",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2129.73,
+    "now": "2020-09-01T18:38:41.064111",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2072.38,
+    "now": "2020-09-01T18:38:43.043944",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2303.96,
+    "now": "2020-09-01T18:38:45.047955",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2088.57,
+    "now": "2020-09-01T18:38:47.044992",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2289.88,
+    "now": "2020-09-01T18:38:49.045489",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2179.39,
+    "now": "2020-09-01T18:38:51.054658",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2106.04,
+    "now": "2020-09-01T18:38:53.055375",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 1996.46,
+    "now": "2020-09-01T18:38:55.043815",
+    "percentage": 48,
+    "voltage": 3.632
+}{
+    "current": 2282.29,
+    "now": "2020-09-01T18:38:57.050829",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2243.05,
+    "now": "2020-09-01T18:38:59.059804",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2117.93,
+    "now": "2020-09-01T18:39:01.044545",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2212.59,
+    "now": "2020-09-01T18:39:03.035024",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2061.77,
+    "now": "2020-09-01T18:39:05.051919",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2321.52,
+    "now": "2020-09-01T18:39:07.048430",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2141.89,
+    "now": "2020-09-01T18:39:09.058333",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2191.28,
+    "now": "2020-09-01T18:39:11.055965",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2189.09,
+    "now": "2020-09-01T18:39:13.055314",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2185.52,
+    "now": "2020-09-01T18:39:15.047380",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2095.7,
+    "now": "2020-09-01T18:39:17.049839",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2247.53,
+    "now": "2020-09-01T18:39:19.050996",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2289.51,
+    "now": "2020-09-01T18:39:21.041002",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2293.17,
+    "now": "2020-09-01T18:39:23.052541",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2151.68,
+    "now": "2020-09-01T18:39:25.055198",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2395.61,
+    "now": "2020-09-01T18:39:27.063357",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2091.59,
+    "now": "2020-09-01T18:39:29.062269",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2222.93,
+    "now": "2020-09-01T18:39:31.048202",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2703.38,
+    "now": "2020-09-01T18:39:33.047988",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2264.09,
+    "now": "2020-09-01T18:39:35.056732",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2462.65,
+    "now": "2020-09-01T18:39:37.048266",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2255.12,
+    "now": "2020-09-01T18:39:39.053633",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2116.92,
+    "now": "2020-09-01T18:39:41.061175",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2783.6,
+    "now": "2020-09-01T18:39:43.045314",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2130.27,
+    "now": "2020-09-01T18:39:45.051477",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2036.16,
+    "now": "2020-09-01T18:39:47.055988",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2096.89,
+    "now": "2020-09-01T18:39:49.046541",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2142.62,
+    "now": "2020-09-01T18:39:51.057223",
+    "percentage": 49,
+    "voltage": 3.64
+}{
+    "current": 2168.41,
+    "now": "2020-09-01T18:39:53.053215",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2675.85,
+    "now": "2020-09-01T18:39:55.058721",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2548.63,
+    "now": "2020-09-01T18:39:57.050774",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2484.88,
+    "now": "2020-09-01T18:39:59.058489",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2066.89,
+    "now": "2020-09-01T18:40:01.058838",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2116.46,
+    "now": "2020-09-01T18:40:03.059027",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2229.88,
+    "now": "2020-09-01T18:40:05.046511",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2217.62,
+    "now": "2020-09-01T18:40:07.056841",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2083.35,
+    "now": "2020-09-01T18:40:09.047201",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2272.87,
+    "now": "2020-09-01T18:40:11.042559",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2090.03,
+    "now": "2020-09-01T18:40:13.044968",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2078.32,
+    "now": "2020-09-01T18:40:15.049428",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2223.38,
+    "now": "2020-09-01T18:40:17.054197",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 1986.13,
+    "now": "2020-09-01T18:40:19.042044",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2486.98,
+    "now": "2020-09-01T18:40:21.059786",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2208.93,
+    "now": "2020-09-01T18:40:23.033267",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2257.41,
+    "now": "2020-09-01T18:40:25.060955",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2319.51,
+    "now": "2020-09-01T18:40:27.049018",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2295.46,
+    "now": "2020-09-01T18:40:29.048271",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2185.52,
+    "now": "2020-09-01T18:40:31.036266",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2096.43,
+    "now": "2020-09-01T18:40:33.070851",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2268.66,
+    "now": "2020-09-01T18:40:35.045609",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2149.3,
+    "now": "2020-09-01T18:40:37.033418",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2237.56,
+    "now": "2020-09-01T18:40:39.044569",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2394.51,
+    "now": "2020-09-01T18:40:41.055169",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2189.36,
+    "now": "2020-09-01T18:40:43.037934",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2102.2,
+    "now": "2020-09-01T18:40:45.059791",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2296.65,
+    "now": "2020-09-01T18:40:47.040727",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2102.84,
+    "now": "2020-09-01T18:40:49.040197",
+    "percentage": 48,
+    "voltage": 3.624
+}{
+    "current": 2123.32,
+    "now": "2020-09-01T18:40:51.066781",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2398.17,
+    "now": "2020-09-01T18:40:53.068432",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2058.38,
+    "now": "2020-09-01T18:40:55.055230",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2220.55,
+    "now": "2020-09-01T18:40:57.044375",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2388.38,
+    "now": "2020-09-01T18:40:59.043357",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2185.06,
+    "now": "2020-09-01T18:41:01.051878",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2528.6,
+    "now": "2020-09-01T18:41:03.060744",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2133.75,
+    "now": "2020-09-01T18:41:05.059857",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2115.37,
+    "now": "2020-09-01T18:41:07.060933",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2105.4,
+    "now": "2020-09-01T18:41:09.060448",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2051.43,
+    "now": "2020-09-01T18:41:11.062101",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2006.8,
+    "now": "2020-09-01T18:41:13.062521",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2317.59,
+    "now": "2020-09-01T18:41:15.059348",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2216.07,
+    "now": "2020-09-01T18:41:17.045024",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2182.68,
+    "now": "2020-09-01T18:41:19.062442",
+    "percentage": 46,
+    "voltage": 3.608
+}{
+    "current": 2357.93,
+    "now": "2020-09-01T18:41:21.039646",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2202.44,
+    "now": "2020-09-01T18:41:23.049025",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2218.81,
+    "now": "2020-09-01T18:41:25.060513",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2165.76,
+    "now": "2020-09-01T18:41:27.052315",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2046.04,
+    "now": "2020-09-01T18:41:29.052711",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2179.12,
+    "now": "2020-09-01T18:41:31.045610",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2244.42,
+    "now": "2020-09-01T18:41:33.054815",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2111.34,
+    "now": "2020-09-01T18:41:35.055786",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2092.04,
+    "now": "2020-09-01T18:41:37.055821",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2235.27,
+    "now": "2020-09-01T18:41:39.047341",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2008.26,
+    "now": "2020-09-01T18:41:41.045000",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2586.77,
+    "now": "2020-09-01T18:41:43.054358",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2018.6,
+    "now": "2020-09-01T18:41:45.060611",
+    "percentage": 48,
+    "voltage": 3.628
+}{
+    "current": 2428.35,
+    "now": "2020-09-01T18:41:47.051078",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2012.47,
+    "now": "2020-09-01T18:41:49.045753",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2236.46,
+    "now": "2020-09-01T18:41:51.042101",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2126.98,
+    "now": "2020-09-01T18:41:53.048848",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2113.99,
+    "now": "2020-09-01T18:41:55.043315",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2235.55,
+    "now": "2020-09-01T18:41:57.053794",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2418.84,
+    "now": "2020-09-01T18:41:59.043783",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2374.21,
+    "now": "2020-09-01T18:42:01.048555",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2498.32,
+    "now": "2020-09-01T18:42:03.043937",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2627.65,
+    "now": "2020-09-01T18:42:05.062327",
+    "percentage": 45,
+    "voltage": 3.592
+}{
+    "current": 2478.48,
+    "now": "2020-09-01T18:42:07.045600",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2322.16,
+    "now": "2020-09-01T18:42:09.048203",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2092.77,
+    "now": "2020-09-01T18:42:11.039631",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2487.35,
+    "now": "2020-09-01T18:42:13.042914",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2436.95,
+    "now": "2020-09-01T18:42:15.041245",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2308.08,
+    "now": "2020-09-01T18:42:17.058197",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2090.3,
+    "now": "2020-09-01T18:42:19.055960",
+    "percentage": 47,
+    "voltage": 3.612
+}{
+    "current": 2175.55,
+    "now": "2020-09-01T18:42:21.051072",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2194.94,
+    "now": "2020-09-01T18:42:23.052255",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2106.22,
+    "now": "2020-09-01T18:42:25.053728",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2268.48,
+    "now": "2020-09-01T18:42:27.049883",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2534.82,
+    "now": "2020-09-01T18:42:29.062025",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2189.27,
+    "now": "2020-09-01T18:42:31.058269",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2442.35,
+    "now": "2020-09-01T18:42:33.035821",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2278.17,
+    "now": "2020-09-01T18:42:35.057494",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2010.82,
+    "now": "2020-09-01T18:42:37.050201",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2289.51,
+    "now": "2020-09-01T18:42:39.049250",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2347.13,
+    "now": "2020-09-01T18:42:41.048852",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2181.22,
+    "now": "2020-09-01T18:42:43.036510",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2080.88,
+    "now": "2020-09-01T18:42:45.056139",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2289.97,
+    "now": "2020-09-01T18:42:47.047697",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2058.2,
+    "now": "2020-09-01T18:42:49.058502",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2381.62,
+    "now": "2020-09-01T18:42:51.058912",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2312.47,
+    "now": "2020-09-01T18:42:53.060717",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2163.66,
+    "now": "2020-09-01T18:42:55.057793",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2203.54,
+    "now": "2020-09-01T18:42:57.046372",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2123.32,
+    "now": "2020-09-01T18:42:59.045725",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2119.48,
+    "now": "2020-09-01T18:43:01.050738",
+    "percentage": 47,
+    "voltage": 3.62
+}{
+    "current": 2125.52,
+    "now": "2020-09-01T18:43:03.037150",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2256.68,
+    "now": "2020-09-01T18:43:05.058800",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2158.08,
+    "now": "2020-09-01T18:43:07.045437",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2104.02,
+    "now": "2020-09-01T18:43:09.067596",
+    "percentage": 46,
+    "voltage": 3.604
+}{
+    "current": 2169.7,
+    "now": "2020-09-01T18:43:11.043820",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2435.21,
+    "now": "2020-09-01T18:43:13.066025",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2296.55,
+    "now": "2020-09-01T18:43:15.048269",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2547.9,
+    "now": "2020-09-01T18:43:17.053347",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2126.62,
+    "now": "2020-09-01T18:43:19.054383",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2370.73,
+    "now": "2020-09-01T18:43:21.047773",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2388.02,
+    "now": "2020-09-01T18:43:23.064170",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2150.03,
+    "now": "2020-09-01T18:43:25.055946",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2172.26,
+    "now": "2020-09-01T18:43:27.060074",
+    "percentage": 45,
+    "voltage": 3.6
+}{
+    "current": 2018.23,
+    "now": "2020-09-01T18:43:29.060725",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2491.65,
+    "now": "2020-09-01T18:43:31.043556",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2275.06,
+    "now": "2020-09-01T18:43:33.048153",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2418.84,
+    "now": "2020-09-01T18:43:35.041288",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 1982.1,
+    "now": "2020-09-01T18:43:37.062622",
+    "percentage": 45,
+    "voltage": 3.596
+}{
+    "current": 2107.87,
+    "now": "2020-09-01T18:43:39.058412",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2080.06,
+    "now": "2020-09-01T18:43:41.054492",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2228.69,
+    "now": "2020-09-01T18:43:43.046111",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2331.04,
+    "now": "2020-09-01T18:43:45.054018",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2121.4,
+    "now": "2020-09-01T18:43:47.060006",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2223.38,
+    "now": "2020-09-01T18:43:49.044302",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2131.01,
+    "now": "2020-09-01T18:43:51.062753",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2065.15,
+    "now": "2020-09-01T18:43:53.060762",
+    "percentage": 47,
+    "voltage": 3.616
+}{
+    "current": 2130.73,
+    "now": "2020-09-01T18:43:55.061151",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2353.72,
+    "now": "2020-09-01T18:43:57.059946",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2184.33,
+    "now": "2020-09-01T18:43:59.052374",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2056.83,
+    "now": "2020-09-01T18:44:01.051183",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2303.32,
+    "now": "2020-09-01T18:44:03.058738",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2164.57,
+    "now": "2020-09-01T18:44:05.045141",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2079.33,
+    "now": "2020-09-01T18:44:07.053367",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2124.15,
+    "now": "2020-09-01T18:44:09.045136",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2305.61,
+    "now": "2020-09-01T18:44:11.048625",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2370.18,
+    "now": "2020-09-01T18:44:13.046486",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2527.13,
+    "now": "2020-09-01T18:44:15.053698",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2243.69,
+    "now": "2020-09-01T18:44:17.056783",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2173.35,
+    "now": "2020-09-01T18:44:19.049509",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2090.49,
+    "now": "2020-09-01T18:44:21.066541",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2345.58,
+    "now": "2020-09-01T18:44:23.048435",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2355.82,
+    "now": "2020-09-01T18:44:25.049390",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2493.2,
+    "now": "2020-09-01T18:44:27.063836",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2056.37,
+    "now": "2020-09-01T18:44:29.069951",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2247.07,
+    "now": "2020-09-01T18:44:31.061802",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2069.09,
+    "now": "2020-09-01T18:44:33.040919",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2123.14,
+    "now": "2020-09-01T18:44:35.059614",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2692.41,
+    "now": "2020-09-01T18:44:37.044138",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2095.34,
+    "now": "2020-09-01T18:44:39.065027",
+    "percentage": 44,
+    "voltage": 3.584
+}{
+    "current": 2152.32,
+    "now": "2020-09-01T18:44:41.034742",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2120.4,
+    "now": "2020-09-01T18:44:43.062074",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2490.27,
+    "now": "2020-09-01T18:44:45.048104",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2654.82,
+    "now": "2020-09-01T18:44:47.051530",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2489.73,
+    "now": "2020-09-01T18:44:49.045415",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2103.84,
+    "now": "2020-09-01T18:44:51.057501",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2111.34,
+    "now": "2020-09-01T18:44:53.058119",
+    "percentage": 44,
+    "voltage": 3.58
+}{
+    "current": 2191.46,
+    "now": "2020-09-01T18:44:55.038695",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2093.6,
+    "now": "2020-09-01T18:44:57.051839",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2184.97,
+    "now": "2020-09-01T18:44:59.059435",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2171.89,
+    "now": "2020-09-01T18:45:01.055259",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2180.76,
+    "now": "2020-09-01T18:45:03.050539",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2266.65,
+    "now": "2020-09-01T18:45:05.045434",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2181.95,
+    "now": "2020-09-01T18:45:07.054322",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2115.27,
+    "now": "2020-09-01T18:45:09.047463",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2317.32,
+    "now": "2020-09-01T18:45:11.056858",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2204.36,
+    "now": "2020-09-01T18:45:13.060157",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2081.25,
+    "now": "2020-09-01T18:45:15.056163",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2369.73,
+    "now": "2020-09-01T18:45:17.038520",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2282.2,
+    "now": "2020-09-01T18:45:19.045466",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2186.07,
+    "now": "2020-09-01T18:45:21.050114",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2285.67,
+    "now": "2020-09-01T18:45:23.042021",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 1976.62,
+    "now": "2020-09-01T18:45:25.051795",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2216.89,
+    "now": "2020-09-01T18:45:27.058963",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2181.49,
+    "now": "2020-09-01T18:45:29.051463",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2093.23,
+    "now": "2020-09-01T18:45:31.055941",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2285.95,
+    "now": "2020-09-01T18:45:33.065811",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2366.62,
+    "now": "2020-09-01T18:45:35.050213",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2094.05,
+    "now": "2020-09-01T18:45:37.047328",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2378.87,
+    "now": "2020-09-01T18:45:39.051231",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2288.05,
+    "now": "2020-09-01T18:45:41.055800",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2186.8,
+    "now": "2020-09-01T18:45:43.058100",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2384.82,
+    "now": "2020-09-01T18:45:45.044891",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2272.77,
+    "now": "2020-09-01T18:45:47.058746",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2386.46,
+    "now": "2020-09-01T18:45:49.048494",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2164.57,
+    "now": "2020-09-01T18:45:51.058518",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2731.28,
+    "now": "2020-09-01T18:45:53.050191",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2224.02,
+    "now": "2020-09-01T18:45:55.065602",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2533.63,
+    "now": "2020-09-01T18:45:57.066073",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2276.71,
+    "now": "2020-09-01T18:45:59.053788",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2339.54,
+    "now": "2020-09-01T18:46:01.046637",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2114.54,
+    "now": "2020-09-01T18:46:03.068112",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2303.41,
+    "now": "2020-09-01T18:46:05.053319",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2164.48,
+    "now": "2020-09-01T18:46:07.056673",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2243.14,
+    "now": "2020-09-01T18:46:09.049561",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2172.9,
+    "now": "2020-09-01T18:46:11.049321",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2362.13,
+    "now": "2020-09-01T18:46:13.038544",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2388.02,
+    "now": "2020-09-01T18:46:15.038756",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 1984.3,
+    "now": "2020-09-01T18:46:17.060693",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2124.05,
+    "now": "2020-09-01T18:46:19.056583",
+    "percentage": 43,
+    "voltage": 3.568
+}{
+    "current": 2186.62,
+    "now": "2020-09-01T18:46:21.050068",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2348.05,
+    "now": "2020-09-01T18:46:23.064267",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2130.09,
+    "now": "2020-09-01T18:46:25.059119",
+    "percentage": 44,
+    "voltage": 3.588
+}{
+    "current": 2353.45,
+    "now": "2020-09-01T18:46:27.037316",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2400.55,
+    "now": "2020-09-01T18:46:29.040739",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2523.11,
+    "now": "2020-09-01T18:46:31.055859",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2349.05,
+    "now": "2020-09-01T18:46:33.065777",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2542.32,
+    "now": "2020-09-01T18:46:35.052685",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2199.7,
+    "now": "2020-09-01T18:46:37.052361",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2106.22,
+    "now": "2020-09-01T18:46:39.049345",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2194.02,
+    "now": "2020-09-01T18:46:41.055615",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2281.74,
+    "now": "2020-09-01T18:46:43.058721",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2137.96,
+    "now": "2020-09-01T18:46:45.052542",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2147.93,
+    "now": "2020-09-01T18:46:47.048486",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2127.99,
+    "now": "2020-09-01T18:46:49.051213",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2305.98,
+    "now": "2020-09-01T18:46:51.043445",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2152.13,
+    "now": "2020-09-01T18:46:53.051233",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2107.13,
+    "now": "2020-09-01T18:46:55.061397",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 1985.3,
+    "now": "2020-09-01T18:46:57.039198",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2153.05,
+    "now": "2020-09-01T18:46:59.049036",
+    "percentage": 43,
+    "voltage": 3.576
+}{
+    "current": 2145.0,
+    "now": "2020-09-01T18:47:01.039289",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2502.26,
+    "now": "2020-09-01T18:47:03.062696",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2382.07,
+    "now": "2020-09-01T18:47:05.053431",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2209.3,
+    "now": "2020-09-01T18:47:07.071006",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2159.27,
+    "now": "2020-09-01T18:47:09.060988",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2383.26,
+    "now": "2020-09-01T18:47:11.058408",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2288.05,
+    "now": "2020-09-01T18:47:13.055008",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2316.59,
+    "now": "2020-09-01T18:47:15.035810",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2102.38,
+    "now": "2020-09-01T18:47:17.055509",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2426.43,
+    "now": "2020-09-01T18:47:19.055182",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2301.49,
+    "now": "2020-09-01T18:47:21.046366",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2149.94,
+    "now": "2020-09-01T18:47:23.038750",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2155.34,
+    "now": "2020-09-01T18:47:25.053975",
+    "percentage": 42,
+    "voltage": 3.56
+}{
+    "current": 2479.3,
+    "now": "2020-09-01T18:47:27.049916",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2073.2,
+    "now": "2020-09-01T18:47:29.052992",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2159.45,
+    "now": "2020-09-01T18:47:31.065066",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2120.67,
+    "now": "2020-09-01T18:47:33.049908",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2098.72,
+    "now": "2020-09-01T18:47:35.062428",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2294.54,
+    "now": "2020-09-01T18:47:37.057380",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2316.95,
+    "now": "2020-09-01T18:47:39.063680",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2236.28,
+    "now": "2020-09-01T18:47:41.070901",
+    "percentage": 41,
+    "voltage": 3.552
+}{
+    "current": 2383.45,
+    "now": "2020-09-01T18:47:43.046337",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2394.05,
+    "now": "2020-09-01T18:47:45.049083",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2167.96,
+    "now": "2020-09-01T18:47:47.056003",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2254.39,
+    "now": "2020-09-01T18:47:49.060442",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2252.01,
+    "now": "2020-09-01T18:47:51.048101",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2379.42,
+    "now": "2020-09-01T18:47:53.058514",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2352.8,
+    "now": "2020-09-01T18:47:55.039995",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2337.71,
+    "now": "2020-09-01T18:47:57.063047",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2313.93,
+    "now": "2020-09-01T18:47:59.066585",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2174.82,
+    "now": "2020-09-01T18:48:01.056687",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2272.59,
+    "now": "2020-09-01T18:48:03.064688",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2541.95,
+    "now": "2020-09-01T18:48:05.062463",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2217.26,
+    "now": "2020-09-01T18:48:07.044141",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2219.54,
+    "now": "2020-09-01T18:48:09.046633",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2286.22,
+    "now": "2020-09-01T18:48:11.061551",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2250.55,
+    "now": "2020-09-01T18:48:13.057624",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2119.66,
+    "now": "2020-09-01T18:48:15.044300",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2299.57,
+    "now": "2020-09-01T18:48:17.053445",
+    "percentage": 40,
+    "voltage": 3.54
+}{
+    "current": 2195.03,
+    "now": "2020-09-01T18:48:19.073317",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2119.94,
+    "now": "2020-09-01T18:48:21.047296",
+    "percentage": 42,
+    "voltage": 3.564
+}{
+    "current": 2386.01,
+    "now": "2020-09-01T18:48:23.058942",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2190.64,
+    "now": "2020-09-01T18:48:25.059653",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2524.02,
+    "now": "2020-09-01T18:48:27.050133",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2538.84,
+    "now": "2020-09-01T18:48:29.043723",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2236.83,
+    "now": "2020-09-01T18:48:31.057462",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2305.24,
+    "now": "2020-09-01T18:48:33.050020",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2181.22,
+    "now": "2020-09-01T18:48:35.054861",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 1975.24,
+    "now": "2020-09-01T18:48:37.063427",
+    "percentage": 43,
+    "voltage": 3.572
+}{
+    "current": 2637.16,
+    "now": "2020-09-01T18:48:39.064772",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2179.12,
+    "now": "2020-09-01T18:48:41.053829",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2255.03,
+    "now": "2020-09-01T18:48:43.056008",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2465.76,
+    "now": "2020-09-01T18:48:45.049700",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2175.73,
+    "now": "2020-09-01T18:48:47.061676",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2290.34,
+    "now": "2020-09-01T18:48:49.062596",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2430.27,
+    "now": "2020-09-01T18:48:51.059151",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2183.05,
+    "now": "2020-09-01T18:48:53.042645",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2258.14,
+    "now": "2020-09-01T18:48:55.056379",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2581.65,
+    "now": "2020-09-01T18:48:57.054402",
+    "percentage": 41,
+    "voltage": 3.556
+}{
+    "current": 2309.82,
+    "now": "2020-09-01T18:48:59.049749",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2481.13,
+    "now": "2020-09-01T18:49:01.035373",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2185.7,
+    "now": "2020-09-01T18:49:03.050066",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2135.49,
+    "now": "2020-09-01T18:49:05.045495",
+    "percentage": 40,
+    "voltage": 3.544
+}{
+    "current": 2334.15,
+    "now": "2020-09-01T18:49:07.051774",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2203.54,
+    "now": "2020-09-01T18:49:09.063829",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2227.77,
+    "now": "2020-09-01T18:49:11.047316",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2142.26,
+    "now": "2020-09-01T18:49:13.048190",
+    "percentage": 41,
+    "voltage": 3.548
+}{
+    "current": 2355.91,
+    "now": "2020-09-01T18:49:15.047369",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2270.76,
+    "now": "2020-09-01T18:49:17.058651",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2178.66,
+    "now": "2020-09-01T18:49:19.049924",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2260.24,
+    "now": "2020-09-01T18:49:21.059878",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2206.55,
+    "now": "2020-09-01T18:49:23.071231",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2281.92,
+    "now": "2020-09-01T18:49:25.057412",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2134.85,
+    "now": "2020-09-01T18:49:27.049955",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2553.93,
+    "now": "2020-09-01T18:49:29.057894",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2127.99,
+    "now": "2020-09-01T18:49:31.054918",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2148.29,
+    "now": "2020-09-01T18:49:33.066608",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2254.39,
+    "now": "2020-09-01T18:49:35.055196",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2313.75,
+    "now": "2020-09-01T18:49:37.044381",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2179.66,
+    "now": "2020-09-01T18:49:39.069206",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2208.48,
+    "now": "2020-09-01T18:49:41.046074",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2313.57,
+    "now": "2020-09-01T18:49:43.064272",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2445.82,
+    "now": "2020-09-01T18:49:45.041273",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2264.45,
+    "now": "2020-09-01T18:49:47.062727",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2403.2,
+    "now": "2020-09-01T18:49:49.050226",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2131.65,
+    "now": "2020-09-01T18:49:51.045323",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2411.98,
+    "now": "2020-09-01T18:49:53.048078",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2378.32,
+    "now": "2020-09-01T18:49:55.049055",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2468.14,
+    "now": "2020-09-01T18:49:57.046594",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2093.32,
+    "now": "2020-09-01T18:49:59.063207",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2163.38,
+    "now": "2020-09-01T18:50:01.062600",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2055.0,
+    "now": "2020-09-01T18:50:03.065641",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2427.35,
+    "now": "2020-09-01T18:50:05.052275",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2281.37,
+    "now": "2020-09-01T18:50:07.050048",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2031.31,
+    "now": "2020-09-01T18:50:09.053712",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2234.73,
+    "now": "2020-09-01T18:50:11.055939",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2544.7,
+    "now": "2020-09-01T18:50:13.039606",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2249.63,
+    "now": "2020-09-01T18:50:15.055593",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2225.49,
+    "now": "2020-09-01T18:50:17.046385",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2175.18,
+    "now": "2020-09-01T18:50:19.052945",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2680.79,
+    "now": "2020-09-01T18:50:21.063585",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2470.24,
+    "now": "2020-09-01T18:50:23.035639",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2565.37,
+    "now": "2020-09-01T18:50:25.061636",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2170.43,
+    "now": "2020-09-01T18:50:27.057789",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2208.11,
+    "now": "2020-09-01T18:50:29.054320",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2406.13,
+    "now": "2020-09-01T18:50:31.064990",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2115.0,
+    "now": "2020-09-01T18:50:33.047443",
+    "percentage": 39,
+    "voltage": 3.528
+}{
+    "current": 2285.21,
+    "now": "2020-09-01T18:50:35.065574",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2137.32,
+    "now": "2020-09-01T18:50:37.052275",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2569.66,
+    "now": "2020-09-01T18:50:39.051979",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2356.28,
+    "now": "2020-09-01T18:50:41.048588",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2083.45,
+    "now": "2020-09-01T18:50:43.049643",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2302.04,
+    "now": "2020-09-01T18:50:45.041258",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2267.74,
+    "now": "2020-09-01T18:50:47.066932",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2360.95,
+    "now": "2020-09-01T18:50:49.045328",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2141.07,
+    "now": "2020-09-01T18:50:51.049732",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2256.77,
+    "now": "2020-09-01T18:50:53.043163",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2217.99,
+    "now": "2020-09-01T18:50:55.067330",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2512.41,
+    "now": "2020-09-01T18:50:57.057739",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2244.33,
+    "now": "2020-09-01T18:50:59.045077",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2483.05,
+    "now": "2020-09-01T18:51:01.049818",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2401.37,
+    "now": "2020-09-01T18:51:03.049400",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2369.09,
+    "now": "2020-09-01T18:51:05.051316",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2273.87,
+    "now": "2020-09-01T18:51:07.043338",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2404.3,
+    "now": "2020-09-01T18:51:09.046598",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2469.33,
+    "now": "2020-09-01T18:51:11.046962",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2536.37,
+    "now": "2020-09-01T18:51:13.045748",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2157.62,
+    "now": "2020-09-01T18:51:15.070001",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2406.95,
+    "now": "2020-09-01T18:51:17.048175",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2172.62,
+    "now": "2020-09-01T18:51:19.060276",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2703.38,
+    "now": "2020-09-01T18:51:21.058957",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2158.35,
+    "now": "2020-09-01T18:51:23.057347",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2688.38,
+    "now": "2020-09-01T18:51:25.054393",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2299.66,
+    "now": "2020-09-01T18:51:27.044755",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2191.74,
+    "now": "2020-09-01T18:51:29.060112",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2122.59,
+    "now": "2020-09-01T18:51:31.059741",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2227.68,
+    "now": "2020-09-01T18:51:33.051301",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2044.76,
+    "now": "2020-09-01T18:51:35.059453",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2170.15,
+    "now": "2020-09-01T18:51:37.050754",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2121.77,
+    "now": "2020-09-01T18:51:39.055610",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2120.76,
+    "now": "2020-09-01T18:51:41.059426",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2739.51,
+    "now": "2020-09-01T18:51:43.049103",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2193.48,
+    "now": "2020-09-01T18:51:45.056255",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2121.04,
+    "now": "2020-09-01T18:51:47.051569",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2172.35,
+    "now": "2020-09-01T18:51:49.052378",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2047.5,
+    "now": "2020-09-01T18:51:51.049801",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2169.33,
+    "now": "2020-09-01T18:51:53.059043",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2154.88,
+    "now": "2020-09-01T18:51:55.048313",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2621.71,
+    "now": "2020-09-01T18:51:57.052291",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2111.16,
+    "now": "2020-09-01T18:51:59.054357",
+    "percentage": 40,
+    "voltage": 3.536
+}{
+    "current": 2364.05,
+    "now": "2020-09-01T18:52:01.045273",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2152.87,
+    "now": "2020-09-01T18:52:03.054333",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2422.77,
+    "now": "2020-09-01T18:52:05.040968",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2233.63,
+    "now": "2020-09-01T18:52:07.047655",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2195.95,
+    "now": "2020-09-01T18:52:09.046976",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2389.48,
+    "now": "2020-09-01T18:52:11.049855",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2193.2,
+    "now": "2020-09-01T18:52:13.048810",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2740.24,
+    "now": "2020-09-01T18:52:15.050634",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2273.51,
+    "now": "2020-09-01T18:52:17.055192",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2315.12,
+    "now": "2020-09-01T18:52:19.037989",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2154.33,
+    "now": "2020-09-01T18:52:21.060049",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2263.81,
+    "now": "2020-09-01T18:52:23.043730",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2656.01,
+    "now": "2020-09-01T18:52:25.039571",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2113.17,
+    "now": "2020-09-01T18:52:27.061919",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2403.48,
+    "now": "2020-09-01T18:52:29.064176",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2411.52,
+    "now": "2020-09-01T18:52:31.055252",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2144.54,
+    "now": "2020-09-01T18:52:33.059831",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2689.12,
+    "now": "2020-09-01T18:52:35.047852",
+    "percentage": 23,
+    "voltage": 3.356
+}{
+    "current": 2296.37,
+    "now": "2020-09-01T18:52:37.055722",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2720.12,
+    "now": "2020-09-01T18:52:39.070719",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2179.57,
+    "now": "2020-09-01T18:52:41.050787",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2312.84,
+    "now": "2020-09-01T18:52:43.047834",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2145.37,
+    "now": "2020-09-01T18:52:45.046095",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2160.0,
+    "now": "2020-09-01T18:52:47.066904",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2593.9,
+    "now": "2020-09-01T18:52:49.060758",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2151.95,
+    "now": "2020-09-01T18:52:51.050937",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2128.17,
+    "now": "2020-09-01T18:52:53.043245",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2070.09,
+    "now": "2020-09-01T18:52:55.052106",
+    "percentage": 39,
+    "voltage": 3.532
+}{
+    "current": 2654.82,
+    "now": "2020-09-01T18:52:57.054909",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2255.85,
+    "now": "2020-09-01T18:52:59.049017",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2092.77,
+    "now": "2020-09-01T18:53:01.048437",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2185.7,
+    "now": "2020-09-01T18:53:03.046443",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2194.85,
+    "now": "2020-09-01T18:53:05.039144",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2110.34,
+    "now": "2020-09-01T18:53:07.050713",
+    "percentage": 39,
+    "voltage": 3.524
+}{
+    "current": 2115.18,
+    "now": "2020-09-01T18:53:09.042631",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2196.22,
+    "now": "2020-09-01T18:53:11.037921",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2175.46,
+    "now": "2020-09-01T18:53:13.040384",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2428.08,
+    "now": "2020-09-01T18:53:15.048863",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2332.59,
+    "now": "2020-09-01T18:53:17.064882",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2193.02,
+    "now": "2020-09-01T18:53:19.065243",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2275.79,
+    "now": "2020-09-01T18:53:21.034502",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2137.59,
+    "now": "2020-09-01T18:53:23.052127",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2235.09,
+    "now": "2020-09-01T18:53:25.042575",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2102.56,
+    "now": "2020-09-01T18:53:27.048419",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2287.77,
+    "now": "2020-09-01T18:53:29.043301",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2132.84,
+    "now": "2020-09-01T18:53:31.043475",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2230.06,
+    "now": "2020-09-01T18:53:33.055793",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2237.47,
+    "now": "2020-09-01T18:53:35.053909",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2383.17,
+    "now": "2020-09-01T18:53:37.046645",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2170.43,
+    "now": "2020-09-01T18:53:39.061084",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2719.85,
+    "now": "2020-09-01T18:53:41.052482",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2063.14,
+    "now": "2020-09-01T18:53:43.062988",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2121.04,
+    "now": "2020-09-01T18:53:45.043148",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2101.92,
+    "now": "2020-09-01T18:53:47.057911",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2145.73,
+    "now": "2020-09-01T18:53:49.057105",
+    "percentage": 38,
+    "voltage": 3.52
+}{
+    "current": 2230.52,
+    "now": "2020-09-01T18:53:51.049594",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2027.01,
+    "now": "2020-09-01T18:53:53.059694",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2295.37,
+    "now": "2020-09-01T18:53:55.040030",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2008.35,
+    "now": "2020-09-01T18:53:57.056604",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2034.15,
+    "now": "2020-09-01T18:53:59.050345",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2388.02,
+    "now": "2020-09-01T18:54:01.047747",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2212.68,
+    "now": "2020-09-01T18:54:03.044110",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2315.58,
+    "now": "2020-09-01T18:54:05.069977",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2360.85,
+    "now": "2020-09-01T18:54:07.058063",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2090.4,
+    "now": "2020-09-01T18:54:09.053174",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2275.79,
+    "now": "2020-09-01T18:54:11.042077",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2659.3,
+    "now": "2020-09-01T18:54:13.037618",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2188.54,
+    "now": "2020-09-01T18:54:15.048732",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2077.41,
+    "now": "2020-09-01T18:54:17.058896",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2642.74,
+    "now": "2020-09-01T18:54:19.049634",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2115.27,
+    "now": "2020-09-01T18:54:21.038935",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2437.32,
+    "now": "2020-09-01T18:54:23.043766",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2245.06,
+    "now": "2020-09-01T18:54:25.061557",
+    "percentage": 37,
+    "voltage": 3.504
+}{
+    "current": 2080.43,
+    "now": "2020-09-01T18:54:27.044761",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2054.18,
+    "now": "2020-09-01T18:54:29.054361",
+    "percentage": 37,
+    "voltage": 3.508
+}{
+    "current": 2282.2,
+    "now": "2020-09-01T18:54:31.046413",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2347.68,
+    "now": "2020-09-01T18:54:33.055356",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2066.89,
+    "now": "2020-09-01T18:54:35.036632",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2251.65,
+    "now": "2020-09-01T18:54:37.036317",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2246.16,
+    "now": "2020-09-01T18:54:39.034832",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2172.99,
+    "now": "2020-09-01T18:54:41.046752",
+    "percentage": 38,
+    "voltage": 3.516
+}{
+    "current": 2683.54,
+    "now": "2020-09-01T18:54:43.057538",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2510.03,
+    "now": "2020-09-01T18:54:45.047894",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2024.09,
+    "now": "2020-09-01T18:54:47.067533",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2159.63,
+    "now": "2020-09-01T18:54:49.057030",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2177.2,
+    "now": "2020-09-01T18:54:51.050854",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2264.45,
+    "now": "2020-09-01T18:54:53.040173",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2218.72,
+    "now": "2020-09-01T18:54:55.040138",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2204.09,
+    "now": "2020-09-01T18:54:57.041029",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2487.53,
+    "now": "2020-09-01T18:54:59.045666",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2224.12,
+    "now": "2020-09-01T18:55:01.045239",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2276.52,
+    "now": "2020-09-01T18:55:03.045001",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2135.49,
+    "now": "2020-09-01T18:55:05.039261",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2260.06,
+    "now": "2020-09-01T18:55:07.034442",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2135.49,
+    "now": "2020-09-01T18:55:09.047417",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2068.72,
+    "now": "2020-09-01T18:55:11.054398",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2185.34,
+    "now": "2020-09-01T18:55:13.057991",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2329.66,
+    "now": "2020-09-01T18:55:15.033901",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2186.43,
+    "now": "2020-09-01T18:55:17.048042",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2293.54,
+    "now": "2020-09-01T18:55:19.045002",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2123.78,
+    "now": "2020-09-01T18:55:21.045273",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2214.97,
+    "now": "2020-09-01T18:55:23.035613",
+    "percentage": 35,
+    "voltage": 3.488
+}{
+    "current": 2130.09,
+    "now": "2020-09-01T18:55:25.056435",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2172.16,
+    "now": "2020-09-01T18:55:27.060591",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2185.06,
+    "now": "2020-09-01T18:55:29.046975",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2412.07,
+    "now": "2020-09-01T18:55:31.045880",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2468.6,
+    "now": "2020-09-01T18:55:33.056318",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2279.91,
+    "now": "2020-09-01T18:55:35.038183",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2132.56,
+    "now": "2020-09-01T18:55:37.047815",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2375.3,
+    "now": "2020-09-01T18:55:39.047368",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2315.76,
+    "now": "2020-09-01T18:55:41.038571",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2136.49,
+    "now": "2020-09-01T18:55:43.046083",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2073.11,
+    "now": "2020-09-01T18:55:45.054054",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2149.76,
+    "now": "2020-09-01T18:55:47.038205",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2448.02,
+    "now": "2020-09-01T18:55:49.039911",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2207.29,
+    "now": "2020-09-01T18:55:51.038733",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2248.72,
+    "now": "2020-09-01T18:55:53.035370",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2472.26,
+    "now": "2020-09-01T18:55:55.058858",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2292.16,
+    "now": "2020-09-01T18:55:57.044824",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2304.51,
+    "now": "2020-09-01T18:55:59.043063",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2257.77,
+    "now": "2020-09-01T18:56:01.050925",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2030.49,
+    "now": "2020-09-01T18:56:03.034809",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2061.86,
+    "now": "2020-09-01T18:56:05.047440",
+    "percentage": 37,
+    "voltage": 3.512
+}{
+    "current": 2224.48,
+    "now": "2020-09-01T18:56:07.045382",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2485.34,
+    "now": "2020-09-01T18:56:09.054874",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2501.8,
+    "now": "2020-09-01T18:56:11.044355",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2200.06,
+    "now": "2020-09-01T18:56:13.052947",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2373.38,
+    "now": "2020-09-01T18:56:15.037656",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2213.14,
+    "now": "2020-09-01T18:56:17.050820",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2217.44,
+    "now": "2020-09-01T18:56:19.049820",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2158.08,
+    "now": "2020-09-01T18:56:21.056692",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2495.12,
+    "now": "2020-09-01T18:56:23.039155",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2167.23,
+    "now": "2020-09-01T18:56:25.048203",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2059.48,
+    "now": "2020-09-01T18:56:27.057470",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2124.7,
+    "now": "2020-09-01T18:56:29.059680",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2236.65,
+    "now": "2020-09-01T18:56:31.044635",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2446.92,
+    "now": "2020-09-01T18:56:33.045987",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2226.95,
+    "now": "2020-09-01T18:56:35.045249",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2482.32,
+    "now": "2020-09-01T18:56:37.035987",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2520.91,
+    "now": "2020-09-01T18:56:39.056293",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2085.18,
+    "now": "2020-09-01T18:56:41.051281",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2382.71,
+    "now": "2020-09-01T18:56:43.048695",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2280.91,
+    "now": "2020-09-01T18:56:45.040889",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2193.29,
+    "now": "2020-09-01T18:56:47.039696",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2106.4,
+    "now": "2020-09-01T18:56:49.050814",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2090.95,
+    "now": "2020-09-01T18:56:51.046485",
+    "percentage": 36,
+    "voltage": 3.5
+}{
+    "current": 2323.35,
+    "now": "2020-09-01T18:56:53.040364",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2226.86,
+    "now": "2020-09-01T18:56:55.046636",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2339.73,
+    "now": "2020-09-01T18:56:57.037223",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2081.25,
+    "now": "2020-09-01T18:56:59.044803",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2143.17,
+    "now": "2020-09-01T18:57:01.051849",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2221.74,
+    "now": "2020-09-01T18:57:03.051923",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2184.7,
+    "now": "2020-09-01T18:57:05.038526",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2176.83,
+    "now": "2020-09-01T18:57:07.035114",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2274.97,
+    "now": "2020-09-01T18:57:09.054103",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2517.26,
+    "now": "2020-09-01T18:57:11.039260",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2060.95,
+    "now": "2020-09-01T18:57:13.039002",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2105.76,
+    "now": "2020-09-01T18:57:15.038686",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2537.56,
+    "now": "2020-09-01T18:57:17.046055",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2549.63,
+    "now": "2020-09-01T18:57:19.030339",
+    "percentage": 23,
+    "voltage": 3.356
+}{
+    "current": 2063.6,
+    "now": "2020-09-01T18:57:21.041131",
+    "percentage": 36,
+    "voltage": 3.496
+}{
+    "current": 2265.09,
+    "now": "2020-09-01T18:57:23.050153",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2293.17,
+    "now": "2020-09-01T18:57:25.050489",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2323.08,
+    "now": "2020-09-01T18:57:27.042738",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2281.28,
+    "now": "2020-09-01T18:57:29.050486",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2250.27,
+    "now": "2020-09-01T18:57:31.049042",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2216.52,
+    "now": "2020-09-01T18:57:33.037781",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2690.85,
+    "now": "2020-09-01T18:57:35.044036",
+    "percentage": 22,
+    "voltage": 3.34
+}{
+    "current": 2441.07,
+    "now": "2020-09-01T18:57:37.034002",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2392.04,
+    "now": "2020-09-01T18:57:39.038727",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2025.0,
+    "now": "2020-09-01T18:57:41.033416",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2506.83,
+    "now": "2020-09-01T18:57:43.043222",
+    "percentage": 22,
+    "voltage": 3.34
+}{
+    "current": 2217.62,
+    "now": "2020-09-01T18:57:45.044626",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2405.67,
+    "now": "2020-09-01T18:57:47.048566",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2408.23,
+    "now": "2020-09-01T18:57:49.035005",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2098.35,
+    "now": "2020-09-01T18:57:51.054036",
+    "percentage": 36,
+    "voltage": 3.492
+}{
+    "current": 2184.24,
+    "now": "2020-09-01T18:57:53.045152",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2154.05,
+    "now": "2020-09-01T18:57:55.056257",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2381.71,
+    "now": "2020-09-01T18:57:57.034435",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2479.02,
+    "now": "2020-09-01T18:57:59.043282",
+    "percentage": 22,
+    "voltage": 3.34
+}{
+    "current": 2123.96,
+    "now": "2020-09-01T18:58:01.045708",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2278.08,
+    "now": "2020-09-01T18:58:03.047830",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2082.07,
+    "now": "2020-09-01T18:58:05.043093",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2293.08,
+    "now": "2020-09-01T18:58:07.048589",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2161.19,
+    "now": "2020-09-01T18:58:09.043891",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2212.77,
+    "now": "2020-09-01T18:58:11.041622",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2105.85,
+    "now": "2020-09-01T18:58:13.048665",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2344.12,
+    "now": "2020-09-01T18:58:15.041534",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2342.47,
+    "now": "2020-09-01T18:58:17.048777",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2248.72,
+    "now": "2020-09-01T18:58:19.036597",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2315.21,
+    "now": "2020-09-01T18:58:21.045917",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2225.58,
+    "now": "2020-09-01T18:58:23.032971",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2406.31,
+    "now": "2020-09-01T18:58:25.038484",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2358.2,
+    "now": "2020-09-01T18:58:27.040557",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2378.14,
+    "now": "2020-09-01T18:58:29.054522",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2673.84,
+    "now": "2020-09-01T18:58:31.048926",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2109.88,
+    "now": "2020-09-01T18:58:33.047565",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2413.45,
+    "now": "2020-09-01T18:58:35.050883",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2320.61,
+    "now": "2020-09-01T18:58:37.041525",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2072.65,
+    "now": "2020-09-01T18:58:39.045306",
+    "percentage": 35,
+    "voltage": 3.48
+}{
+    "current": 2120.49,
+    "now": "2020-09-01T18:58:41.041715",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2267.74,
+    "now": "2020-09-01T18:58:43.044254",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2244.7,
+    "now": "2020-09-01T18:58:45.056416",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2151.4,
+    "now": "2020-09-01T18:58:47.053240",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2281.92,
+    "now": "2020-09-01T18:58:49.033273",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2470.79,
+    "now": "2020-09-01T18:58:51.043399",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2580.37,
+    "now": "2020-09-01T18:58:53.047620",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2086.01,
+    "now": "2020-09-01T18:58:55.051950",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2331.13,
+    "now": "2020-09-01T18:58:57.045479",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2259.24,
+    "now": "2020-09-01T18:58:59.048088",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2166.13,
+    "now": "2020-09-01T18:59:01.046389",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2554.21,
+    "now": "2020-09-01T18:59:03.050584",
+    "percentage": 22,
+    "voltage": 3.34
+}{
+    "current": 2557.77,
+    "now": "2020-09-01T18:59:05.049733",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2536.37,
+    "now": "2020-09-01T18:59:07.036199",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2077.13,
+    "now": "2020-09-01T18:59:09.054586",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2090.85,
+    "now": "2020-09-01T18:59:11.054273",
+    "percentage": 34,
+    "voltage": 3.472
+}{
+    "current": 2591.43,
+    "now": "2020-09-01T18:59:13.057867",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2345.67,
+    "now": "2020-09-01T18:59:15.044745",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2114.18,
+    "now": "2020-09-01T18:59:17.043146",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2071.37,
+    "now": "2020-09-01T18:59:19.043167",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2269.66,
+    "now": "2020-09-01T18:59:21.040962",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2116.65,
+    "now": "2020-09-01T18:59:23.055854",
+    "percentage": 33,
+    "voltage": 3.468
+}{
+    "current": 2139.24,
+    "now": "2020-09-01T18:59:25.054794",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2149.57,
+    "now": "2020-09-01T18:59:27.046631",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2070.55,
+    "now": "2020-09-01T18:59:29.036417",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2183.69,
+    "now": "2020-09-01T18:59:31.038178",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2330.76,
+    "now": "2020-09-01T18:59:33.031700",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2409.6,
+    "now": "2020-09-01T18:59:35.038571",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2167.5,
+    "now": "2020-09-01T18:59:37.033805",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2113.63,
+    "now": "2020-09-01T18:59:39.054090",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2070.37,
+    "now": "2020-09-01T18:59:41.047218",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2049.88,
+    "now": "2020-09-01T18:59:43.049437",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2143.54,
+    "now": "2020-09-01T18:59:45.043989",
+    "percentage": 34,
+    "voltage": 3.476
+}{
+    "current": 2247.53,
+    "now": "2020-09-01T18:59:47.047861",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2356.01,
+    "now": "2020-09-01T18:59:49.046070",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2339.91,
+    "now": "2020-09-01T18:59:51.053129",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2150.85,
+    "now": "2020-09-01T18:59:53.045153",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2112.53,
+    "now": "2020-09-01T18:59:55.038478",
+    "percentage": 35,
+    "voltage": 3.484
+}{
+    "current": 2447.1,
+    "now": "2020-09-01T18:59:57.044670",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2502.8,
+    "now": "2020-09-01T18:59:59.046610",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2209.12,
+    "now": "2020-09-01T19:00:01.050036",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2267.84,
+    "now": "2020-09-01T19:00:03.032407",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2278.99,
+    "now": "2020-09-01T19:00:05.042779",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2295.27,
+    "now": "2020-09-01T19:00:07.034674",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2363.96,
+    "now": "2020-09-01T19:00:09.037077",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2237.2,
+    "now": "2020-09-01T19:00:11.055186",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2781.13,
+    "now": "2020-09-01T19:00:13.039225",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2720.4,
+    "now": "2020-09-01T19:00:15.039547",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2362.23,
+    "now": "2020-09-01T19:00:17.051639",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2216.98,
+    "now": "2020-09-01T19:00:19.046138",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2071.37,
+    "now": "2020-09-01T19:00:21.053552",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2411.52,
+    "now": "2020-09-01T19:00:23.050360",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2485.98,
+    "now": "2020-09-01T19:00:25.038002",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2176.46,
+    "now": "2020-09-01T19:00:27.053020",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2352.35,
+    "now": "2020-09-01T19:00:29.044343",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2546.89,
+    "now": "2020-09-01T19:00:31.049766",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2192.2,
+    "now": "2020-09-01T19:00:33.074584",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2484.42,
+    "now": "2020-09-01T19:00:35.054056",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2123.51,
+    "now": "2020-09-01T19:00:37.050706",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2754.6,
+    "now": "2020-09-01T19:00:39.043397",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2120.95,
+    "now": "2020-09-01T19:00:41.052850",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2228.23,
+    "now": "2020-09-01T19:00:43.041953",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2325.18,
+    "now": "2020-09-01T19:00:45.046613",
+    "percentage": 25,
+    "voltage": 3.38
+}{
+    "current": 2152.59,
+    "now": "2020-09-01T19:00:47.040666",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2204.63,
+    "now": "2020-09-01T19:00:49.055940",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2390.12,
+    "now": "2020-09-01T19:00:51.045941",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2295.27,
+    "now": "2020-09-01T19:00:53.056807",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2167.5,
+    "now": "2020-09-01T19:00:55.041176",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2132.56,
+    "now": "2020-09-01T19:00:57.046718",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2063.96,
+    "now": "2020-09-01T19:00:59.047123",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2121.59,
+    "now": "2020-09-01T19:01:01.046968",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2324.36,
+    "now": "2020-09-01T19:01:03.025888",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2472.71,
+    "now": "2020-09-01T19:01:05.051270",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2246.89,
+    "now": "2020-09-01T19:01:07.054050",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2218.54,
+    "now": "2020-09-01T19:01:09.037882",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2084.63,
+    "now": "2020-09-01T19:01:11.038384",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2212.04,
+    "now": "2020-09-01T19:01:13.042272",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2276.71,
+    "now": "2020-09-01T19:01:15.048763",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2126.89,
+    "now": "2020-09-01T19:01:17.042859",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2244.24,
+    "now": "2020-09-01T19:01:19.053459",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2237.56,
+    "now": "2020-09-01T19:01:21.031378",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2416.65,
+    "now": "2020-09-01T19:01:23.045462",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2391.95,
+    "now": "2020-09-01T19:01:25.047220",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2232.44,
+    "now": "2020-09-01T19:01:27.046551",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2127.07,
+    "now": "2020-09-01T19:01:29.050740",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2464.76,
+    "now": "2020-09-01T19:01:31.043183",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2302.41,
+    "now": "2020-09-01T19:01:33.036896",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2074.85,
+    "now": "2020-09-01T19:01:35.053914",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2137.5,
+    "now": "2020-09-01T19:01:37.049993",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2393.78,
+    "now": "2020-09-01T19:01:39.038611",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2528.87,
+    "now": "2020-09-01T19:01:41.042633",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2178.57,
+    "now": "2020-09-01T19:01:43.046763",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2389.48,
+    "now": "2020-09-01T19:01:45.039812",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2664.33,
+    "now": "2020-09-01T19:01:47.047905",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2102.2,
+    "now": "2020-09-01T19:01:49.050683",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2644.02,
+    "now": "2020-09-01T19:01:51.040458",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2255.12,
+    "now": "2020-09-01T19:01:53.030933",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2402.93,
+    "now": "2020-09-01T19:01:55.043774",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2277.35,
+    "now": "2020-09-01T19:01:57.035236",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2296.46,
+    "now": "2020-09-01T19:01:59.051541",
+    "percentage": 25,
+    "voltage": 3.38
+}{
+    "current": 2103.84,
+    "now": "2020-09-01T19:02:01.044315",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2689.21,
+    "now": "2020-09-01T19:02:03.038476",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2659.39,
+    "now": "2020-09-01T19:02:05.053071",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2208.11,
+    "now": "2020-09-01T19:02:07.044076",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2047.13,
+    "now": "2020-09-01T19:02:09.053573",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2173.17,
+    "now": "2020-09-01T19:02:11.048467",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2069.63,
+    "now": "2020-09-01T19:02:13.038831",
+    "percentage": 33,
+    "voltage": 3.46
+}{
+    "current": 2284.66,
+    "now": "2020-09-01T19:02:15.046371",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2386.37,
+    "now": "2020-09-01T19:02:17.041953",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2318.23,
+    "now": "2020-09-01T19:02:19.031674",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2290.24,
+    "now": "2020-09-01T19:02:21.044422",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2147.74,
+    "now": "2020-09-01T19:02:23.038508",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2301.68,
+    "now": "2020-09-01T19:02:25.040182",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2164.94,
+    "now": "2020-09-01T19:02:27.042194",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2082.07,
+    "now": "2020-09-01T19:02:29.041903",
+    "percentage": 33,
+    "voltage": 3.464
+}{
+    "current": 2377.32,
+    "now": "2020-09-01T19:02:31.041053",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2221.55,
+    "now": "2020-09-01T19:02:33.051565",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2242.41,
+    "now": "2020-09-01T19:02:35.045425",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2413.35,
+    "now": "2020-09-01T19:02:37.040093",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2340.73,
+    "now": "2020-09-01T19:02:39.040366",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2134.12,
+    "now": "2020-09-01T19:02:41.036807",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2484.7,
+    "now": "2020-09-01T19:02:43.045846",
+    "percentage": 20,
+    "voltage": 3.32
+}{
+    "current": 2201.43,
+    "now": "2020-09-01T19:02:45.038399",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2996.98,
+    "now": "2020-09-01T19:02:47.044084",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2481.22,
+    "now": "2020-09-01T19:02:49.049150",
+    "percentage": 20,
+    "voltage": 3.324
+}{
+    "current": 2538.2,
+    "now": "2020-09-01T19:02:51.041107",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2246.62,
+    "now": "2020-09-01T19:02:53.041336",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2307.71,
+    "now": "2020-09-01T19:02:55.040979",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2192.38,
+    "now": "2020-09-01T19:02:57.040599",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2277.07,
+    "now": "2020-09-01T19:02:59.044976",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2118.48,
+    "now": "2020-09-01T19:03:01.052033",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2329.85,
+    "now": "2020-09-01T19:03:03.022311",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2221.46,
+    "now": "2020-09-01T19:03:05.047505",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2313.29,
+    "now": "2020-09-01T19:03:07.047898",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2339.09,
+    "now": "2020-09-01T19:03:09.040027",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2514.97,
+    "now": "2020-09-01T19:03:11.038409",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2234.82,
+    "now": "2020-09-01T19:03:13.046583",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2058.66,
+    "now": "2020-09-01T19:03:15.045202",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2067.44,
+    "now": "2020-09-01T19:03:17.043902",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2118.2,
+    "now": "2020-09-01T19:03:19.040336",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2649.05,
+    "now": "2020-09-01T19:03:21.040421",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2173.17,
+    "now": "2020-09-01T19:03:23.037443",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2409.79,
+    "now": "2020-09-01T19:03:25.040416",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2180.49,
+    "now": "2020-09-01T19:03:27.046707",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2599.94,
+    "now": "2020-09-01T19:03:29.045001",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2462.65,
+    "now": "2020-09-01T19:03:31.048290",
+    "percentage": 23,
+    "voltage": 3.356
+}{
+    "current": 2402.65,
+    "now": "2020-09-01T19:03:33.038275",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2136.22,
+    "now": "2020-09-01T19:03:35.035249",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2184.24,
+    "now": "2020-09-01T19:03:37.042977",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2087.38,
+    "now": "2020-09-01T19:03:39.046962",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2153.96,
+    "now": "2020-09-01T19:03:41.046261",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2236.46,
+    "now": "2020-09-01T19:03:43.030920",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2332.04,
+    "now": "2020-09-01T19:03:45.034726",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2117.1,
+    "now": "2020-09-01T19:03:47.041213",
+    "percentage": 32,
+    "voltage": 3.452
+}{
+    "current": 2346.13,
+    "now": "2020-09-01T19:03:49.034247",
+    "percentage": 22,
+    "voltage": 3.34
+}{
+    "current": 2243.69,
+    "now": "2020-09-01T19:03:51.054081",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2422.68,
+    "now": "2020-09-01T19:03:53.047771",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2161.74,
+    "now": "2020-09-01T19:03:55.049254",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2234.45,
+    "now": "2020-09-01T19:03:57.049743",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2379.97,
+    "now": "2020-09-01T19:03:59.039269",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2173.99,
+    "now": "2020-09-01T19:04:01.038170",
+    "percentage": 32,
+    "voltage": 3.456
+}{
+    "current": 2297.01,
+    "now": "2020-09-01T19:04:03.034401",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2166.86,
+    "now": "2020-09-01T19:04:05.035844",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2380.24,
+    "now": "2020-09-01T19:04:07.044614",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2480.95,
+    "now": "2020-09-01T19:04:09.037026",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2299.85,
+    "now": "2020-09-01T19:04:11.042042",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2258.87,
+    "now": "2020-09-01T19:04:13.035295",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2123.96,
+    "now": "2020-09-01T19:04:15.051508",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2497.23,
+    "now": "2020-09-01T19:04:17.054451",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2564.54,
+    "now": "2020-09-01T19:04:19.037593",
+    "percentage": 20,
+    "voltage": 3.32
+}{
+    "current": 2324.09,
+    "now": "2020-09-01T19:04:21.043053",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2517.8,
+    "now": "2020-09-01T19:04:23.044695",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2405.76,
+    "now": "2020-09-01T19:04:25.044615",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2269.12,
+    "now": "2020-09-01T19:04:27.042079",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2524.57,
+    "now": "2020-09-01T19:04:29.044864",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2341.37,
+    "now": "2020-09-01T19:04:31.048930",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2357.93,
+    "now": "2020-09-01T19:04:33.045349",
+    "percentage": 21,
+    "voltage": 3.336
+}{
+    "current": 2405.76,
+    "now": "2020-09-01T19:04:35.048507",
+    "percentage": 21,
+    "voltage": 3.336
+}{
+    "current": 2185.24,
+    "now": "2020-09-01T19:04:37.040270",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2383.35,
+    "now": "2020-09-01T19:04:39.039397",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2141.16,
+    "now": "2020-09-01T19:04:41.045796",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2145.37,
+    "now": "2020-09-01T19:04:43.041195",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2669.63,
+    "now": "2020-09-01T19:04:45.044359",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2217.62,
+    "now": "2020-09-01T19:04:47.047231",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2397.35,
+    "now": "2020-09-01T19:04:49.044983",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2425.61,
+    "now": "2020-09-01T19:04:51.038540",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2227.13,
+    "now": "2020-09-01T19:04:53.043386",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2594.27,
+    "now": "2020-09-01T19:04:55.040335",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2914.85,
+    "now": "2020-09-01T19:04:57.051938",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2092.5,
+    "now": "2020-09-01T19:04:59.041846",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2135.85,
+    "now": "2020-09-01T19:05:01.036469",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2163.02,
+    "now": "2020-09-01T19:05:03.044138",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2265.18,
+    "now": "2020-09-01T19:05:05.036645",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2313.57,
+    "now": "2020-09-01T19:05:07.040624",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2289.79,
+    "now": "2020-09-01T19:05:09.042479",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2160.09,
+    "now": "2020-09-01T19:05:11.066053",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2084.18,
+    "now": "2020-09-01T19:05:13.058209",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2211.13,
+    "now": "2020-09-01T19:05:15.050040",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2423.05,
+    "now": "2020-09-01T19:05:17.045964",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2183.87,
+    "now": "2020-09-01T19:05:19.037290",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2439.88,
+    "now": "2020-09-01T19:05:21.038766",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2231.89,
+    "now": "2020-09-01T19:05:23.037348",
+    "percentage": 31,
+    "voltage": 3.444
+}{
+    "current": 2632.23,
+    "now": "2020-09-01T19:05:25.037955",
+    "percentage": 19,
+    "voltage": 3.312
+}{
+    "current": 2265.73,
+    "now": "2020-09-01T19:05:27.038511",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2401.28,
+    "now": "2020-09-01T19:05:29.051356",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2323.08,
+    "now": "2020-09-01T19:05:31.044581",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2135.49,
+    "now": "2020-09-01T19:05:33.053361",
+    "percentage": 31,
+    "voltage": 3.44
+}{
+    "current": 2139.79,
+    "now": "2020-09-01T19:05:35.054175",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2215.15,
+    "now": "2020-09-01T19:05:37.047237",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2421.31,
+    "now": "2020-09-01T19:05:39.048018",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2253.29,
+    "now": "2020-09-01T19:05:41.042327",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2757.44,
+    "now": "2020-09-01T19:05:43.045073",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2176.83,
+    "now": "2020-09-01T19:05:45.051580",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2150.03,
+    "now": "2020-09-01T19:05:47.041883",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2096.43,
+    "now": "2020-09-01T19:05:49.046163",
+    "percentage": 32,
+    "voltage": 3.448
+}{
+    "current": 2375.03,
+    "now": "2020-09-01T19:05:51.037543",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2404.21,
+    "now": "2020-09-01T19:05:53.035553",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2522.74,
+    "now": "2020-09-01T19:05:55.059854",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2190.0,
+    "now": "2020-09-01T19:05:57.042951",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2348.69,
+    "now": "2020-09-01T19:05:59.048640",
+    "percentage": 20,
+    "voltage": 3.32
+}{
+    "current": 2315.95,
+    "now": "2020-09-01T19:06:01.037486",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2377.13,
+    "now": "2020-09-01T19:06:03.035134",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2266.55,
+    "now": "2020-09-01T19:06:05.033575",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2106.22,
+    "now": "2020-09-01T19:06:07.037556",
+    "percentage": 31,
+    "voltage": 3.436
+}{
+    "current": 2130.27,
+    "now": "2020-09-01T19:06:09.047877",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2207.93,
+    "now": "2020-09-01T19:06:11.048740",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2220.27,
+    "now": "2020-09-01T19:06:13.047793",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2251.46,
+    "now": "2020-09-01T19:06:15.050093",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2156.25,
+    "now": "2020-09-01T19:06:17.038041",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2093.14,
+    "now": "2020-09-01T19:06:19.047574",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2330.67,
+    "now": "2020-09-01T19:06:21.048260",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2230.98,
+    "now": "2020-09-01T19:06:23.035683",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2570.03,
+    "now": "2020-09-01T19:06:25.047421",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2311.28,
+    "now": "2020-09-01T19:06:27.044516",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2237.65,
+    "now": "2020-09-01T19:06:29.048428",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2548.72,
+    "now": "2020-09-01T19:06:31.034828",
+    "percentage": 21,
+    "voltage": 3.336
+}{
+    "current": 2422.13,
+    "now": "2020-09-01T19:06:33.032765",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2346.95,
+    "now": "2020-09-01T19:06:35.043867",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2182.77,
+    "now": "2020-09-01T19:06:37.049724",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2412.07,
+    "now": "2020-09-01T19:06:39.036909",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2260.06,
+    "now": "2020-09-01T19:06:41.039763",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2454.24,
+    "now": "2020-09-01T19:06:43.041706",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2169.7,
+    "now": "2020-09-01T19:06:45.049452",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2414.45,
+    "now": "2020-09-01T19:06:47.048023",
+    "percentage": 21,
+    "voltage": 3.336
+}{
+    "current": 2192.84,
+    "now": "2020-09-01T19:06:49.025637",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2277.35,
+    "now": "2020-09-01T19:06:51.047023",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2252.93,
+    "now": "2020-09-01T19:06:53.043255",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2288.69,
+    "now": "2020-09-01T19:06:55.032761",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2607.71,
+    "now": "2020-09-01T19:06:57.052449",
+    "percentage": 18,
+    "voltage": 3.296
+}{
+    "current": 2178.02,
+    "now": "2020-09-01T19:06:59.038747",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2335.88,
+    "now": "2020-09-01T19:07:01.043146",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2205.64,
+    "now": "2020-09-01T19:07:03.038330",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2188.08,
+    "now": "2020-09-01T19:07:05.044725",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2341.74,
+    "now": "2020-09-01T19:07:07.041626",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2144.63,
+    "now": "2020-09-01T19:07:09.043355",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2243.41,
+    "now": "2020-09-01T19:07:11.038269",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2081.52,
+    "now": "2020-09-01T19:07:13.052931",
+    "percentage": 29,
+    "voltage": 3.424
+}{
+    "current": 2543.05,
+    "now": "2020-09-01T19:07:15.036831",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2311.83,
+    "now": "2020-09-01T19:07:17.044196",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2184.42,
+    "now": "2020-09-01T19:07:19.050071",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2168.32,
+    "now": "2020-09-01T19:07:21.036144",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2235.27,
+    "now": "2020-09-01T19:07:23.039030",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2121.95,
+    "now": "2020-09-01T19:07:25.042086",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2220.91,
+    "now": "2020-09-01T19:07:27.044425",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2774.91,
+    "now": "2020-09-01T19:07:29.046222",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2326.46,
+    "now": "2020-09-01T19:07:31.028659",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2663.14,
+    "now": "2020-09-01T19:07:33.044638",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2097.44,
+    "now": "2020-09-01T19:07:35.037144",
+    "percentage": 25,
+    "voltage": 3.38
+}{
+    "current": 2177.01,
+    "now": "2020-09-01T19:07:37.043562",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2643.2,
+    "now": "2020-09-01T19:07:39.041580",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2142.53,
+    "now": "2020-09-01T19:07:41.043448",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2250.09,
+    "now": "2020-09-01T19:07:43.041054",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2796.86,
+    "now": "2020-09-01T19:07:45.048482",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2766.86,
+    "now": "2020-09-01T19:07:47.051310",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2346.13,
+    "now": "2020-09-01T19:07:49.047398",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2325.27,
+    "now": "2020-09-01T19:07:51.049141",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2490.73,
+    "now": "2020-09-01T19:07:53.048496",
+    "percentage": 18,
+    "voltage": 3.296
+}{
+    "current": 2716.1,
+    "now": "2020-09-01T19:07:55.056321",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2249.54,
+    "now": "2020-09-01T19:07:57.030356",
+    "percentage": 25,
+    "voltage": 3.38
+}{
+    "current": 2827.32,
+    "now": "2020-09-01T19:07:59.049430",
+    "percentage": 26,
+    "voltage": 3.388
+}{
+    "current": 2332.13,
+    "now": "2020-09-01T19:08:01.048480",
+    "percentage": 23,
+    "voltage": 3.356
+}{
+    "current": 2177.2,
+    "now": "2020-09-01T19:08:03.043695",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2101.46,
+    "now": "2020-09-01T19:08:05.056473",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2199.42,
+    "now": "2020-09-01T19:08:07.047275",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2150.4,
+    "now": "2020-09-01T19:08:09.054669",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2289.88,
+    "now": "2020-09-01T19:08:11.045404",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2202.16,
+    "now": "2020-09-01T19:08:13.048671",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2126.62,
+    "now": "2020-09-01T19:08:15.050249",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2227.59,
+    "now": "2020-09-01T19:08:17.041274",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2253.75,
+    "now": "2020-09-01T19:08:19.044020",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2428.54,
+    "now": "2020-09-01T19:08:21.036250",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2182.87,
+    "now": "2020-09-01T19:08:23.047742",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2064.15,
+    "now": "2020-09-01T19:08:25.045178",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2080.34,
+    "now": "2020-09-01T19:08:27.042272",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2257.68,
+    "now": "2020-09-01T19:08:29.035596",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2166.13,
+    "now": "2020-09-01T19:08:31.043878",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2431.55,
+    "now": "2020-09-01T19:08:33.047721",
+    "percentage": 19,
+    "voltage": 3.312
+}{
+    "current": 2209.12,
+    "now": "2020-09-01T19:08:35.046105",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2464.57,
+    "now": "2020-09-01T19:08:37.045512",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2185.06,
+    "now": "2020-09-01T19:08:39.036184",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2154.6,
+    "now": "2020-09-01T19:08:41.036198",
+    "percentage": 30,
+    "voltage": 3.428
+}{
+    "current": 2408.51,
+    "now": "2020-09-01T19:08:43.042539",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2166.68,
+    "now": "2020-09-01T19:08:45.030409",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2150.03,
+    "now": "2020-09-01T19:08:47.033947",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2196.22,
+    "now": "2020-09-01T19:08:49.032305",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2102.84,
+    "now": "2020-09-01T19:08:51.038502",
+    "percentage": 29,
+    "voltage": 3.42
+}{
+    "current": 2518.9,
+    "now": "2020-09-01T19:08:53.046902",
+    "percentage": 19,
+    "voltage": 3.312
+}{
+    "current": 2328.84,
+    "now": "2020-09-01T19:08:55.033894",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2130.0,
+    "now": "2020-09-01T19:08:57.059902",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2273.87,
+    "now": "2020-09-01T19:08:59.054121",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2474.45,
+    "now": "2020-09-01T19:09:01.036849",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2509.39,
+    "now": "2020-09-01T19:09:03.035197",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2400.27,
+    "now": "2020-09-01T19:09:05.036971",
+    "percentage": 19,
+    "voltage": 3.304
+}{
+    "current": 2293.35,
+    "now": "2020-09-01T19:09:07.045973",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2827.77,
+    "now": "2020-09-01T19:09:09.046483",
+    "percentage": 25,
+    "voltage": 3.38
+}{
+    "current": 2265.09,
+    "now": "2020-09-01T19:09:11.049781",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2221.46,
+    "now": "2020-09-01T19:09:13.037611",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2397.16,
+    "now": "2020-09-01T19:09:15.041848",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2538.57,
+    "now": "2020-09-01T19:09:17.053526",
+    "percentage": 16,
+    "voltage": 3.276
+}{
+    "current": 2565.73,
+    "now": "2020-09-01T19:09:19.033796",
+    "percentage": 17,
+    "voltage": 3.284
+}{
+    "current": 2444.45,
+    "now": "2020-09-01T19:09:21.045872",
+    "percentage": 15,
+    "voltage": 3.268
+}{
+    "current": 2364.42,
+    "now": "2020-09-01T19:09:23.033495",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2394.42,
+    "now": "2020-09-01T19:09:25.048938",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2538.48,
+    "now": "2020-09-01T19:09:27.041713",
+    "percentage": 15,
+    "voltage": 3.268
+}{
+    "current": 2485.61,
+    "now": "2020-09-01T19:09:29.034550",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2350.34,
+    "now": "2020-09-01T19:09:31.034663",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2588.96,
+    "now": "2020-09-01T19:09:33.033182",
+    "percentage": 15,
+    "voltage": 3.264
+}{
+    "current": 2508.29,
+    "now": "2020-09-01T19:09:35.052335",
+    "percentage": 20,
+    "voltage": 3.32
+}{
+    "current": 2138.14,
+    "now": "2020-09-01T19:09:37.054758",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2346.77,
+    "now": "2020-09-01T19:09:39.046389",
+    "percentage": 23,
+    "voltage": 3.356
+}{
+    "current": 2365.52,
+    "now": "2020-09-01T19:09:41.042861",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2244.24,
+    "now": "2020-09-01T19:09:43.048088",
+    "percentage": 30,
+    "voltage": 3.432
+}{
+    "current": 2334.42,
+    "now": "2020-09-01T19:09:45.041427",
+    "percentage": 21,
+    "voltage": 3.336
+}{
+    "current": 2447.47,
+    "now": "2020-09-01T19:09:47.034829",
+    "percentage": 17,
+    "voltage": 3.292
+}{
+    "current": 2370.37,
+    "now": "2020-09-01T19:09:49.034771",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2364.79,
+    "now": "2020-09-01T19:09:51.034399",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2156.16,
+    "now": "2020-09-01T19:09:53.038802",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2119.48,
+    "now": "2020-09-01T19:09:55.042298",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2151.04,
+    "now": "2020-09-01T19:09:57.036757",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2192.29,
+    "now": "2020-09-01T19:09:59.050592",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2375.95,
+    "now": "2020-09-01T19:10:01.041197",
+    "percentage": 20,
+    "voltage": 3.32
+}{
+    "current": 2306.16,
+    "now": "2020-09-01T19:10:03.038856",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2094.05,
+    "now": "2020-09-01T19:10:05.044346",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2373.11,
+    "now": "2020-09-01T19:10:07.050597",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2205.27,
+    "now": "2020-09-01T19:10:09.037622",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2485.52,
+    "now": "2020-09-01T19:10:11.053778",
+    "percentage": 16,
+    "voltage": 3.272
+}{
+    "current": 2239.39,
+    "now": "2020-09-01T19:10:13.046360",
+    "percentage": 28,
+    "voltage": 3.412
+}{
+    "current": 2141.16,
+    "now": "2020-09-01T19:10:15.038133",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2253.57,
+    "now": "2020-09-01T19:10:17.044866",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2622.99,
+    "now": "2020-09-01T19:10:19.046501",
+    "percentage": 13,
+    "voltage": 3.24
+}{
+    "current": 2243.05,
+    "now": "2020-09-01T19:10:21.050689",
+    "percentage": 25,
+    "voltage": 3.38
+}{
+    "current": 2448.02,
+    "now": "2020-09-01T19:10:23.041194",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2115.64,
+    "now": "2020-09-01T19:10:25.037680",
+    "percentage": 29,
+    "voltage": 3.416
+}{
+    "current": 2215.98,
+    "now": "2020-09-01T19:10:27.033260",
+    "percentage": 27,
+    "voltage": 3.4
+}{
+    "current": 2237.74,
+    "now": "2020-09-01T19:10:29.053250",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2384.73,
+    "now": "2020-09-01T19:10:31.041584",
+    "percentage": 23,
+    "voltage": 3.356
+}{
+    "current": 2214.79,
+    "now": "2020-09-01T19:10:33.050325",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2290.15,
+    "now": "2020-09-01T19:10:35.028448",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2292.26,
+    "now": "2020-09-01T19:10:37.041135",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2407.32,
+    "now": "2020-09-01T19:10:39.048059",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2138.78,
+    "now": "2020-09-01T19:10:41.029439",
+    "percentage": 23,
+    "voltage": 3.356
+}{
+    "current": 2196.13,
+    "now": "2020-09-01T19:10:43.057104",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2431.37,
+    "now": "2020-09-01T19:10:45.030851",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2237.01,
+    "now": "2020-09-01T19:10:47.054142",
+    "percentage": 28,
+    "voltage": 3.404
+}{
+    "current": 2350.43,
+    "now": "2020-09-01T19:10:49.042804",
+    "percentage": 22,
+    "voltage": 3.34
+}{
+    "current": 2232.35,
+    "now": "2020-09-01T19:10:51.055295",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2324.27,
+    "now": "2020-09-01T19:10:53.048678",
+    "percentage": 27,
+    "voltage": 3.392
+}{
+    "current": 2311.92,
+    "now": "2020-09-01T19:10:55.051200",
+    "percentage": 28,
+    "voltage": 3.408
+}{
+    "current": 2440.24,
+    "now": "2020-09-01T19:10:57.048650",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2248.63,
+    "now": "2020-09-01T19:10:59.040604",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2249.36,
+    "now": "2020-09-01T19:11:01.046012",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2242.77,
+    "now": "2020-09-01T19:11:03.046737",
+    "percentage": 27,
+    "voltage": 3.396
+}{
+    "current": 2222.2,
+    "now": "2020-09-01T19:11:05.055122",
+    "percentage": 25,
+    "voltage": 3.376
+}{
+    "current": 2548.45,
+    "now": "2020-09-01T19:11:07.049540",
+    "percentage": 13,
+    "voltage": 3.244
+}{
+    "current": 2484.7,
+    "now": "2020-09-01T19:11:09.035461",
+    "percentage": 17,
+    "voltage": 3.292
+}{
+    "current": 2219.45,
+    "now": "2020-09-01T19:11:11.054297",
+    "percentage": 24,
+    "voltage": 3.364
+}{
+    "current": 2646.04,
+    "now": "2020-09-01T19:11:13.043333",
+    "percentage": 14,
+    "voltage": 3.256
+}{
+    "current": 2438.96,
+    "now": "2020-09-01T19:11:15.057427",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2460.0,
+    "now": "2020-09-01T19:11:17.040075",
+    "percentage": 19,
+    "voltage": 3.312
+}{
+    "current": 2377.04,
+    "now": "2020-09-01T19:11:19.050391",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2401.28,
+    "now": "2020-09-01T19:11:21.703899",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2439.42,
+    "now": "2020-09-01T19:11:23.052150",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2448.02,
+    "now": "2020-09-01T19:11:25.042189",
+    "percentage": 18,
+    "voltage": 3.3
+}{
+    "current": 2250.64,
+    "now": "2020-09-01T19:11:27.037495",
+    "percentage": 26,
+    "voltage": 3.384
+}{
+    "current": 2395.88,
+    "now": "2020-09-01T19:16:27.770608",
+    "percentage": 24,
+    "voltage": 3.368
+}{
+    "current": 2288.78,
+    "now": "2020-09-01T19:16:31.666170",
+    "percentage": 21,
+    "voltage": 3.336
+}{
+    "current": 2394.15,
+    "now": "2020-09-01T19:16:32.696682",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2502.07,
+    "now": "2020-09-01T19:16:33.763666",
+    "percentage": 20,
+    "voltage": 3.324
+}{
+    "current": 2496.86,
+    "now": "2020-09-01T19:16:34.794745",
+    "percentage": 17,
+    "voltage": 3.284
+}{
+    "current": 2464.3,
+    "now": "2020-09-01T19:16:35.822205",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2540.3,
+    "now": "2020-09-01T19:16:36.873931",
+    "percentage": 14,
+    "voltage": 3.256
+}{
+    "current": 2379.51,
+    "now": "2020-09-01T19:16:37.914936",
+    "percentage": 25,
+    "voltage": 3.372
+}{
+    "current": 2300.12,
+    "now": "2020-09-01T19:16:38.962407",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2318.05,
+    "now": "2020-09-01T19:16:40.003773",
+    "percentage": 19,
+    "voltage": 3.312
+}{
+    "current": 2221.55,
+    "now": "2020-09-01T19:16:41.034307",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2509.57,
+    "now": "2020-09-01T19:16:42.067620",
+    "percentage": 16,
+    "voltage": 3.276
+}{
+    "current": 2323.08,
+    "now": "2020-09-01T19:16:43.113236",
+    "percentage": 23,
+    "voltage": 3.352
+}{
+    "current": 2539.02,
+    "now": "2020-09-01T19:16:44.153017",
+    "percentage": 17,
+    "voltage": 3.292
+}{
+    "current": 2608.45,
+    "now": "2020-09-01T19:16:45.193204",
+    "percentage": 16,
+    "voltage": 3.276
+}{
+    "current": 2203.17,
+    "now": "2020-09-01T19:16:46.236576",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2543.69,
+    "now": "2020-09-01T19:16:47.268196",
+    "percentage": 16,
+    "voltage": 3.276
+}{
+    "current": 2191.74,
+    "now": "2020-09-01T19:16:48.324844",
+    "percentage": 21,
+    "voltage": 3.336
+}{
+    "current": 2393.87,
+    "now": "2020-09-01T19:16:49.352256",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2371.01,
+    "now": "2020-09-01T19:16:50.400322",
+    "percentage": 20,
+    "voltage": 3.32
+}{
+    "current": 2702.29,
+    "now": "2020-09-01T19:16:51.442781",
+    "percentage": 13,
+    "voltage": 3.248
+}{
+    "current": 2322.8,
+    "now": "2020-09-01T19:16:52.484064",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2581.92,
+    "now": "2020-09-01T19:16:53.518630",
+    "percentage": 14,
+    "voltage": 3.256
+}{
+    "current": 2878.54,
+    "now": "2020-09-01T19:16:54.557953",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2292.07,
+    "now": "2020-09-01T19:16:55.613709",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2570.67,
+    "now": "2020-09-01T19:16:56.674110",
+    "percentage": 20,
+    "voltage": 3.324
+}{
+    "current": 2364.79,
+    "now": "2020-09-01T19:16:57.727872",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2306.98,
+    "now": "2020-09-01T19:16:58.786175",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2466.86,
+    "now": "2020-09-01T19:16:59.835654",
+    "percentage": 11,
+    "voltage": 3.22
+}{
+    "current": 2471.8,
+    "now": "2020-09-01T19:17:00.880952",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2242.13,
+    "now": "2020-09-01T19:17:01.916879",
+    "percentage": 17,
+    "voltage": 3.292
+}{
+    "current": 2479.76,
+    "now": "2020-09-01T19:17:02.960292",
+    "percentage": 18,
+    "voltage": 3.3
+}{
+    "current": 2652.8,
+    "now": "2020-09-01T19:17:04.019619",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2396.34,
+    "now": "2020-09-01T19:17:05.076269",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2520.64,
+    "now": "2020-09-01T19:17:06.113842",
+    "percentage": 17,
+    "voltage": 3.292
+}{
+    "current": 2395.34,
+    "now": "2020-09-01T19:17:07.870964",
+    "percentage": 19,
+    "voltage": 3.312
+}{
+    "current": 2168.23,
+    "now": "2020-09-01T19:17:09.888780",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2300.3,
+    "now": "2020-09-01T19:17:11.866578",
+    "percentage": 18,
+    "voltage": 3.3
+}{
+    "current": 2320.79,
+    "now": "2020-09-01T19:17:13.854754",
+    "percentage": 21,
+    "voltage": 3.332
+}{
+    "current": 2407.96,
+    "now": "2020-09-01T19:17:15.856145",
+    "percentage": 19,
+    "voltage": 3.304
+}{
+    "current": 2701.19,
+    "now": "2020-09-01T19:17:17.870205",
+    "percentage": 10,
+    "voltage": 3.212
+}{
+    "current": 2562.8,
+    "now": "2020-09-01T19:17:19.862062",
+    "percentage": 12,
+    "voltage": 3.236
+}{
+    "current": 2511.68,
+    "now": "2020-09-01T19:17:21.868452",
+    "percentage": 16,
+    "voltage": 3.272
+}{
+    "current": 2607.99,
+    "now": "2020-09-01T19:17:23.861753",
+    "percentage": 14,
+    "voltage": 3.252
+}{
+    "current": 2389.48,
+    "now": "2020-09-01T19:17:25.875683",
+    "percentage": 21,
+    "voltage": 3.328
+}{
+    "current": 2488.72,
+    "now": "2020-09-01T19:17:27.867841",
+    "percentage": 17,
+    "voltage": 3.284
+}{
+    "current": 2451.86,
+    "now": "2020-09-01T19:17:29.873143",
+    "percentage": 18,
+    "voltage": 3.296
+}{
+    "current": 2768.51,
+    "now": "2020-09-01T19:17:31.858668",
+    "percentage": 12,
+    "voltage": 3.228
+}{
+    "current": 2385.91,
+    "now": "2020-09-01T19:17:33.871665",
+    "percentage": 16,
+    "voltage": 3.276
+}{
+    "current": 2320.98,
+    "now": "2020-09-01T19:17:35.883914",
+    "percentage": 22,
+    "voltage": 3.344
+}{
+    "current": 2453.87,
+    "now": "2020-09-01T19:17:37.862187",
+    "percentage": 16,
+    "voltage": 3.276
+}{
+    "current": 2334.79,
+    "now": "2020-09-01T19:17:39.876572",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2683.99,
+    "now": "2020-09-01T19:17:41.863379",
+    "percentage": 11,
+    "voltage": 3.224
+}{
+    "current": 2334.51,
+    "now": "2020-09-01T19:17:43.879468",
+    "percentage": 16,
+    "voltage": 3.28
+}{
+    "current": 2702.65,
+    "now": "2020-09-01T19:17:45.860519",
+    "percentage": 9,
+    "voltage": 3.196
+}{
+    "current": 2574.42,
+    "now": "2020-09-01T19:17:47.881276",
+    "percentage": 11,
+    "voltage": 3.216
+}{
+    "current": 2282.74,
+    "now": "2020-09-01T19:17:49.874924",
+    "percentage": 17,
+    "voltage": 3.288
+}{
+    "current": 2864.63,
+    "now": "2020-09-01T19:17:51.876702",
+    "percentage": 20,
+    "voltage": 3.32
+}{
+    "current": 2318.51,
+    "now": "2020-09-01T19:17:53.868665",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2254.85,
+    "now": "2020-09-01T19:17:55.873618",
+    "percentage": 20,
+    "voltage": 3.324
+}{
+    "current": 2238.38,
+    "now": "2020-09-01T19:17:57.875240",
+    "percentage": 19,
+    "voltage": 3.312
+}{
+    "current": 2243.32,
+    "now": "2020-09-01T19:17:59.870726",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2313.84,
+    "now": "2020-09-01T19:18:01.876917",
+    "percentage": 22,
+    "voltage": 3.34
+}{
+    "current": 2474.63,
+    "now": "2020-09-01T19:18:03.870235",
+    "percentage": 20,
+    "voltage": 3.316
+}{
+    "current": 2903.87,
+    "now": "2020-09-01T19:18:05.871214",
+    "percentage": 23,
+    "voltage": 3.348
+}{
+    "current": 2783.51,
+    "now": "2020-09-01T19:18:07.874152",
+    "percentage": 8,
+    "voltage": 3.188
+}{
+    "current": 2173.26,
+    "now": "2020-09-01T19:18:09.867801",
+    "percentage": 24,
+    "voltage": 3.36
+}{
+    "current": 2415.55,
+    "now": "2020-09-01T19:18:11.876419",
+    "percentage": 19,
+    "voltage": 3.308
+}{
+    "current": 2308.17,
+    "now": "2020-09-01T19:24:13.613360",
+    "percentage": 15,
+    "voltage": 3.26
+}{
+    "current": 2552.74,
+    "now": "2020-09-01T19:24:14.669146",
+    "percentage": 11,
+    "voltage": 3.22
+}{
+    "current": 2558.51,
+    "now": "2020-09-01T19:24:15.700062",
+    "percentage": 11,
+    "voltage": 3.224
+}{
+    "current": 2495.12,
+    "now": "2020-09-01T19:24:16.731323",
+    "percentage": 14,
+    "voltage": 3.252
+}{
+    "current": 2375.58,
+    "now": "2020-09-01T19:24:17.775508",
+    "percentage": 16,
+    "voltage": 3.28
+}{
+    "current": 2415.46,
+    "now": "2020-09-01T19:24:18.812971",
+    "percentage": 17,
+    "voltage": 3.292
+}{
+    "current": 2593.45,
+    "now": "2020-09-01T19:24:19.879153",
+    "percentage": 17,
+    "voltage": 3.284
+}{
+    "current": 2599.21,
+    "now": "2020-09-01T19:24:20.920712",
+    "percentage": 4,
+    "voltage": 3.14
+}{
+    "current": 2328.48,
+    "now": "2020-09-01T19:24:21.980421",
+    "percentage": 17,
+    "voltage": 3.292
+}{
+    "current": 2307.35,
+    "now": "2020-09-01T19:26:40.413985",
+    "percentage": 11,
+    "voltage": 3.216
+}{
+    "current": 2517.9,
+    "now": "2020-09-01T19:26:41.451359",
+    "percentage": 3,
+    "voltage": 3.136
+}{
+    "current": 2771.25,
+    "now": "2020-09-01T19:28:58.416743",
+    "percentage": -1,
+    "voltage": 3.084
+}{
+    "current": 2760.27,
+    "now": "2020-09-01T19:28:59.481725",
+    "percentage": 4,
+    "voltage": 3.14
+}{
+    "current": 2443.08,
+    "now": "2020-09-01T19:29:00.526659",
+    "percentage": 15,
+    "voltage": 3.264
+}{
+    "current": 2644.66,
+    "now": "2020-09-01T19:29:01.572175",
+    "percentage": 7,
+    "voltage": 3.172
+}{
+    "current": 2322.99,
+    "now": "2020-09-01T19:29:02.617986",
+    "percentage": 11,
+    "voltage": 3.22
+}{
+    "current": 2658.84,
+    "now": "2020-09-01T19:29:03.674706",
+    "percentage": 5,
+    "voltage": 3.156
+}{
+    "current": 2591.71,
+    "now": "2020-09-01T19:29:04.713330",
+    "percentage": 7,
+    "voltage": 3.172
+}{
+    "current": 2437.41,
+    "now": "2020-09-01T19:29:05.772324",
+    "percentage": 12,
+    "voltage": 3.228
+}{
+    "current": 2562.71,
+    "now": "2020-09-01T19:29:06.829323",
+    "percentage": 11,
+    "voltage": 3.216
+}{
+    "current": 2556.77,
+    "now": "2020-09-01T19:29:07.882129",
+    "percentage": 9,
+    "voltage": 3.2
+}{
+    "current": 2204.36,
+    "now": "2020-09-01T19:29:08.922279",
+    "percentage": 12,
+    "voltage": 3.232
+}{
+    "current": 2749.12,
+    "now": "2020-09-01T19:29:09.970822",
+    "percentage": 4,
+    "voltage": 3.144
+}{
+    "current": 2399.91,
+    "now": "2020-09-01T19:29:11.007920",
+    "percentage": 7,
+    "voltage": 3.172
+}{
+    "current": 2795.4,
+    "now": "2020-09-01T19:31:14.117670",
+    "percentage": 0,
+    "voltage": 3.1
+}{
+    "current": 2558.87,
+    "now": "2020-09-01T19:31:15.142595",
+    "percentage": 8,
+    "voltage": 3.192
+}{
+    "current": 2374.85,
+    "now": "2020-09-01T19:31:16.195892",
+    "percentage": 8,
+    "voltage": 3.188
+}{
+    "current": 2807.65,
+    "now": "2020-09-01T19:31:17.241159",
+    "percentage": -1,
+    "voltage": 3.092
+}{
+    "current": 2591.43,
+    "now": "2020-09-01T19:31:18.286457",
+    "percentage": 4,
+    "voltage": 3.14
+}{
+    "current": 2772.62,
+    "now": "2020-09-01T19:31:19.340898",
+    "percentage": 0,
+    "voltage": 3.1
+}{
+    "current": 2248.17,
+    "now": "2020-09-01T19:31:20.391058",
+    "percentage": 12,
+    "voltage": 3.236
+}{
+    "current": 2682.62,
+    "now": "2020-09-01T19:31:21.877616",
+    "percentage": 3,
+    "voltage": 3.132
+}{
+    "current": 2541.49,
+    "now": "2020-09-01T19:31:23.872285",
+    "percentage": 9,
+    "voltage": 3.204
+}{
+    "current": 2496.31,
+    "now": "2020-09-01T19:31:25.857927",
+    "percentage": 10,
+    "voltage": 3.212
+}{
+    "current": 2535.73,
+    "now": "2020-09-01T19:31:27.870193",
+    "percentage": 8,
+    "voltage": 3.188
+}{
+    "current": 2908.99,
+    "now": "2020-09-01T19:31:29.893978",
+    "percentage": 13,
+    "voltage": 3.24
+}{
+    "current": 2312.38,
+    "now": "2020-09-01T19:31:31.876492",
+    "percentage": 11,
+    "voltage": 3.224
+}{
+    "current": 2390.67,
+    "now": "2020-09-01T19:31:33.888462",
+    "percentage": 9,
+    "voltage": 3.204
+}{
+    "current": 2437.5,
+    "now": "2020-09-01T19:31:35.911915",
+    "percentage": 8,
+    "voltage": 3.188
+}{
+    "current": 2508.2,
+    "now": "2020-09-01T19:31:37.896007",
+    "percentage": 11,
+    "voltage": 3.22
+}{
+    "current": 2395.15,
+    "now": "2020-09-01T19:31:39.880112",
+    "percentage": 12,
+    "voltage": 3.228
+}{
+    "current": 2592.26,
+    "now": "2020-09-01T19:31:41.872649",
+    "percentage": 7,
+    "voltage": 3.172
+}{
+    "current": 2600.85,
+    "now": "2020-09-01T19:31:43.883809",
+    "percentage": 2,
+    "voltage": 3.12
+}{
+    "current": 2497.04,
+    "now": "2020-09-01T19:31:45.885772",
+    "percentage": 5,
+    "voltage": 3.16
+}{
+    "current": 2413.35,
+    "now": "2020-09-01T19:31:47.878413",
+    "percentage": 11,
+    "voltage": 3.216
+}{
+    "current": 2434.76,
+    "now": "2020-09-01T19:31:49.887192",
+    "percentage": 9,
+    "voltage": 3.2
+}{
+    "current": 2852.2,
+    "now": "2020-09-01T19:31:51.877371",
+    "percentage": 9,
+    "voltage": 3.204
+}{
+    "current": 2472.07,
+    "now": "2020-09-01T19:31:53.872052",
+    "percentage": 10,
+    "voltage": 3.212
+}{
+    "current": 2646.04,
+    "now": "2020-09-01T19:31:55.873729",
+    "percentage": 6,
+    "voltage": 3.164
+}{
+    "current": 2344.76,
+    "now": "2020-09-01T19:31:57.872294",
+    "percentage": 9,
+    "voltage": 3.204
+}{
+    "current": 2346.77,
+    "now": "2020-09-01T19:31:59.881115",
+    "percentage": 10,
+    "voltage": 3.208
+}{
+    "current": 2428.72,
+    "now": "2020-09-01T19:32:01.867698",
+    "percentage": 8,
+    "voltage": 3.192
+}{
+    "current": 2531.07,
+    "now": "2020-09-01T19:32:03.869110",
+    "percentage": 6,
+    "voltage": 3.164
+}{
+    "current": 2275.52,
+    "now": "2020-09-01T19:32:05.877295",
+    "percentage": 11,
+    "voltage": 3.224
+}{
+    "current": 2568.29,
+    "now": "2020-09-01T19:32:07.880184",
+    "percentage": 7,
+    "voltage": 3.176
+}{
+    "current": 2441.8,
+    "now": "2020-09-01T19:32:09.882073",
+    "percentage": 12,
+    "voltage": 3.228
+}{
+    "current": 2390.85,
+    "now": "2020-09-01T19:32:11.870281",
+    "percentage": 11,
+    "voltage": 3.224
+}{
+    "current": 2925.55,
+    "now": "2020-09-01T19:32:18.976686",
+    "percentage": 11,
+    "voltage": 3.216
+}{
+    "current": 2429.91,
+    "now": "2020-09-01T19:32:20.866373",
+    "percentage": 8,
+    "voltage": 3.184
+}{
+    "current": 2289.05,
+    "now": "2020-09-01T19:32:25.665567",
+    "percentage": 9,
+    "voltage": 3.2
+}{
+    "current": 2899.66,
+    "now": "2020-09-01T19:33:43.113413",
+    "percentage": -4,
+    "voltage": 3.06
+}{
+    "current": 2617.23,
+    "now": "2020-09-01T19:33:44.158781",
+    "percentage": 9,
+    "voltage": 3.2
+}{
+    "current": 2663.6,
+    "now": "2020-09-01T19:33:45.302500",
+    "percentage": -1,
+    "voltage": 3.084
+}{
+    "current": 2963.05,
+    "now": "2020-09-01T19:33:46.348641",
+    "percentage": 3,
+    "voltage": 3.132
+}{
+    "current": 2866.92,
+    "now": "2020-09-01T19:33:47.400996",
+    "percentage": -2,
+    "voltage": 3.076
+}{
+    "current": 2616.86,
+    "now": "2020-09-01T19:33:48.437467",
+    "percentage": -3,
+    "voltage": 3.064
+}{
+    "current": 2420.12,
+    "now": "2020-09-01T19:33:49.502210",
+    "percentage": 4,
+    "voltage": 3.14
+}{
+    "current": 2358.57,
+    "now": "2020-09-01T19:33:50.552472",
+    "percentage": 5,
+    "voltage": 3.152
+}{
+    "current": 2563.45,
+    "now": "2020-09-01T19:33:51.582874",
+    "percentage": 7,
+    "voltage": 3.172
+}{
+    "current": 2283.57,
+    "now": "2020-09-01T19:33:52.620443",
+    "percentage": 8,
+    "voltage": 3.188
+}{
+    "current": 2434.21,
+    "now": "2020-09-01T19:33:53.651287",
+    "percentage": 7,
+    "voltage": 3.176
+}{
+    "current": 2259.88,
+    "now": "2020-09-01T19:33:54.697290",
+    "percentage": 9,
+    "voltage": 3.2
+}{
+    "current": 2667.9,
+    "now": "2020-09-01T19:33:55.736585",
+    "percentage": 3,
+    "voltage": 3.136
+}{
+    "current": 2848.81,
+    "now": "2020-09-01T19:33:56.772496",
+    "percentage": -3,
+    "voltage": 3.064
+}{
+    "current": 2424.33,
+    "now": "2020-09-01T19:33:57.820509",
+    "percentage": 6,
+    "voltage": 3.164
+}{
+    "current": 2513.05,
+    "now": "2020-09-01T19:33:58.882495",
+    "percentage": 6,
+    "voltage": 3.168
+}{
+    "current": 2915.85,
+    "now": "2020-09-01T19:33:59.927386",
+    "percentage": 8,
+    "voltage": 3.192
+}{
+    "current": 2378.69,
+    "now": "2020-09-01T19:35:25.453101",
+    "percentage": 11,
+    "voltage": 3.216
+}{
+    "current": 2388.66,
+    "now": "2020-09-01T19:35:26.486713",
+    "percentage": 4,
+    "voltage": 3.14
+}{
+    "current": 2616.86,
+    "now": "2020-09-01T19:35:27.539511",
+    "percentage": 6,
+    "voltage": 3.168
+}{
+    "current": 2579.27,
+    "now": "2020-09-01T19:35:28.577072",
+    "percentage": 3,
+    "voltage": 3.136
+}{
+    "current": 2484.24,
+    "now": "2020-09-01T19:37:55.013452",
+    "percentage": 4,
+    "voltage": 3.148
+}{
+    "current": 2588.69,
+    "now": "2020-09-01T19:37:56.039173",
+    "percentage": -2,
+    "voltage": 3.08
+}{
+    "current": 2295.46,
+    "now": "2020-09-01T19:37:57.087640",
+    "percentage": 7,
+    "voltage": 3.176
+}{
+    "current": 2564.27,
+    "now": "2020-09-01T19:37:58.140559",
+    "percentage": 1,
+    "voltage": 3.112
+}{
+    "current": 2570.49,
+    "now": "2020-09-01T19:37:59.167228",
+    "percentage": 3,
+    "voltage": 3.136
+}{
+    "current": 2436.95,
+    "now": "2020-09-01T19:38:00.226486",
+    "percentage": 4,
+    "voltage": 3.148
+}{
+    "current": 2917.13,
+    "now": "2020-09-01T19:38:01.282283",
+    "percentage": -7,
+    "voltage": 3.024
+}{
+    "current": 2343.11,
+    "now": "2020-09-01T19:38:02.331586",
+    "percentage": 8,
+    "voltage": 3.184
+}{
+    "current": 2511.95,
+    "now": "2020-09-01T19:38:03.390712",
+    "percentage": 7,
+    "voltage": 3.18
+}{
+    "current": 2378.51,
+    "now": "2020-09-01T19:38:04.449228",
+    "percentage": 2,
+    "voltage": 3.12
+}{
+    "current": 2457.62,
+    "now": "2020-09-01T19:38:23.946503",
+    "percentage": 3,
+    "voltage": 3.136
+}{
+    "current": 2361.95,
+    "now": "2020-09-01T19:38:28.903415",
+    "percentage": 4,
+    "voltage": 3.148
+}{
+    "current": 2406.77,
+    "now": "2020-09-01T19:44:25.933414",
+    "percentage": 3,
+    "voltage": 3.132
+}{
+    "current": 2632.13,
+    "now": "2020-09-01T19:45:23.534892",
+    "percentage": -2,
+    "voltage": 3.076
+}{
+    "current": 2505.64,
+    "now": "2020-09-01T19:49:12.832501",
+    "percentage": -1,
+    "voltage": 3.092
+}{
+    "current": 2598.93,
+    "now": "2020-09-01T19:49:27.697089",
+    "percentage": -3,
+    "voltage": 3.072
+}{
+    "current": 2353.72,
+    "now": "2020-09-01T19:49:29.155285",
+    "percentage": -1,
+    "voltage": 3.084
+}{
+    "current": 2531.16,
+    "now": "2020-09-01T19:49:31.256043",
+    "percentage": 0,
+    "voltage": 3.1
+}{
+    "current": 2628.57,
+    "now": "2020-09-01T19:49:33.352014",
+    "percentage": -1,
+    "voltage": 3.092
+}{
+    "current": 2580.91,
+    "now": "2020-09-01T19:49:34.672134",
+    "percentage": 0,
+    "voltage": 3.104
+}{
+    "current": 2878.54,
+    "now": "2020-09-01T19:49:35.770752",
+    "percentage": -3,
+    "voltage": 3.072
+}{
+    "current": 2369.09,
+    "now": "2020-09-01T19:51:30.437646",
+    "percentage": -1,
+    "voltage": 3.092
+}{
+    "current": 2682.99,
+    "now": "2020-09-01T19:51:32.792184",
+    "percentage": -5,
+    "voltage": 3.044
+}{
+    "current": 2526.49,
+    "now": "2020-09-01T19:51:33.928473",
+    "percentage": -3,
+    "voltage": 3.064
+}{
+    "current": 2752.41,
+    "now": "2020-09-01T19:52:12.308090",
+    "percentage": -7,
+    "voltage": 3.02
+}{
+    "current": 2523.93,
+    "now": "2020-09-01T19:52:13.352636",
+    "percentage": -3,
+    "voltage": 3.064
+}{
+    "current": 2587.13,
+    "now": "2020-09-01T19:52:14.402149",
+    "percentage": -4,
+    "voltage": 3.06
+}{
+    "current": 2679.05,
+    "now": "2020-09-01T19:52:15.432708",
+    "percentage": -8,
+    "voltage": 3.016
+}{
+    "current": 2612.84,
+    "now": "2020-09-01T19:52:16.466840",
+    "percentage": -7,
+    "voltage": 3.024
+}{
+    "current": 2678.05,
+    "now": "2020-09-01T19:52:17.510904",
+    "percentage": -5,
+    "voltage": 3.048
+}{
+    "current": 2594.09,
+    "now": "2020-09-01T19:52:18.555126",
+    "percentage": -4,
+    "voltage": 3.06
+}{
+    "current": 2521.46,
+    "now": "2020-09-01T19:52:19.583169",
+    "percentage": -4,
+    "voltage": 3.052
+}

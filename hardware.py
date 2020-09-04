@@ -1,5 +1,8 @@
 import time
 import board, busio, adafruit_bno055, adafruit_mcp4725, adafruit_ina219, adafruit_drv2605
+from ina219 import INA219
+from ina219 import DeviceRangeError
+
 import numpy as np
 
 class Hardware:
@@ -7,12 +10,13 @@ class Hardware:
     def __init__(self):
         self.IMU_ADDRESS = 0x29
         self.DRV_ADDRESS = 0x5A
-        self.METER_ADDRESS = 0x40
+        self.METER_ADDRESS = '0x40'
         self.DACL_ADDRESS = 0x62
         self.DACR_ADDRESS = 0x63
 
         self.i2c = busio.I2C(board.SCL, board.SDA)
         devices = self.scan_bus()
+        print(devices)
         if len(devices) == 0: print('* No I/O device found')
 
         if str(self.IMU_ADDRESS) in devices:
@@ -30,9 +34,8 @@ class Hardware:
             self.haptic = None
     
         if str(self.METER_ADDRESS) in devices:
-            self.meter = adafruit_ina219.INA219(self.i2c, self.METER_ADDRESS)
             self.meter = INA219(0.1, 3)
-            self.meter.configure(meter.RANGE_16V)
+            self.meter.configure(self.meter.RANGE_16V)
             print('* Current sensor detected')
         else: 
             self.meter = None
@@ -56,7 +59,7 @@ class Hardware:
         return self.motion != None
 
     def has_meter(self):
-        return self.haptic != None
+        return self.meter != None
 
     def has_left_dac(self):
         return self.leftDAC != None

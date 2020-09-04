@@ -7,10 +7,11 @@ from settings import Parameters
 from camera import Camera
 from neural import Neural 
 
-parameters = Parameters()
-hardware = Hardware()
+
 
 if __name__ == "__main__":
+    parameters = Parameters()
+    hardware = Hardware()
     parser = argparse.ArgumentParser()
 
     parser.add_argument('-s', '--stream', action='store_true', help="enable web stream")

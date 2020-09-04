@@ -17,7 +17,7 @@ class Neural:
         self.parameters = parameters
     
     def process(self, frame):
-        frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        #frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         input_buf = Image.fromarray(frame)
         im = frame
 

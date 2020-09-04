@@ -2,7 +2,7 @@ import cv2, threading, io
 import pyrealsense2 as rs
 import numpy as np
 from PIL import Image, ImageDraw
-from depth import Depth
+from seg import Segmentation
 
 class Camera(threading.Thread): 
 
@@ -19,7 +19,6 @@ class Camera(threading.Thread):
         profile = self.pipeline.start(config)
         self.depth_sensor = profile.get_device().first_depth_sensor().get_depth_scale()
         self.align_stream = rs.align(rs.stream.color)
-        
         self.decimation = rs.decimation_filter()
         self.hole_filling = rs.hole_filling_filter()
         self.spatial = rs.spatial_filter()
@@ -30,12 +29,11 @@ class Camera(threading.Thread):
         threading.Thread.__init__(self)
 
     def prep_depth(self, depth_raw):
-        depth_raw = cv2.applyColorMap(cv2.convertScaleAbs(raw, alpha=self.parameters.colorizer_alpha), cv2.COLORMAP_JET)
+        depth_raw = cv2.applyColorMap(cv2.convertScaleAbs(raw, alpha=self.parameters.depth_colorizer), cv2.COLORMAP_JET)
         depth_raw = cv2.resize(depth_raw, (self.parameters.depth_width, self.parameters.depth_height), cv2.INTER_CUBIC)
         return depth_raw
         
     def prep_filtered(self, depth_out):
-        depth_out = cv2.applyColorMap(cv2.convertScaleAbs(depth_out, alpha=self.parameters.depth_colorizer), cv2.COLORMAP_JET)
         depth_out = cv2.resize(depth_out, (self.parameters.depth_width, self.parameters.depth_height), cv2.INTER_CUBIC)
         return depth_out
 
@@ -53,7 +51,7 @@ class Camera(threading.Thread):
 
             color_image = np.asanyarray(color_frame.get_data())
             
-            raw, filtered = Depth.process(depth_frame, self.parameters)
+            raw, filtered = Segmentation.depth(depth_frame, self.parameters)
             ml_out = self.neural.process(color_image)
 
             if self.parameters.stream == 'depth':
