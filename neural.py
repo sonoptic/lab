@@ -15,8 +15,10 @@ class Neural:
         last_key = sorted(self.labels.keys())[len(self.labels.keys()) - 1]
         self.colors = Neural.random_colors(last_key)
         self.parameters = parameters
+        self.scene = []
     
     def process(self, frame):
+        self.scene = []
         #frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         input_buf = Image.fromarray(frame)
         im = frame
@@ -32,6 +34,10 @@ class Neural:
 
         if ans:
             for obj in ans:
+                self.scene.append({'label': self.labels[obj.label_id],
+                                    'bbox': obj.bounding_box.flatten().tolist(),
+                                    'score': obj.score})
+
                 label_name = "Unknown"
                 if self.labels:
                     label_name = self.labels[obj.label_id]

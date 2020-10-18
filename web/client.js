@@ -1,6 +1,6 @@
 
-const url ='http://192.168.1.105:8000';
-const settingsEndpoint = url + '/params';
+const url ='http://192.168.1.109:8000';
+
 const statusEndpoint = url + '/status'
 
 var path = location.pathname;
@@ -24,6 +24,9 @@ var freqText = document.getElementById("freq");
 var tempText = document.getElementById("temp");
 var memText = document.getElementById("mem");
 var fpsText = document.getElementById("fps");
+var heading_x = document.getElementById("heading_x");
+var heading_y = document.getElementById("heading_y");
+var heading_z = document.getElementById("heading_z");
 
 var hasMotionText = document.getElementById("has_motion")
 var hasMeterText = document.getElementById("has_meter")
@@ -31,17 +34,12 @@ var hasHapticText = document.getElementById("has_haptic")
 var hasDACLText = document.getElementById("has_left_dac")
 var hasDACRText = document.getElementById("has_right_dac")
 
-var decimationMagSlider = document.getElementById("decimation_mag_slider");
-var spatialMagSlider = document.getElementById("spatial_mag_slider");
-var spatialAlphaSlider = document.getElementById("spatial_alpha_slider");
-var spatialDeltaSlider =document.getElementById("spatial_delta_slider");
-var holeMagSlider = document.getElementById("hole_mag_slider");
-var gaussMagSlider = document.getElementById("gauss_mag_slider");
-var zoomSlider = document.getElementById("colorizer_alpha_slider");
-var maskSlider = document.getElementById("mask_slider");
+var depthDecimationSlider = document.getElementById("intensity");
+var depthPrezoomSlider = document.getElementById("timeOn");
+var depthScaleSlider = document.getElementById("timeOff");
 
 
-get_depth_params();
+
 get_status();
 var wsProtocol = (location.protocol === "https:") ? "wss://" : "ws://";
 
@@ -112,8 +110,14 @@ function get_status(){
             tempText.textContent = data["temp"];
             memText.textContent = data["memory"] + "MB";
 
-            setTimeout(get_status, 1000);
-            console.log("> status request")
+            heading_x.textContent = data["heading"]["roll"]
+            heading_y.textContent = data["heading"]["pitch"]
+            heading_z.textContent = data["heading"]["yaw"]
+            depthDecimationSlider.value = data['intensity'];
+            depthPrezoomSlider.value = data['timeUp'];
+            depthScaleSlider.value = data['timeDown'];
+
+            setTimeout(get_status, 320);
         },
         error: function() {
          console.log("error bro");
@@ -121,24 +125,7 @@ function get_status(){
     });
 }
 
-function get_depth_params(){
-    $.ajax(settingsEndpoint, {
-        success: function(data) {
-            decimationMagSlider.value = data['decimation_mag'];
-            spatialMagSlider.value = data['spatial_mag'];
-            spatialAlphaSlider.value = data['spatial_alpha'];
-            spatialDeltaSlider.value =  data['spatial_delta'];
-            holeMagSlider.value = data['hole_mag']
-            gaussMagSlider.value = data['gaussian_mag']
-            zoomSlider.value = data['colorizer_alpha_slider']
-            maskSlider.value = data['mask']
-            console.log(data);
-        },
-        error: function() {
-         console.log("error bro");
-        }
-    });
-}
+
 
 $(document).ready(function(){
     $("[type=range]").change(function(){
@@ -146,7 +133,7 @@ $(document).ready(function(){
         var id = $(this).attr('id');
         console.log(newval, id);
 
-        $.post(settingsEndpoint,
+        $.post(statusEndpoint,
         {
           'slider': id, 
           'value': newval
@@ -158,4 +145,3 @@ $(document).ready(function(){
     });
 });
         
-

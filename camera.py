@@ -1,8 +1,10 @@
 import cv2, threading, io
 import pyrealsense2 as rs
 import numpy as np
+import pytesseract
+
 from PIL import Image, ImageDraw
-from seg import Segmentation
+from segmentation import Segmentation
 
 class Camera(threading.Thread): 
 
@@ -27,7 +29,7 @@ class Camera(threading.Thread):
         print("camera loop has stared")
 
         threading.Thread.__init__(self)
-
+        
     def prep_depth(self, depth_raw):
         depth_raw = cv2.applyColorMap(cv2.convertScaleAbs(raw, alpha=self.parameters.depth_colorizer), cv2.COLORMAP_JET)
         depth_raw = cv2.resize(depth_raw, (self.parameters.depth_width, self.parameters.depth_height), cv2.INTER_CUBIC)
@@ -38,42 +40,35 @@ class Camera(threading.Thread):
         return depth_out
 
     def prep_color(self, ml_out):
-        return cv2.resize(ml_out, (self.parameters.color_width, self.parameters.color_height), cv2.INTER_CUBIC)
+        return
 
     def run(self):
         while True:
             frames = self.pipeline.wait_for_frames() 
-            depth_frame = frames.get_depth_frame()
-            color_frame = frames.get_color_frame()
-
-            self.decimation.set_option(rs.option.filter_magnitude, self.parameters.decimation_mag)
-            depth_frame = self.decimation.process(depth_frame)
-
-            color_image = np.asanyarray(color_frame.get_data())
             
-            raw, filtered = Segmentation.depth(depth_frame, self.parameters)
+            color_frame = frames.get_color_frame()
+            color_image = np.asanyarray(color_frame.get_data())
+            depth_frame = frames.get_depth_frame()
+            depth_image = np.asanyarray(depth_frame.get_data())
+            #text = pytesseract.image_to_string(color_image)
+            #print(text)
+            #segmented_color = Segmentation.color(color_image, self.parameters) 
             ml_out = self.neural.process(color_image)
 
-            if self.parameters.stream == 'depth':
-                self.stream_frame = self.prep_depth(raw)
+            
 
-            elif self.parameters.stream == 'color':
-                self.stream_frame = self.prep_color(ml_out)
+            self.decimation.set_option(rs.option.filter_magnitude, self.parameters.DECIMATION)
+            depth_frame = self.decimation.process(depth_frame)
+            #segmented_depth = Segmentation.depth(depth_frame, self.parameters)
+            #segmented_color = Segmentation.color(color_image, self.parameters)
 
-            elif self.parameters.stream == 'filtered':
-                self.stream_frame = self.prep_filtered(filtered)
+            depth_colormap = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_JET)
+            depth = cv2.resize(depth_colormap, (self.parameters.depth_width, self.parameters.depth_height), cv2.INTER_CUBIC)
+            #seg_depth = cv2.resize(segmented_depth, (self.parameters.depth_width, self.parameters.depth_height), cv2.INTER_CUBIC)
+            ml = cv2.resize(ml_out, (self.parameters.color_width, self.parameters.color_height), cv2.INTER_CUBIC)
 
-            elif self.parameters.stream == 'depth_color':
-                self.stream_frame = np.hstack((self.prep_color(ml_out), self.prep_depth(raw)))
-
-            elif self.parameters.stream == 'depth_filtered':
-                self.stream_frame = np.hstack((self.prep_depth(raw),  self.prep_filtered(filtered)))
-
-            elif self.parameters.stream == 'color_filtered': 
-                self.stream_frame = np.hstack((self.prep_color(ml_out), self.prep_filtered(filtered)))
-
-            elif self.parameters.stream == 'all':
-                self.stream_frame = np.hstack((self.prep_color(ml_out), self.prep_depth(raw), self.prep_filtered(filtered)))
+            self.stream_frame = np.hstack((ml, depth_colormap))
+            #self.stream_frame = ml
 
     def get_bytes(self):
         pimg = Image.fromarray(self.stream_frame)

@@ -2,22 +2,53 @@
    <head>
       <title>Sonoptic Lab</title>
       <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css" rel="stylesheet">
-      <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
-      <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <link href="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/css/bootstrap4-toggle.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
       <link href="style.css" rel="stylesheet">
       <link href="all.css" rel="stylesheet">
    </head>
    <body>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-         <a class="navbar-brand" href="#">Sonoptic Remote</a>
+         <a class="navbar-brand" href="#">Sonoptic Lab</a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
          <span class="navbar-toggler-icon"></span>
          </button>
          <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mr-auto">
+               <li> 
+                  <span class="navbar-text">
+                  
+                  </span>
+               </li>
+
+               <li> 
+                  <span class="navbar-text">
+                   
+               </li>
+
+               <li> 
+                  <span class="navbar-text">
+                  
+                  </span>
+               </li>
+            </ul>
+
+            <ul class="navbar-nav ml-auto">
+               <li> 
+                  <span class="navbar-text">
+                     <i class="fas fa-battery-full"></i> &nbsp
+                     <strong><span id="perc" ></span></strong> /
+                     <span id="volt" ></span> /  
+                     <span id="amp"></span> &nbsp&nbsp
+                  </span>
+               </li>
+
+             
+
                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Devices </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-plug"></i> </a>
+                  <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                      <a class="dropdown-item" href="#"> <strong> Meter: </strong> <span id="has_meter"> </span></a>
                      <a class="dropdown-item" href="#"> <strong> Motion: </strong> <span id="has_motion"> </span></a>
                      <a class="dropdown-item" href="#"> <strong> Haptic: </strong> <span id="has_haptic"> </span></a>
@@ -26,9 +57,10 @@
                   </div>
                </li>
 
-               <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">   <i class="fas fa-cog"></i> </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+               <li class="nav-item dropdown" >
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">  <i class="fas fa-cog"></i> </a>
+                  <div class="dropdown-menu dropdown-menu-right"  aria-labelledby="navbarDropdown">
                      <a class="dropdown-item" href="#">
                         <strong> <label for="input_ip">IP Address:  </label> </strong>
                         <input type="text" class="classy_input" id="input_ip" value="192.168.1.22">
@@ -39,42 +71,6 @@
                      </a>
                   </div>
                </li>
-           
-               
-            </ul>
-
-            <ul class="navbar-nav ml-auto">
-               <li> 
-                  <span class="navbar-text">
-                     <i class="fas fa-battery-full"></i> 
-                     <strong><span id="perc" ></span></strong> /
-                     <span id="volt" ></span> /  
-                     <span id="amp"></span> &nbsp&nbsp
-                  </span>
-               </li>
-
-               <li> 
-                  <span class="navbar-text">
-                     <i class="fas fa-microchip"></i>
-                     <span id="cpu"></span>  &nbsp&nbsp
-                  </span>
-               </li>
-
-               <li> 
-                  <span class="navbar-text">
-                     <i class="fas fa-temperature-high"></i>
-                     <span id="temp"></span>  &nbsp&nbsp
-                  </span>
-               </li>
-
-               <li> 
-                  <span class="navbar-text">
-                     <i class="fas fa-memory"></i>
-                     <span id="mem"></span>  &nbsp
-                  </span>
-               </li>
-
-              
                <!--<button class="btn btn-outline-success my-2 my-sm-0" type="submit"><i class="fas fa-camera"></i></button>-->
             </ul>
 
@@ -83,7 +79,9 @@
       </nav>
 
       <div class="container h-100">
+         
 
+         <!--STREAM VIEWER-->
          <div class="row"  style="padding-top: 20px;">
             <div class="col-lg-12">
                <div class="card card-accent-primary" id="maincard" >
@@ -96,104 +94,80 @@
          </div>
 
          <div class="row" >
-            <div class="col-lg-6"  style="padding-top: 20px;">
+
+         <!--STATUS -->
+         <div class="col-lg-3"  style="padding-top: 20px;">
                <div class="card" >
                   <div class="card-body">
-                     <h4 class="card-title"> Depth Segmentation</h4>
+                     <h4 class="card-title">System Information</h4>
                   </div>
-                  <div class="container no-gutter">
-                     <div class="row ">
-                        <div class="col-6 inner">
-                           <li class="list-group-item">
-                              <label for="decimation_mag_slider"><strong> Decimation Filter Magnitude: &nbsp</strong></label>
-                              <input type="range" min="1" max="8" value="3" step="1" class="slider" name="decimation_mag_slider" id="decimation_mag_slider">
-                           </li>
-                           <li class="list-group-item">
-                              <label for="PREZOOM"><strong> Pre-Segmentation Zoom: &nbsp</strong></label>
-                              <input type="range" min="0.1" max="1" value="0.5" step="0.1"  class="slider" name="PREZOOM" id="spatial_mag_slider">
-                           </li>
-                           <li class="list-group-item">
-                              <label for="SCALE"><strong> Feltzenwalb Scale: &nbsp</strong></label>
-                              <input type="range" min="1" max="100" value="30" step="1" class="slider" name="SCALE" id="SCALE">
-                           </li>
-                           <li class="list-group-item">
-                              <label for="SIGMA"><strong> Feltzenwalb Sigma: &nbsp</strong></label>
-                              <input type="range" min="0.1" max="1" value="0.5" step="0.1" class="slider" name="SIGMA" id="SIGMA">
-                           </li>
-                        </div>
-                        <div class="col-6 inner">
-                           <li class="list-group-item">
-                              <label for="SIZE"><strong> Feltzenwalb Thereshold: &nbsp</strong></label>
-                              <input type="range" min="10" max="1000" value="200" step="10" class="slider" name="SIZE" id="SIZE">
-                           </li>
-                           <li class="list-group-item">
-                              <label for="FILTER"><strong> Filter Thereshold: &nbsp</strong></label>
-                              <input type="range" min="10" max="1000" value="200" step="10" class="slider" name="FILTER" id="FILTER">
-                           </li>
-                           <li class="list-group-item">
-                              <label for="CONNECTIVITY"><strong> Filter Connectivity: &nbsp</strong></label>
-                              <input type="range" min="0.1" max="1" value="0.5" step="0.1"   class="slider" name="CONNECTIVITY" id="CONNECTIVITY">
-                           </li>
-                        </div>
-                     </div>
+                  <ul class="list-group list-group-flush">
+                     <li class="list-group-item">   <i class="fas fa-microchip"></i>  &nbsp <strong>CPU Usage:</strong>
+                        <span id="cpu"></span>  &nbsp&nbsp </span></li>
+                     <li class="list-group-item">
+                        <i class="fas fa-temperature-high"></i> &nbsp  <strong>CPU Temp :</strong>
+                        <span id="temp"></span>  &nbsp&nbsp
+            
+
+                     </li>
+
+                     <li class="list-group-item">
+                     <i class="fas fa-memory"></i> &nbsp <strong>RAM :</strong>
+                     <span id="mem"></span>/2048MB  &nbsp
+                     </li>
+                  </ul>
                   </div>
-               </div>
+         </div>
+            
+       
+         
+
+            <div class="col-lg-3"  style="padding-top: 20px;">
+               <div class="card" >
+                  <div class="card-body">
+                     <h4 class="card-title">Scene information</h4>
+                  </div>
+                  <ul class="list-group list-group-flush">
+                     <li class="list-group-item"> Inference FPS: </span></li>
+                     <li class="list-group-item"> No of objects: </span></li>
+                  </ul>
+                  </div>
             </div>
 
-            <div class="col-lg-6"  style="padding-top: 20px;">
+            <div class="col-lg-3"  style="padding-top: 20px;">
                <div class="card" >
                   <div class="card-body">
-                     <h4 class="card-title"> Color Segmentation</h4>
+                     <h4 class="card-title">Wristband</h4>
                   </div>
-                  <div class="container no-gutter">
-                     <div class="row ">
-                        <div class="col-6 inner">
-                           <li class="list-group-item">
-                           </li>
-                           <li class="list-group-item">
-                           </li>
-                           <li class="list-group-item">
-                           </li>
-                           <li class="list-group-item">
-                           </li>
-                        </div>
-                        <div class="col-6 inner">
-                           <li class="list-group-item">
-                           </li>
-                           <li class="list-group-item">
-                           </li>
-                           <li class="list-group-item">
-                           </li>
-                           <li class="list-group-item">
-                           </li>
-                        </div>
-                     </div>
+                  <ul class="list-group list-group-flush">
+                     <li class="list-group-item"><Strong>Internal Heading: &nbsp</Strong>
+                        (X: &nbsp<span id="heading_x"></span> &nbsp
+                        Y: &nbsp<span id="heading_y"></span> &nbsp
+                        Z: &nbsp<span id="heading_z"></span>)</li>
+                     <li class="list-group-item">
+                        <label for="intensity"><strong> Vibration Intensity: &nbsp</strong></label>
+                        <input type="range" min="0" max="255" value="0" step="20" class="slider" name="intensity" id="intensity">
+                     </li>
+                     <li class="list-group-item">
+                        <label for="timeOn"><strong> Time on: &nbsp</strong></label>
+                        <input type="range" min="50" max="1000" value="100" step="20" class="slider" name="timeOn" id="timeOn">
+                     </li>
+                     <li class="list-group-item">
+                        <label for="timeOff"><strong> Time on: &nbsp</strong></label>
+                        <input type="range" min="50" max="1000" value="100" step="20" class="slider" name="timeOff" id="timeOff">
+                     </li>
+                  </ul>
                   </div>
-               </div>
-            </div>
+         </div>
+            
+
+          
+
+            
+
+
          </div>
 
-         <div class="row" >
-            <div class="col-lg-6"  style="padding-top: 20px;">
-               <div class="card" >
-                  <div class="card-body">
-                     <h4 class="card-title">Haptic</h4>
-                     <a href="#" class="card-link">Set default</a>
-                  </div>
-                  <div class="container no-gutter">
-                     <div class="row ">
-                        <div class="col-6 inner">
-                           <ul class="list-group list-group-flush">
-                              <li class="list-group-item">Haptic Drivers: <span id="fps"  ></span></li>
-                           </ul>
-                        </div>
-                        <div class="col-6 inner">
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
 
       </div>
    </body>
@@ -203,3 +177,30 @@
    <script type="text/javascript" src="endswith.js"></script>
    <script type="text/javascript" src="client.js"></script>
 </html>
+
+
+  <!--
+            <div class="col-lg-6"  style="padding-top: 20px;">
+                        <div class="card" >
+                           <div class="card-body">
+                              <h4 class="card-title">Two Column Card</h4>
+                           </div>
+                           <div class="container no-gutter">
+                              <div class="row ">
+                                 <div class="col-6 inner">
+                                    <li class="list-group-item"></li>
+                                    <li class="list-group-item"></li>
+                                    <li class="list-group-item"></li>
+                                    <li class="list-group-item"></li>
+                                 </div>
+                                 <div class="col-6 inner">
+                                    <li class="list-group-item"></li>
+                                    <li class="list-group-item"></li>
+                                    <li class="list-group-item"></li>
+                                    <li class="list-group-item"></li>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+         -->
